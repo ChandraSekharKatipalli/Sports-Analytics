@@ -1,0 +1,1858 @@
+match,teamInnings,battingPos,batsmanName,dismissal,runs,balls,4s,6s,SR,Year
+India Vs South Africa,India,1,Yashasvi Jaiswal,c Miller b Jansen,0,3,0,0,0.00,2023
+India Vs South Africa,India,2,Shubman Gill,lbw b Williams,0,2,0,0,0.00,2023
+India Vs South Africa,India,3,Tilak Varma,c Jansen b Coetzee,29,20,4,1,145.00,2023
+India Vs South Africa,India,4,Suryakumar Yadav(c),c Jansen b Shamsi,56,36,5,3,155.55,2023
+India Vs South Africa,India,5,Rinku Singh,,68,39,9,2,174.35,2023
+India Vs South Africa,India,6,Jitesh Sharmaâ€ ,c Stubbs b Markram,1,3,0,0,33.33,2023
+India Vs South Africa,India,7,Ravindra Jadeja,lbw b Coetzee,19,14,1,1,135.71,2023
+India Vs South Africa,India,8,Arshdeep Singh,c Phehlukwayo b Coetzee,0,1,0,0,0.00,2023
+India Vs South Africa,South Africa,1,Reeza Hendricks,c Yadav b Kuldeep Yadav,49,27,8,1,181.48,2023
+India Vs South Africa,South Africa,2,Matthew Breetzke,run out (Tilak Varma/Jadeja/â€ Sharma),16,7,1,1,228.57,2023
+India Vs South Africa,South Africa,3,Aiden Markram(c),c Mohammed Siraj b Mukesh Kumar,30,17,4,1,176.47,2023
+India Vs South Africa,South Africa,4,Heinrich Klaasenâ€ ,c Jaiswal b Mohammed Siraj,7,5,0,1,140.00,2023
+India Vs South Africa,South Africa,5,David Miller,c Mohammed Siraj b Mukesh Kumar,17,12,1,1,141.66,2023
+India Vs South Africa,South Africa,6,Tristan Stubbs,,14,12,2,0,116.66,2023
+India Vs South Africa,South Africa,7,Andile Phehlukwayo,,10,4,0,1,250.00,2023
+India Vs Australia,India,1,Yashasvi Jaiswal,c Ellis b Behrendorff,21,15,1,2,140.00,2023
+India Vs Australia,India,2,Ruturaj Gaikwad,c Behrendorff b Dwarshuis,10,12,2,0,83.33,2023
+India Vs Australia,India,3,Shreyas Iyer, b Ellis,53,37,5,2,143.24,2023
+India Vs Australia,India,4,Suryakumar Yadav(c),c McDermott b Dwarshuis,5,7,0,0,71.42,2023
+India Vs Australia,India,5,Rinku Singh,c David b Sangha,6,8,1,0,75.00,2023
+India Vs Australia,India,6,Jitesh Sharmaâ€ ,c Short b Hardie,24,16,3,1,150.00,2023
+India Vs Australia,India,7,Axar Patel,c Hardie b Behrendorff,31,21,2,1,147.61,2023
+India Vs Australia,India,8,Ravi Bishnoi,run out (Philippe/â€ Wade),2,2,0,0,100.00,2023
+India Vs Australia,India,9,Arshdeep Singh,,2,2,0,0,100.00,2023
+India Vs Australia,Australia,1,Travis Head, b Ravi Bishnoi,28,18,5,1,155.55,2023
+India Vs Australia,Australia,2,Josh Philippe, b Mukesh Kumar,4,4,1,0,100.00,2023
+India Vs Australia,Australia,3,Ben McDermott,c Singh b Arshdeep Singh,54,36,0,5,150.00,2023
+India Vs Australia,Australia,4,Aaron Hardie,c Iyer b Ravi Bishnoi,6,10,1,0,60.00,2023
+India Vs Australia,Australia,5,Tim David,c Avesh Khan b Patel,17,17,0,1,100.00,2023
+India Vs Australia,Australia,6,Matthew Short,c Gaikwad b Mukesh Kumar,16,11,2,0,145.45,2023
+India Vs Australia,Australia,7,Matthew Wade(c)â€ ,c Iyer b Arshdeep Singh,22,15,4,0,146.66,2023
+India Vs Australia,Australia,8,Ben Dwarshuis, b Mukesh Kumar,0,1,0,0,0.00,2023
+India Vs Australia,Australia,9,Nathan Ellis,,4,6,0,0,66.66,2023
+India Vs Australia,Australia,10,Jason Behrendorff,,2,2,0,0,100.00,2023
+India Vs Australia,India,1,Yashasvi Jaiswal,c McDermott b Hardie,37,28,6,1,132.14,2023
+India Vs Australia,India,2,Ruturaj Gaikwad,c Dwarshuis b Sangha,32,28,3,1,114.28,2023
+India Vs Australia,India,3,Shreyas Iyer,c Green b Sangha,8,7,0,0,114.28,2023
+India Vs Australia,India,4,Suryakumar Yadav(c),c â€ Wade b Dwarshuis,1,2,0,0,50.00,2023
+India Vs Australia,India,5,Rinku Singh,lbw b Behrendorff,46,29,4,2,158.62,2023
+India Vs Australia,India,6,Jitesh Sharmaâ€ ,c Head b Dwarshuis,35,19,1,3,184.21,2023
+India Vs Australia,India,7,Axar Patel,c Sangha b Dwarshuis,0,1,0,0,0.00,2023
+India Vs Australia,India,8,Deepak Chahar,c Green b Behrendorff,0,2,0,0,0.00,2023
+India Vs Australia,India,9,Ravi Bishnoi,run out (Philippe/â€ Wade),4,3,0,0,133.33,2023
+India Vs Australia,India,10,Avesh Khan,,1,1,0,0,100.00,2023
+India Vs Australia,Australia,1,Travis Head,c Mukesh Kumar b Patel,31,16,5,1,193.75,2023
+India Vs Australia,Australia,2,Josh Philippe, b Ravi Bishnoi,8,7,2,0,114.28,2023
+India Vs Australia,Australia,3,Ben McDermott, b Patel,19,22,1,0,86.36,2023
+India Vs Australia,Australia,4,Aaron Hardie, b Patel,8,9,1,0,88.88,2023
+India Vs Australia,Australia,5,Tim David,c Jaiswal b Chahar,19,20,0,1,95.00,2023
+India Vs Australia,Australia,6,Matthew Short,c Jaiswal b Chahar,22,19,2,1,115.78,2023
+India Vs Australia,Australia,7,Matthew Wade(c)â€ ,,36,23,2,2,156.52,2023
+India Vs Australia,Australia,8,Ben Dwarshuis, b Avesh Khan,1,2,0,0,50.00,2023
+India Vs Australia,Australia,9,Chris Green,,2,3,0,0,66.66,2023
+India Vs Australia,India,1,Yashasvi Jaiswal,c â€ Wade b Behrendorff,6,6,1,0,100.00,2023
+India Vs Australia,India,2,Ruturaj Gaikwad,,123,57,13,7,215.78,2023
+India Vs Australia,India,3,Ishan Kishanâ€ ,c Stoinis b Richardson,0,5,0,0,0.00,2023
+India Vs Australia,India,4,Suryakumar Yadav(c),c â€ Wade b Hardie,39,29,5,2,134.48,2023
+India Vs Australia,India,5,Tilak Varma,,31,24,4,0,129.16,2023
+India Vs Australia,Australia,1,Travis Head,c Ravi Bishnoi b Avesh Khan,35,18,8,0,194.44,2023
+India Vs Australia,Australia,2,Aaron Hardie,c â€ Ishan Kishan b Arshdeep Singh,16,12,3,0,133.33,2023
+India Vs Australia,Australia,3,Josh Inglis, b Ravi Bishnoi,10,6,2,0,166.66,2023
+India Vs Australia,Australia,4,Glenn Maxwell,,104,48,8,8,216.66,2023
+India Vs Australia,Australia,5,Marcus Stoinis,c Yadav b Patel,17,21,2,0,80.95,2023
+India Vs Australia,Australia,6,Tim David,c Yadav b Ravi Bishnoi,0,1,0,0,0.00,2023
+India Vs Australia,Australia,7,Matthew Wade(c)â€ ,,28,16,3,1,175.00,2023
+India Vs Australia,India,1,Yashasvi Jaiswal,c Zampa b Ellis,53,25,9,2,212.00,2023
+India Vs Australia,India,2,Ruturaj Gaikwad,c David b Ellis,58,43,3,2,134.88,2023
+India Vs Australia,India,3,Ishan Kishanâ€ ,c Ellis b Stoinis,52,32,3,4,162.50,2023
+India Vs Australia,India,4,Suryakumar Yadav(c),c Stoinis b Ellis,19,10,0,2,190.00,2023
+India Vs Australia,India,5,Rinku Singh,,31,9,4,2,344.44,2023
+India Vs Australia,India,6,Tilak Varma,,7,2,0,1,350.00,2023
+India Vs Australia,Australia,1,Steven Smith,c Jaiswal b Prasidh Krishna,19,16,1,1,118.75,2023
+India Vs Australia,Australia,2,Matthew Short, b Ravi Bishnoi,19,10,3,0,190.00,2023
+India Vs Australia,Australia,3,Josh Inglis,c Tilak Varma b Ravi Bishnoi,2,4,0,0,50.00,2023
+India Vs Australia,Australia,4,Glenn Maxwell,c Jaiswal b Patel,12,8,1,1,150.00,2023
+India Vs Australia,Australia,5,Marcus Stoinis,c Patel b Mukesh Kumar,45,25,2,4,180.00,2023
+India Vs Australia,Australia,6,Tim David,c Gaikwad b Ravi Bishnoi,37,22,4,2,168.18,2023
+India Vs Australia,Australia,7,Matthew Wade(c)â€ ,,42,23,1,4,182.60,2023
+India Vs Australia,Australia,8,Sean Abbott, b Prasidh Krishna,1,2,0,0,50.00,2023
+India Vs Australia,Australia,9,Nathan Ellis, b Prasidh Krishna,1,4,0,0,25.00,2023
+India Vs Australia,Australia,10,Adam Zampa, b Arshdeep Singh,1,3,0,0,33.33,2023
+India Vs Australia,Australia,11,Tanveer Sangha,,2,4,0,0,50.00,2023
+Australia Vs India,Australia,1,Steven Smith,run out (Prasidh Krishna/Mukesh Kumar),52,41,8,0,126.82,2023
+Australia Vs India,Australia,2,Matthew Short, b Ravi Bishnoi,13,11,3,0,118.18,2023
+Australia Vs India,Australia,3,Josh Inglis,c Jaiswal b Prasidh Krishna,110,50,11,8,220.00,2023
+Australia Vs India,Australia,4,Marcus Stoinis,,7,6,0,0,116.66,2023
+Australia Vs India,Australia,5,Tim David,,19,13,2,1,146.15,2023
+Australia Vs India,India,1,Yashasvi Jaiswal,c Smith b Short,21,8,2,2,262.50,2023
+Australia Vs India,India,2,Ruturaj Gaikwad,run out (Ellis/â€ Wade),0,0,0,0,-,2023
+Australia Vs India,India,3,Ishan Kishanâ€ ,c Short b Sangha,58,39,2,5,148.71,2023
+Australia Vs India,India,4,Suryakumar Yadav(c),c Hardie b Behrendorff,80,42,9,4,190.47,2023
+Australia Vs India,India,5,Tilak Varma,c Stoinis b Sangha,12,10,2,0,120.00,2023
+Australia Vs India,India,6,Rinku Singh,,22,14,4,0,157.14,2023
+Australia Vs India,India,7,Axar Patel,c & b Abbott,2,6,0,0,33.33,2023
+Australia Vs India,India,8,Ravi Bishnoi,run out (â€ Wade/Abbott),0,1,0,0,0.00,2023
+Australia Vs India,India,9,Arshdeep Singh,run out (Smith/Abbott),0,0,0,0,-,2023
+Australia Vs India,India,10,Mukesh Kumar,,0,0,0,0,-,2023
+Afghanistan Vs Info,Afghanistan,1,Zubaid Akbari,c Arshdeep Singh b Dube,5,8,1,0,62.50,2023
+Afghanistan Vs Info,Afghanistan,2,Mohammad Shahzadâ€ ,c â€ Sharma b Arshdeep Singh,4,6,1,0,66.66,2023
+Afghanistan Vs Info,Afghanistan,3,Noor Ali Zadran,run out (Ravi Bishnoi/â€ Sharma),1,4,0,0,25.00,2023
+Afghanistan Vs Info,Afghanistan,4,Shahidullah,,49,43,3,2,113.95,2023
+Afghanistan Vs Info,Afghanistan,5,Afsar Zazai, b Ravi Bishnoi,15,20,2,0,75.00,2023
+Afghanistan Vs Info,Afghanistan,6,Karim Janat, b Shahbaz Ahmed,1,5,0,0,20.00,2023
+Afghanistan Vs Info,Afghanistan,7,Gulbadin Naib(c),,27,24,1,2,112.50,2023
+Bangladesh Vs India,Bangladesh,1,Parvez Hossain Emon,c Gaikwad b Tilak Varma,23,32,0,2,71.87,2023
+Bangladesh Vs India,Bangladesh,2,Mahmudul Hasan Joy,c Jaiswal b Sai Kishore,5,10,0,0,50.00,2023
+Bangladesh Vs India,Bangladesh,3,Saif Hassan(c),c Singh b Washington Sundar,1,2,0,0,50.00,2023
+Bangladesh Vs India,Bangladesh,4,Zakir Hasan,c Jaiswal b Washington Sundar,0,2,0,0,0.00,2023
+Bangladesh Vs India,Bangladesh,5,Afif Hossain,c Dube b Sai Kishore,7,15,0,0,46.66,2023
+Bangladesh Vs India,Bangladesh,6,Shahadat Hossain,c Tilak Varma b Sai Kishore,5,7,0,0,71.42,2023
+Bangladesh Vs India,Bangladesh,7,Jaker Aliâ€ ,,24,29,0,1,82.75,2023
+Bangladesh Vs India,Bangladesh,8,Mrittunjoy Chowdhury,c â€ Sharma b Ravi Bishnoi,4,11,0,0,36.36,2023
+Bangladesh Vs India,Bangladesh,9,Rakibul Hasan,c Tilak Varma b Shahbaz Ahmed,14,6,2,1,233.33,2023
+Bangladesh Vs India,Bangladesh,10,Ripon Mondol,c Singh b Arshdeep Singh,0,7,0,0,0.00,2023
+Bangladesh Vs India,India,1,Yashasvi Jaiswal,c Mrittunjoy Chowdhury b Mondol,0,4,0,0,0.00,2023
+Bangladesh Vs India,India,2,Ruturaj Gaikwad(c),,40,26,4,3,153.84,2023
+Bangladesh Vs India,India,3,Tilak Varma,,55,26,2,6,211.53,2023
+India Vs Nepal,India,1,Yashasvi Jaiswal,c Bohara b Airee,100,49,8,7,204.08,2023
+India Vs Nepal,India,2,Ruturaj Gaikwad(c),c Paudel b Airee,25,23,4,0,108.69,2023
+India Vs Nepal,India,3,Tilak Varma, b Sompal Kami,2,10,0,0,20.00,2023
+India Vs Nepal,India,4,Jitesh Sharmaâ€ ,c & b Lamichhane,5,4,1,0,125.00,2023
+India Vs Nepal,India,5,Shivam Dube,,25,19,2,1,131.57,2023
+India Vs Nepal,India,6,Rinku Singh,,37,15,2,4,246.66,2023
+India Vs Nepal,Nepal,1,Kushal Bhurtel,c Avesh Khan b Sai Kishore,28,32,4,1,87.50,2023
+India Vs Nepal,Nepal,2,Aasif Sheikhâ€ ,c â€ Sharma b Avesh Khan,10,6,1,1,166.66,2023
+India Vs Nepal,Nepal,3,Kushal Malla,c Singh b Ravi Bishnoi,29,22,2,2,131.81,2023
+India Vs Nepal,Nepal,4,Rohit Paudel(c),lbw b Ravi Bishnoi,3,5,0,0,60.00,2023
+India Vs Nepal,Nepal,5,Dipendra Singh Airee,c Sai Kishore b Ravi Bishnoi,32,15,0,4,213.33,2023
+India Vs Nepal,Nepal,6,Sundeep Jora,c Jaiswal b Arshdeep Singh,29,12,1,3,241.66,2023
+India Vs Nepal,Nepal,7,Sompal Kami,c Sai Kishore b Avesh Khan,7,5,0,1,140.00,2023
+India Vs Nepal,Nepal,8,Gulsan Jha,c Jaiswal b Arshdeep Singh,6,6,1,0,100.00,2023
+India Vs Nepal,Nepal,9,Karan KC,,18,13,1,2,138.46,2023
+India Vs Nepal,Nepal,10,Sandeep Lamichhane,c Sai Kishore b Avesh Khan,5,4,1,0,125.00,2023
+India Vs Nepal,Nepal,11,Abinash Bohara,,0,0,0,0,-,2023
+India Vs Ireland,India,1,Yashasvi Jaiswal,c Campher b Young,18,11,2,1,163.63,2023
+India Vs Ireland,India,2,Ruturaj Gaikwad,c Tector b McCarthy,58,43,6,1,134.88,2023
+India Vs Ireland,India,3,Tilak Varma,c Dockrell b McCarthy,1,2,0,0,50.00,2023
+India Vs Ireland,India,4,Sanju Samsonâ€ , b White,40,26,5,1,153.84,2023
+India Vs Ireland,India,5,Rinku Singh,c Young b Adair,38,21,2,3,180.95,2023
+India Vs Ireland,India,6,Shivam Dube,,22,16,0,2,137.50,2023
+India Vs Ireland,India,7,Washington Sundar,,0,1,0,0,0.00,2023
+India Vs Ireland,Ireland,1,Andy Balbirnie,c â€ Samson b Arshdeep Singh,72,51,5,4,141.17,2023
+India Vs Ireland,Ireland,2,Paul Stirling(c),c Arshdeep Singh b Prasidh Krishna,0,4,0,0,0.00,2023
+India Vs Ireland,Ireland,3,Lorcan Tuckerâ€ ,c Gaikwad b Prasidh Krishna,0,3,0,0,0.00,2023
+India Vs Ireland,Ireland,4,Harry Tector, b Ravi Bishnoi,7,7,1,0,100.00,2023
+India Vs Ireland,Ireland,5,Curtis Campher,c Dube b Ravi Bishnoi,18,17,0,1,105.88,2023
+India Vs Ireland,Ireland,6,George Dockrell,run out (Ravi Bishnoi/â€ Samson),13,11,0,1,118.18,2023
+India Vs Ireland,Ireland,7,Mark Adair,c Tilak Varma b Bumrah,23,15,0,3,153.33,2023
+India Vs Ireland,Ireland,8,Barry McCarthy,c Ravi Bishnoi b Bumrah,2,4,0,0,50.00,2023
+India Vs Ireland,Ireland,9,Craig Young,,1,6,0,0,16.66,2023
+India Vs Ireland,Ireland,10,Josh Little,,0,2,0,0,0.00,2023
+Ireland Vs India,Ireland,1,Andy Balbirnie, b Bumrah,4,2,1,0,200.00,2023
+Ireland Vs India,Ireland,2,Paul Stirling(c), b Ravi Bishnoi,11,11,1,0,100.00,2023
+Ireland Vs India,Ireland,3,Lorcan Tuckerâ€ ,c â€ Samson b Bumrah,0,3,0,0,0.00,2023
+Ireland Vs India,Ireland,4,Harry Tector,c Tilak Varma b Prasidh Krishna,9,16,1,0,56.25,2023
+Ireland Vs India,Ireland,5,Curtis Campher, b Arshdeep Singh,39,33,3,1,118.18,2023
+Ireland Vs India,Ireland,6,George Dockrell,c Gaikwad b Prasidh Krishna,1,3,0,0,33.33,2023
+Ireland Vs India,Ireland,7,Mark Adair,lbw b Ravi Bishnoi,16,16,2,0,100.00,2023
+Ireland Vs India,Ireland,8,Barry McCarthy,,51,33,4,4,154.54,2023
+Ireland Vs India,Ireland,9,Craig Young,,1,4,0,0,25.00,2023
+Ireland Vs India,India,1,Yashasvi Jaiswal,c Stirling b Young,24,23,3,1,104.34,2023
+Ireland Vs India,India,2,Ruturaj Gaikwad,,19,16,1,1,118.75,2023
+Ireland Vs India,India,3,Tilak Varma,c â€ Tucker b Young,0,1,0,0,0.00,2023
+Ireland Vs India,India,4,Sanju Samsonâ€ ,,1,1,0,0,100.00,2023
+India Vs West Indies,India,1,Yashasvi Jaiswal,c & b Hosein,5,4,1,0,125.00,2023
+India Vs West Indies,India,2,Shubman Gill,lbw b Hosein,9,9,1,0,100.00,2023
+India Vs West Indies,India,3,Suryakumar Yadav,lbw b Holder,61,45,4,3,135.55,2023
+India Vs West Indies,India,4,Tilak Varma,c & b Chase,27,18,3,2,150.00,2023
+India Vs West Indies,India,5,Sanju Samsonâ€ ,c â€ Pooran b Shepherd,13,9,2,0,144.44,2023
+India Vs West Indies,India,6,Hardik Pandya(c),c Holder b Shepherd,14,18,0,1,77.77,2023
+India Vs West Indies,India,7,Axar Patel,c Shepherd b Holder,13,10,0,1,130.00,2023
+India Vs West Indies,India,8,Arshdeep Singh, b Shepherd,8,4,0,1,200.00,2023
+India Vs West Indies,India,9,Kuldeep Yadav,lbw b Shepherd,0,1,0,0,0.00,2023
+India Vs West Indies,India,10,Yuzvendra Chahal,,0,1,0,0,0.00,2023
+India Vs West Indies,India,11,Mukesh Kumar,,4,1,1,0,400.00,2023
+India Vs West Indies,West Indies,1,Brandon King,,85,55,5,6,154.54,2023
+India Vs West Indies,West Indies,2,Kyle Mayers,c Jaiswal b Arshdeep Singh,10,5,1,1,200.00,2023
+India Vs West Indies,West Indies,3,Nicholas Pooranâ€ ,c Pandya b Tilak Varma,47,35,1,4,134.28,2023
+India Vs West Indies,West Indies,4,Shai Hope,,22,13,1,1,169.23,2023
+West Indies Vs India,West Indies,1,Kyle Mayers,c â€ Samson b Arshdeep Singh,17,7,2,1,242.85,2023
+West Indies Vs India,West Indies,2,Brandon King,c Kuldeep Yadav b Arshdeep Singh,18,16,0,2,112.50,2023
+West Indies Vs India,West Indies,3,Shai Hope,c Patel b Chahal,45,29,3,2,155.17,2023
+West Indies Vs India,West Indies,4,Nicholas Pooranâ€ ,c Yadav b Kuldeep Yadav,1,3,0,0,33.33,2023
+West Indies Vs India,West Indies,5,Rovman Powell(c),c Shubman Gill b Kuldeep Yadav,1,3,0,0,33.33,2023
+West Indies Vs India,West Indies,6,Shimron Hetmyer,c Tilak Varma b Arshdeep Singh,61,39,3,4,156.41,2023
+West Indies Vs India,West Indies,7,Romario Shepherd,c â€ Samson b Patel,9,6,0,1,150.00,2023
+West Indies Vs India,West Indies,8,Jason Holder, b Mukesh Kumar,3,4,0,0,75.00,2023
+West Indies Vs India,West Indies,9,Odean Smith,,15,12,0,1,125.00,2023
+West Indies Vs India,West Indies,10,Akeal Hosein,,5,2,1,0,250.00,2023
+West Indies Vs India,India,1,Yashasvi Jaiswal,,84,51,11,3,164.70,2023
+West Indies Vs India,India,2,Shubman Gill,c Hope b Shepherd,77,47,3,5,163.82,2023
+West Indies Vs India,India,3,Tilak Varma,,7,5,1,0,140.00,2023
+West Indies Vs India,West Indies,1,Brandon King,c & b Kuldeep Yadav,42,42,5,1,100.00,2023
+West Indies Vs India,West Indies,2,Kyle Mayers,c Arshdeep Singh b Patel,25,20,3,1,125.00,2023
+West Indies Vs India,West Indies,3,Johnson Charles,lbw b Kuldeep Yadav,12,14,1,1,85.71,2023
+West Indies Vs India,West Indies,4,Nicholas Pooranâ€ ,st â€ Samson b Kuldeep Yadav,20,12,2,1,166.66,2023
+West Indies Vs India,West Indies,5,Rovman Powell(c),,40,19,1,3,210.52,2023
+West Indies Vs India,West Indies,6,Shimron Hetmyer,c Tilak Varma b Mukesh Kumar,9,8,1,0,112.50,2023
+West Indies Vs India,West Indies,7,Romario Shepherd,,2,5,0,0,40.00,2023
+West Indies Vs India,India,1,Yashasvi Jaiswal,c Joseph b McCoy,1,2,0,0,50.00,2023
+West Indies Vs India,India,2,Shubman Gill,c Charles b Joseph,6,11,1,0,54.54,2023
+West Indies Vs India,India,3,Suryakumar Yadav,c King b Joseph,83,44,10,4,188.63,2023
+West Indies Vs India,India,4,Tilak Varma,,49,37,4,1,132.43,2023
+West Indies Vs India,India,5,Hardik Pandya(c),,20,15,1,1,133.33,2023
+India Vs West Indies,India,1,Ishan Kishanâ€ , b Shepherd,27,23,2,2,117.39,2023
+India Vs West Indies,India,2,Shubman Gill,c Hetmyer b Joseph,7,9,0,1,77.77,2023
+India Vs West Indies,India,3,Suryakumar Yadav,run out (Mayers),1,3,0,0,33.33,2023
+India Vs West Indies,India,4,Tilak Varma,c McCoy b Hosein,51,41,5,1,124.39,2023
+India Vs West Indies,India,5,Sanju Samson,st â€ Pooran b Hosein,7,7,1,0,100.00,2023
+India Vs West Indies,India,6,Hardik Pandya(c), b Joseph,24,18,0,2,133.33,2023
+India Vs West Indies,India,7,Axar Patel,c â€ Pooran b Shepherd,14,12,1,0,116.66,2023
+India Vs West Indies,India,8,Ravi Bishnoi,,8,4,0,1,200.00,2023
+India Vs West Indies,India,9,Arshdeep Singh,,6,3,1,0,200.00,2023
+India Vs West Indies,West Indies,1,Brandon King,c Yadav b Pandya,0,1,0,0,0.00,2023
+India Vs West Indies,West Indies,2,Kyle Mayers,lbw b Arshdeep Singh,15,7,2,1,214.28,2023
+India Vs West Indies,West Indies,3,Johnson Charles,c Tilak Varma b Pandya,2,3,0,0,66.66,2023
+India Vs West Indies,West Indies,4,Nicholas Pooranâ€ ,c Samson b Mukesh Kumar,67,40,6,4,167.50,2023
+India Vs West Indies,West Indies,5,Rovman Powell(c),c Mukesh Kumar b Pandya,21,19,1,1,110.52,2023
+India Vs West Indies,West Indies,6,Shimron Hetmyer,lbw b Chahal,22,22,1,1,100.00,2023
+India Vs West Indies,West Indies,7,Romario Shepherd,run out (Patel/â€ Ishan Kishan),0,0,0,0,-,2023
+India Vs West Indies,West Indies,8,Jason Holder,st â€ Ishan Kishan b Chahal,0,3,0,0,0.00,2023
+India Vs West Indies,West Indies,9,Akeal Hosein,,16,10,2,0,160.00,2023
+India Vs West Indies,West Indies,10,Alzarri Joseph,,10,8,0,1,125.00,2023
+West Indies Vs India,West Indies,1,Brandon King,lbw b Chahal,28,19,4,1,147.36,2023
+West Indies Vs India,West Indies,2,Kyle Mayers,lbw b Chahal,1,7,0,0,14.28,2023
+West Indies Vs India,West Indies,3,Johnson Charles,c Tilak Varma b Kuldeep Yadav,3,6,0,0,50.00,2023
+West Indies Vs India,West Indies,4,Nicholas Pooranâ€ ,c Tilak Varma b Pandya,41,34,2,2,120.58,2023
+West Indies Vs India,West Indies,5,Rovman Powell(c),c Yadav b Arshdeep Singh,48,32,3,3,150.00,2023
+West Indies Vs India,West Indies,6,Shimron Hetmyer,c Patel b Arshdeep Singh,10,12,1,0,83.33,2023
+West Indies Vs India,West Indies,7,Romario Shepherd,,4,6,0,0,66.66,2023
+West Indies Vs India,West Indies,8,Jason Holder,,6,5,0,0,120.00,2023
+West Indies Vs India,India,1,Ishan Kishanâ€ ,c Powell b McCoy,6,9,1,0,66.66,2023
+West Indies Vs India,India,2,Shubman Gill,st â€ Pooran b Hosein,3,9,0,0,33.33,2023
+West Indies Vs India,India,3,Suryakumar Yadav,c Hetmyer b Holder,21,21,2,1,100.00,2023
+West Indies Vs India,India,4,Tilak Varma,c Hetmyer b Shepherd,39,22,2,3,177.27,2023
+West Indies Vs India,India,5,Hardik Pandya(c), b Holder,19,19,3,0,100.00,2023
+West Indies Vs India,India,6,Sanju Samson,run out (Mayers),12,12,0,1,100.00,2023
+West Indies Vs India,India,7,Axar Patel,c Hetmyer b McCoy,13,11,0,1,118.18,2023
+West Indies Vs India,India,8,Kuldeep Yadav, b Shepherd,3,9,0,0,33.33,2023
+West Indies Vs India,India,9,Arshdeep Singh,run out (Hetmyer/â€ Pooran),12,7,2,0,171.42,2023
+West Indies Vs India,India,10,Yuzvendra Chahal,,1,1,0,0,100.00,2023
+West Indies Vs India,India,11,Mukesh Kumar,,1,1,0,0,100.00,2023
+India Vs New Zealand,India,1,Ishan Kishanâ€ ,lbw b Bracewell,1,3,0,0,33.33,2023
+India Vs New Zealand,India,2,Shubman Gill,,126,63,12,7,200.00,2023
+India Vs New Zealand,India,3,Rahul Tripathi,c Ferguson b Sodhi,44,22,4,3,200.00,2023
+India Vs New Zealand,India,4,Suryakumar Yadav,c Bracewell b Tickner,24,13,1,2,184.61,2023
+India Vs New Zealand,India,5,Hardik Pandya(c),c Bracewell b Mitchell,30,17,4,1,176.47,2023
+India Vs New Zealand,India,6,Deepak Hooda,,2,2,0,0,100.00,2023
+India Vs New Zealand,New Zealand,1,Finn Allen,c Yadav b Pandya,3,4,0,0,75.00,2023
+India Vs New Zealand,New Zealand,2,Devon Conwayâ€ ,c Pandya b Arshdeep Singh,1,2,0,0,50.00,2023
+India Vs New Zealand,New Zealand,3,Mark Chapman,c â€ Ishan Kishan b Arshdeep Singh,0,2,0,0,0.00,2023
+India Vs New Zealand,New Zealand,4,Glenn Phillips,c Yadav b Pandya,2,7,0,0,28.57,2023
+India Vs New Zealand,New Zealand,5,Daryl Mitchell,c Shivam Mavi b Umran Malik,35,25,1,3,140.00,2023
+India Vs New Zealand,New Zealand,6,Michael Bracewell, b Umran Malik,8,8,0,1,100.00,2023
+India Vs New Zealand,New Zealand,7,Mitchell Santner(c),c Yadav b Shivam Mavi,13,13,1,0,100.00,2023
+India Vs New Zealand,New Zealand,8,Ish Sodhi,c Tripathi b Shivam Mavi,0,2,0,0,0.00,2023
+India Vs New Zealand,New Zealand,9,Lockie Ferguson,c Umran Malik b Pandya,0,4,0,0,0.00,2023
+India Vs New Zealand,New Zealand,10,Blair Tickner,c â€ Ishan Kishan b Pandya,1,5,0,0,20.00,2023
+India Vs New Zealand,New Zealand,11,Ben Lister,,0,1,0,0,0.00,2023
+New Zealand Vs India,New Zealand,1,Finn Allen, b Chahal,11,10,2,0,110.00,2023
+New Zealand Vs India,New Zealand,2,Devon Conwayâ€ ,c â€ Ishan Kishan b Washington Sundar,11,14,1,0,78.57,2023
+New Zealand Vs India,New Zealand,3,Mark Chapman,run out (Kuldeep Yadav/â€ Ishan Kishan),14,21,0,0,66.66,2023
+New Zealand Vs India,New Zealand,4,Glenn Phillips, b Hooda,5,10,0,0,50.00,2023
+New Zealand Vs India,New Zealand,5,Daryl Mitchell, b Kuldeep Yadav,8,13,1,0,61.53,2023
+New Zealand Vs India,New Zealand,6,Michael Bracewell,c Arshdeep Singh b Pandya,14,22,0,0,63.63,2023
+New Zealand Vs India,New Zealand,7,Mitchell Santner(c),,19,23,1,0,82.60,2023
+New Zealand Vs India,New Zealand,8,Ish Sodhi,c Pandya b Arshdeep Singh,1,2,0,0,50.00,2023
+New Zealand Vs India,New Zealand,9,Lockie Ferguson,c Washington Sundar b Arshdeep Singh,0,2,0,0,0.00,2023
+New Zealand Vs India,New Zealand,10,Jacob Duffy,,6,3,1,0,200.00,2023
+New Zealand Vs India,India,1,Shubman Gill,c Allen b Bracewell,11,9,2,0,122.22,2023
+New Zealand Vs India,India,2,Ishan Kishanâ€ ,run out (Phillips/Santner),19,32,2,0,59.37,2023
+New Zealand Vs India,India,3,Rahul Tripathi,c Phillips b Sodhi,13,18,1,0,72.22,2023
+New Zealand Vs India,India,4,Suryakumar Yadav,,26,31,1,0,83.87,2023
+New Zealand Vs India,India,5,Washington Sundar,run out (Tickner),10,9,1,0,111.11,2023
+New Zealand Vs India,India,6,Hardik Pandya(c),,15,20,1,0,75.00,2023
+New Zealand Vs India,New Zealand,1,Finn Allen,c Yadav b Washington Sundar,35,23,4,2,152.17,2023
+New Zealand Vs India,New Zealand,2,Devon Conwayâ€ ,c Hooda b Arshdeep Singh,52,35,7,1,148.57,2023
+New Zealand Vs India,New Zealand,3,Mark Chapman,c & b Washington Sundar,0,4,0,0,0.00,2023
+New Zealand Vs India,New Zealand,4,Glenn Phillips,c Yadav b Kuldeep Yadav,17,22,1,0,77.27,2023
+New Zealand Vs India,New Zealand,5,Daryl Mitchell,,59,30,3,5,196.66,2023
+New Zealand Vs India,New Zealand,6,Michael Bracewell,run out (â€ Ishan Kishan),1,2,0,0,50.00,2023
+New Zealand Vs India,New Zealand,7,Mitchell Santner(c),c Tripathi b Shivam Mavi,7,5,1,0,140.00,2023
+New Zealand Vs India,New Zealand,8,Ish Sodhi,,0,0,0,0,-,2023
+New Zealand Vs India,India,1,Shubman Gill,c Allen b Santner,7,6,1,0,116.66,2023
+New Zealand Vs India,India,2,Ishan Kishanâ€ , b Bracewell,4,5,1,0,80.00,2023
+New Zealand Vs India,India,3,Rahul Tripathi,c â€ Conway b Duffy,0,6,0,0,0.00,2023
+New Zealand Vs India,India,4,Suryakumar Yadav,c Allen b Sodhi,47,34,6,2,138.23,2023
+New Zealand Vs India,India,5,Hardik Pandya(c),c & b Bracewell,21,20,1,1,105.00,2023
+New Zealand Vs India,India,6,Washington Sundar,c Duffy b Ferguson,50,28,5,3,178.57,2023
+New Zealand Vs India,India,7,Deepak Hooda,st â€ Conway b Santner,10,10,0,1,100.00,2023
+New Zealand Vs India,India,8,Shivam Mavi,run out (Santner),2,3,0,0,66.66,2023
+New Zealand Vs India,India,9,Kuldeep Yadav,c â€ Conway b Ferguson,0,1,0,0,0.00,2023
+New Zealand Vs India,India,10,Arshdeep Singh,,0,6,0,0,0.00,2023
+New Zealand Vs India,India,11,Umran Malik,,4,1,1,0,400.00,2023
+India Vs Sri Lanka,India,1,Ishan Kishanâ€ ,c DM de Silva b Madushanka,1,2,0,0,50.00,2023
+India Vs Sri Lanka,India,2,Shubman Gill, b PWH de Silva,46,36,2,3,127.77,2023
+India Vs Sri Lanka,India,3,Rahul Tripathi,c Madushanka b Karunaratne,35,16,5,2,218.75,2023
+India Vs Sri Lanka,India,4,Suryakumar Yadav,,112,51,7,9,219.60,2023
+India Vs Sri Lanka,India,5,Hardik Pandya(c),c DM de Silva b Rajitha,4,4,0,0,100.00,2023
+India Vs Sri Lanka,India,6,Deepak Hooda,c PWH de Silva b Madushanka,4,2,1,0,200.00,2023
+India Vs Sri Lanka,India,7,Axar Patel,,21,9,4,0,233.33,2023
+India Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,c Shivam Mavi b Arshdeep Singh,15,17,3,0,88.23,2023
+India Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,c Umran Malik b Patel,23,15,2,2,153.33,2023
+India Vs Sri Lanka,Sri Lanka,3,Avishka Fernando,c Arshdeep Singh b Pandya,1,3,0,0,33.33,2023
+India Vs Sri Lanka,Sri Lanka,4,Dhananjaya de Silva,c Shubman Gill b Chahal,22,14,2,1,157.14,2023
+India Vs Sri Lanka,Sri Lanka,5,Charith Asalanka,c Shivam Mavi b Chahal,19,14,2,1,135.71,2023
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),c Patel b Arshdeep Singh,23,17,0,2,135.29,2023
+India Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga,c Hooda b Umran Malik,9,8,1,0,112.50,2023
+India Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,lbw b Pandya,0,2,0,0,0.00,2023
+India Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana, b Umran Malik,2,5,0,0,40.00,2023
+India Vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,,9,4,2,0,225.00,2023
+India Vs Sri Lanka,Sri Lanka,11,Dilshan Madushanka, b Arshdeep Singh,1,2,0,0,50.00,2023
+Sri Lanka Vs India,Sri Lanka,1,Pathum Nissanka,c Tripathi b Patel,33,35,4,0,94.28,2023
+Sri Lanka Vs India,Sri Lanka,2,Kusal Mendisâ€ ,lbw b Chahal,52,31,3,4,167.74,2023
+Sri Lanka Vs India,Sri Lanka,3,Bhanuka Rajapaksa, b Umran Malik,2,3,0,0,66.66,2023
+Sri Lanka Vs India,Sri Lanka,4,Charith Asalanka,c Shubman Gill b Umran Malik,37,19,0,4,194.73,2023
+Sri Lanka Vs India,Sri Lanka,5,Dhananjaya de Silva,c Hooda b Patel,3,6,0,0,50.00,2023
+Sri Lanka Vs India,Sri Lanka,6,Dasun Shanaka(c),,56,22,2,6,254.54,2023
+Sri Lanka Vs India,Sri Lanka,7,Wanindu Hasaranga, b Umran Malik,0,1,0,0,0.00,2023
+Sri Lanka Vs India,Sri Lanka,8,Chamika Karunaratne,,11,10,1,0,110.00,2023
+Sri Lanka Vs India,India,1,Ishan Kishanâ€ , b Rajitha,2,5,0,0,40.00,2023
+Sri Lanka Vs India,India,2,Shubman Gill,c Theekshana b Rajitha,5,3,1,0,166.66,2023
+Sri Lanka Vs India,India,3,Rahul Tripathi,c â€ Mendis b Madushanka,5,5,1,0,100.00,2023
+Sri Lanka Vs India,India,4,Suryakumar Yadav,c PWH de Silva b Madushanka,51,36,3,3,141.66,2023
+Sri Lanka Vs India,India,5,Hardik Pandya(c),c â€ Mendis b Karunaratne,12,12,1,1,100.00,2023
+Sri Lanka Vs India,India,6,Deepak Hooda,c DM de Silva b PWH de Silva,9,12,0,0,75.00,2023
+Sri Lanka Vs India,India,7,Axar Patel,c Karunaratne b Shanaka,65,31,3,6,209.67,2023
+Sri Lanka Vs India,India,8,Shivam Mavi,c Theekshana b Shanaka,26,15,2,2,173.33,2023
+Sri Lanka Vs India,India,9,Umran Malik,,1,1,0,0,100.00,2023
+India Vs Sri Lanka,India,1,Ishan Kishanâ€ ,c DM de Silva b PWH de Silva,37,29,3,2,127.58,2023
+India Vs Sri Lanka,India,2,Shubman Gill,lbw b Theekshana,7,5,1,0,140.00,2023
+India Vs Sri Lanka,India,3,Suryakumar Yadav,c Rajapaksa b Karunaratne,7,10,1,0,70.00,2023
+India Vs Sri Lanka,India,4,Sanju Samson,c Madushanka b DM de Silva,5,6,0,0,83.33,2023
+India Vs Sri Lanka,India,5,Hardik Pandya(c),c â€ Mendis b Madushanka,29,27,4,0,107.40,2023
+India Vs Sri Lanka,India,6,Deepak Hooda,,41,23,1,4,178.26,2023
+India Vs Sri Lanka,India,7,Axar Patel,,31,20,3,1,155.00,2023
+India Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka, b Shivam Mavi,1,3,0,0,33.33,2023
+India Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,c Samson b HV Patel,28,25,5,0,112.00,2023
+India Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,c Samson b Shivam Mavi,8,6,2,0,133.33,2023
+India Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,c â€ Ishan Kishan b Umran Malik,12,15,1,1,80.00,2023
+India Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,c Pandya b HV Patel,10,11,1,0,90.90,2023
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),c Chahal b Umran Malik,45,27,3,3,166.66,2023
+India Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga,c Pandya b Shivam Mavi,21,10,1,2,210.00,2023
+India Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,,23,16,0,2,143.75,2023
+India Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,c Yadav b Shivam Mavi,1,4,0,0,25.00,2023
+India Vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,run out (Hooda/AR Patel),5,4,0,0,125.00,2023
+India Vs Sri Lanka,Sri Lanka,11,Dilshan Madushanka,run out (Hooda/â€ Ishan Kishan),0,0,0,0,-,2023
+New Zealand Vs India,New Zealand,1,Finn Allen,lbw b Arshdeep Singh,3,4,0,0,75.00,2022
+New Zealand Vs India,New Zealand,2,Devon Conwayâ€ ,c Ishan Kishan b Arshdeep Singh,59,49,5,2,120.40,2022
+New Zealand Vs India,New Zealand,3,Mark Chapman,c Arshdeep Singh b Mohammed Siraj,12,12,2,0,100.00,2022
+New Zealand Vs India,New Zealand,4,Glenn Phillips,c Kumar b Mohammed Siraj,54,33,5,3,163.63,2022
+New Zealand Vs India,New Zealand,5,Daryl Mitchell,c â€ Pant b Arshdeep Singh,10,5,2,0,200.00,2022
+New Zealand Vs India,New Zealand,6,James Neesham,c â€ Pant b Mohammed Siraj,0,3,0,0,0.00,2022
+New Zealand Vs India,New Zealand,7,Mitchell Santner,c Chahal b Mohammed Siraj,1,3,0,0,33.33,2022
+New Zealand Vs India,New Zealand,8,Adam Milne,run out (Mohammed Siraj),0,1,0,0,0.00,2022
+New Zealand Vs India,New Zealand,9,Ish Sodhi, b Arshdeep Singh,0,1,0,0,0.00,2022
+New Zealand Vs India,New Zealand,10,Tim Southee(c), b Patel,6,5,1,0,120.00,2022
+New Zealand Vs India,New Zealand,11,Lockie Ferguson,,5,3,0,0,166.66,2022
+New Zealand Vs India,India,1,Ishan Kishan,c Chapman b Milne,10,11,1,1,90.90,2022
+New Zealand Vs India,India,2,Rishabh Pantâ€ ,c Sodhi b Southee,11,5,2,0,220.00,2022
+New Zealand Vs India,India,3,Suryakumar Yadav,c Phillips b Sodhi,13,10,1,1,130.00,2022
+New Zealand Vs India,India,4,Shreyas Iyer,c Neesham b Southee,0,1,0,0,0.00,2022
+New Zealand Vs India,India,5,Hardik Pandya(c),,30,18,3,1,166.66,2022
+New Zealand Vs India,India,6,Deepak Hooda,,9,9,0,0,100.00,2022
+India Vs New Zealand,India,1,Ishan Kishan,c Southee b Sodhi,36,31,5,1,116.12,2022
+India Vs New Zealand,India,2,Rishabh Pantâ€ ,c Southee b Ferguson,6,13,1,0,46.15,2022
+India Vs New Zealand,India,3,Suryakumar Yadav,,111,51,11,7,217.64,2022
+India Vs New Zealand,India,4,Shreyas Iyer,hit wicket b Ferguson,13,9,1,1,144.44,2022
+India Vs New Zealand,India,5,Hardik Pandya(c),c Neesham b Southee,13,13,0,0,100.00,2022
+India Vs New Zealand,India,6,Deepak Hooda,c Ferguson b Southee,0,1,0,0,0.00,2022
+India Vs New Zealand,India,7,Washington Sundar,c Neesham b Southee,0,1,0,0,0.00,2022
+India Vs New Zealand,India,8,Bhuvneshwar Kumar,,1,1,0,0,100.00,2022
+India Vs New Zealand,New Zealand,1,Finn Allen,c Arshdeep Singh b Kumar,0,2,0,0,0.00,2022
+India Vs New Zealand,New Zealand,2,Devon Conwayâ€ ,c Arshdeep Singh b Washington Sundar,25,22,3,0,113.63,2022
+India Vs New Zealand,New Zealand,3,Kane Williamson(c), b Mohammed Siraj,61,52,4,2,117.30,2022
+India Vs New Zealand,New Zealand,4,Glenn Phillips, b Chahal,12,6,1,1,200.00,2022
+India Vs New Zealand,New Zealand,5,Daryl Mitchell,c Iyer b Hooda,10,11,0,0,90.90,2022
+India Vs New Zealand,New Zealand,6,James Neesham,c Ishan Kishan b Chahal,0,3,0,0,0.00,2022
+India Vs New Zealand,New Zealand,7,Mitchell Santner,c & b Mohammed Siraj,2,7,0,0,28.57,2022
+India Vs New Zealand,New Zealand,8,Adam Milne,c Arshdeep Singh b Hooda,6,5,0,1,120.00,2022
+India Vs New Zealand,New Zealand,9,Ish Sodhi,st â€ Pant b Hooda,1,3,0,0,33.33,2022
+India Vs New Zealand,New Zealand,10,Tim Southee,c â€ Pant b Hooda,0,1,0,0,0.00,2022
+India Vs New Zealand,New Zealand,11,Lockie Ferguson,,1,1,0,0,100.00,2022
+India Vs England,India,1,KL Rahul,c â€ Buttler b Woakes,5,5,1,0,100.00,2022
+India Vs England,India,2,Rohit Sharma(c),c Curran b Jordan,27,28,4,0,96.42,2022
+India Vs England,India,3,Virat Kohli,c Rashid b Jordan,50,40,4,1,125.00,2022
+India Vs England,India,4,Suryakumar Yadav,c Salt b Rashid,14,10,1,1,140.00,2022
+India Vs England,India,5,Hardik Pandya,hit wicket b Jordan,63,33,4,5,190.90,2022
+India Vs England,India,6,Rishabh Pantâ€ ,run out (â€ Buttler/Jordan),6,4,1,0,150.00,2022
+India Vs England,India,7,Ravichandran Ashwin,,0,0,0,0,-,2022
+India Vs England,England,1,Jos Buttler(c)â€ ,,80,49,9,3,163.26,2022
+India Vs England,England,2,Alex Hales,,86,47,4,7,182.97,2022
+India Vs Zimbabwe,India,1,KL Rahul,c Masakadza b Sikandar Raza,51,35,3,3,145.71,2022
+India Vs Zimbabwe,India,2,Rohit Sharma(c),c Masakadza b Muzarabani,15,13,2,0,115.38,2022
+India Vs Zimbabwe,India,3,Virat Kohli,c Burl b Williams,26,25,2,0,104.00,2022
+India Vs Zimbabwe,India,4,Suryakumar Yadav,,61,25,6,4,244.00,2022
+India Vs Zimbabwe,India,5,Rishabh Pantâ€ ,c Burl b Williams,3,5,0,0,60.00,2022
+India Vs Zimbabwe,India,6,Hardik Pandya,c Muzarabani b Ngarava,18,18,2,0,100.00,2022
+India Vs Zimbabwe,India,7,Axar Patel,,0,0,0,0,-,2022
+India Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,c Kohli b Kumar,0,1,0,0,0.00,2022
+India Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),c & b Pandya,13,15,2,0,86.66,2022
+India Vs Zimbabwe,Zimbabwe,3,Regis Chakabvaâ€ , b Arshdeep Singh,0,6,0,0,0.00,2022
+India Vs Zimbabwe,Zimbabwe,4,Sean Williams,c Kumar b Mohammed Shami,11,18,0,1,61.11,2022
+India Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,c Yadav b Pandya,34,24,3,0,141.66,2022
+India Vs Zimbabwe,Zimbabwe,6,Tony Munyonga,lbw b Mohammed Shami,5,4,1,0,125.00,2022
+India Vs Zimbabwe,Zimbabwe,7,Ryan Burl, b Ashwin,35,22,5,1,159.09,2022
+India Vs Zimbabwe,Zimbabwe,8,Wellington Masakadza,c Sharma b Ashwin,1,7,0,0,14.28,2022
+India Vs Zimbabwe,Zimbabwe,9,Richard Ngarava, b Ashwin,1,2,0,0,50.00,2022
+India Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,c & b Patel,4,4,1,0,100.00,2022
+India Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,,0,2,0,0,0.00,2022
+India Vs Bangladesh,India,1,KL Rahul,c Mustafizur Rahman b Shakib Al Hasan,50,32,3,4,156.25,2022
+India Vs Bangladesh,India,2,Rohit Sharma(c),c Yasir Ali b Hasan Mahmud,2,8,0,0,25.00,2022
+India Vs Bangladesh,India,3,Virat Kohli,,64,44,8,1,145.45,2022
+India Vs Bangladesh,India,4,Suryakumar Yadav, b Shakib Al Hasan,30,16,4,0,187.50,2022
+India Vs Bangladesh,India,5,Hardik Pandya,c Yasir Ali b Hasan Mahmud,5,6,0,0,83.33,2022
+India Vs Bangladesh,India,6,Dinesh Karthikâ€ ,run out (Shakib Al Hasan/Shoriful Islam),7,5,1,0,140.00,2022
+India Vs Bangladesh,India,7,Axar Patel,c Shakib Al Hasan b Hasan Mahmud,7,6,1,0,116.66,2022
+India Vs Bangladesh,India,8,Ravichandran Ashwin,,13,6,1,1,216.66,2022
+India Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,c Yadav b Mohammed Shami,21,25,1,1,84.00,2022
+India Vs Bangladesh,Bangladesh,2,Litton Das,run out (Rahul),60,27,7,3,222.22,2022
+India Vs Bangladesh,Bangladesh,3,Shakib Al Hasan(c),c sub (DJ Hooda) b Arshdeep Singh,13,12,2,0,108.33,2022
+India Vs Bangladesh,Bangladesh,4,Afif Hossain,c Yadav b Arshdeep Singh,3,5,0,0,60.00,2022
+India Vs Bangladesh,Bangladesh,5,Yasir Ali,c Arshdeep Singh b Pandya,1,3,0,0,33.33,2022
+India Vs Bangladesh,Bangladesh,6,Nurul Hasanâ€ ,,25,14,2,1,178.57,2022
+India Vs Bangladesh,Bangladesh,7,Mosaddek Hossain, b Pandya,6,3,0,1,200.00,2022
+India Vs Bangladesh,Bangladesh,8,Taskin Ahmed,,12,7,1,1,171.42,2022
+India Vs South Africa,India,1,KL Rahul,c Markram b Ngidi,9,14,0,1,64.28,2022
+India Vs South Africa,India,2,Rohit Sharma(c),c & b Ngidi,15,14,1,1,107.14,2022
+India Vs South Africa,India,3,Virat Kohli,c Rabada b Ngidi,12,11,2,0,109.09,2022
+India Vs South Africa,India,4,Suryakumar Yadav,c Maharaj b Parnell,68,40,6,3,170.00,2022
+India Vs South Africa,India,5,Deepak Hooda,c â€ de Kock b Nortje,0,3,0,0,0.00,2022
+India Vs South Africa,India,6,Hardik Pandya,c Rabada b Ngidi,2,3,0,0,66.66,2022
+India Vs South Africa,India,7,Dinesh Karthikâ€ ,c Rossouw b Parnell,6,15,0,0,40.00,2022
+India Vs South Africa,India,8,Ravichandran Ashwin,c Rabada b Parnell,7,11,0,0,63.63,2022
+India Vs South Africa,India,9,Bhuvneshwar Kumar,,4,6,0,0,66.66,2022
+India Vs South Africa,India,10,Mohammed Shami,run out (Nortje),0,2,0,0,0.00,2022
+India Vs South Africa,India,11,Arshdeep Singh,,2,1,0,0,200.00,2022
+India Vs South Africa,South Africa,1,Quinton de Kockâ€ ,c Rahul b Arshdeep Singh,1,3,0,0,33.33,2022
+India Vs South Africa,South Africa,2,Temba Bavuma(c),c â€ Karthik b Mohammed Shami,10,15,0,1,66.66,2022
+India Vs South Africa,South Africa,3,Rilee Rossouw,lbw b Arshdeep Singh,0,2,0,0,0.00,2022
+India Vs South Africa,South Africa,4,Aiden Markram,c Yadav b Pandya,52,41,6,1,126.82,2022
+India Vs South Africa,South Africa,5,David Miller,,59,46,4,3,128.26,2022
+India Vs South Africa,South Africa,6,Tristan Stubbs,lbw b Ashwin,6,6,1,0,100.00,2022
+India Vs South Africa,South Africa,7,Wayne Parnell,,2,5,0,0,40.00,2022
+India Vs Netherlands,India,1,KL Rahul,lbw b van Meekeren,9,12,1,0,75.00,2022
+India Vs Netherlands,India,2,Rohit Sharma(c),c Ackermann b Klaassen,53,39,4,3,135.89,2022
+India Vs Netherlands,India,3,Virat Kohli,,62,44,3,2,140.90,2022
+India Vs Netherlands,India,4,Suryakumar Yadav,,51,25,7,1,204.00,2022
+India Vs Netherlands,Netherlands,1,Vikramjit Singh, b Kumar,1,9,0,0,11.11,2022
+India Vs Netherlands,Netherlands,2,Max O'Dowd, b Patel,16,10,3,0,160.00,2022
+India Vs Netherlands,Netherlands,3,Bas de Leede,c Pandya b Patel,16,23,0,0,69.56,2022
+India Vs Netherlands,Netherlands,4,Colin Ackermann,c Patel b Ashwin,17,21,1,0,80.95,2022
+India Vs Netherlands,Netherlands,5,Tom Cooper,c sub (DJ Hooda) b Ashwin,9,12,0,0,75.00,2022
+India Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,c sub (DJ Hooda) b Kumar,5,8,0,0,62.50,2022
+India Vs Netherlands,Netherlands,7,Tim Pringle,c Kohli b Mohammed Shami,20,15,1,1,133.33,2022
+India Vs Netherlands,Netherlands,8,Logan van Beek,c â€ Karthik b Arshdeep Singh,3,5,0,0,60.00,2022
+India Vs Netherlands,Netherlands,9,Shariz Ahmad,,16,11,2,0,145.45,2022
+India Vs Netherlands,Netherlands,10,Fred Klaassen,lbw b Arshdeep Singh,0,1,0,0,0.00,2022
+India Vs Netherlands,Netherlands,11,Paul van Meekeren,,14,6,3,0,233.33,2022
+Pakistan Vs India,Pakistan,1,Mohammad Rizwanâ€ ,c Kumar b Arshdeep Singh,4,12,1,0,33.33,2022
+Pakistan Vs India,Pakistan,2,Babar Azam(c),lbw b Arshdeep Singh,0,1,0,0,0.00,2022
+Pakistan Vs India,Pakistan,3,Shan Masood,,52,42,5,0,123.80,2022
+Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,lbw b Mohammed Shami,51,34,2,4,150.00,2022
+Pakistan Vs India,Pakistan,5,Shadab Khan,c Yadav b Pandya,5,6,1,0,83.33,2022
+Pakistan Vs India,Pakistan,6,Haider Ali,c Yadav b Pandya,2,4,0,0,50.00,2022
+Pakistan Vs India,Pakistan,7,Mohammad Nawaz,c â€ Karthik b Pandya,9,6,2,0,150.00,2022
+Pakistan Vs India,Pakistan,8,Asif Ali,c â€ Karthik b Arshdeep Singh,2,3,0,0,66.66,2022
+Pakistan Vs India,Pakistan,9,Shaheen Shah Afridi,c & b Kumar,16,8,1,1,200.00,2022
+Pakistan Vs India,Pakistan,10,Haris Rauf,,6,4,0,1,150.00,2022
+Pakistan Vs India,India,1,KL Rahul, b Naseem Shah,4,8,0,0,50.00,2022
+Pakistan Vs India,India,2,Rohit Sharma(c),c Iftikhar Ahmed b Haris Rauf,4,7,0,0,57.14,2022
+Pakistan Vs India,India,3,Virat Kohli,,82,53,6,4,154.71,2022
+Pakistan Vs India,India,4,Suryakumar Yadav,c â€ Mohammad Rizwan b Haris Rauf,15,10,2,0,150.00,2022
+Pakistan Vs India,India,5,Axar Patel,run out (Babar Azam/â€ Mohammad Rizwan),2,3,0,0,66.66,2022
+Pakistan Vs India,India,6,Hardik Pandya,c Babar Azam b Mohammad Nawaz,40,37,1,2,108.10,2022
+Pakistan Vs India,India,7,Dinesh Karthikâ€ ,st â€ Mohammad Rizwan b Mohammad Nawaz,1,2,0,0,50.00,2022
+Pakistan Vs India,India,8,Ravichandran Ashwin,,1,1,0,0,100.00,2022
+South Africa Vs India,South Africa,1,Quinton de Kockâ€ ,run out (Iyer/â€ Pant),68,43,6,4,158.13,2022
+South Africa Vs India,South Africa,2,Temba Bavuma(c),c Sharma b UT Yadav,3,8,0,0,37.50,2022
+South Africa Vs India,South Africa,3,Rilee Rossouw,,100,48,7,8,208.33,2022
+South Africa Vs India,South Africa,4,Tristan Stubbs,c Ashwin b Chahar,23,18,2,1,127.77,2022
+South Africa Vs India,South Africa,5,David Miller,,19,5,0,3,380.00,2022
+South Africa Vs India,India,1,Rohit Sharma(c), b Rabada,0,2,0,0,0.00,2022
+South Africa Vs India,India,2,Rishabh Pantâ€ ,c Stubbs b Ngidi,27,14,3,2,192.85,2022
+South Africa Vs India,India,3,Shreyas Iyer,lbw b Parnell,1,4,0,0,25.00,2022
+South Africa Vs India,India,4,Dinesh Karthik, b Maharaj,46,21,4,4,219.04,2022
+South Africa Vs India,India,5,Suryakumar Yadav,c Stubbs b Pretorius,8,6,0,1,133.33,2022
+South Africa Vs India,India,6,Axar Patel,c â€ de Kock b Parnell,9,8,1,0,112.50,2022
+South Africa Vs India,India,7,Harshal Patel,c Miller b Ngidi,17,12,2,1,141.66,2022
+South Africa Vs India,India,8,Ravichandran Ashwin,c Rabada b Maharaj,2,4,0,0,50.00,2022
+South Africa Vs India,India,9,Deepak Chahar,c Miller b Pretorius,31,17,2,3,182.35,2022
+South Africa Vs India,India,10,Umesh Yadav,,20,17,2,0,117.64,2022
+South Africa Vs India,India,11,Mohammed Siraj,c Miller b Pretorius,5,7,1,0,71.42,2022
+India Vs South Africa,India,1,KL Rahul,lbw b Maharaj,57,28,5,4,203.57,2022
+India Vs South Africa,India,2,Rohit Sharma(c),c Stubbs b Maharaj,43,37,7,1,116.21,2022
+India Vs South Africa,India,3,Virat Kohli,,49,28,7,1,175.00,2022
+India Vs South Africa,India,4,Suryakumar Yadav,run out (Bavuma/Nortje),61,22,5,5,277.27,2022
+India Vs South Africa,India,5,Dinesh Karthik,,17,7,1,2,242.85,2022
+India Vs South Africa,South Africa,1,Temba Bavuma(c),c Kohli b Arshdeep Singh,0,7,0,0,0.00,2022
+India Vs South Africa,South Africa,2,Quinton de Kockâ€ ,,69,48,3,4,143.75,2022
+India Vs South Africa,South Africa,3,Rilee Rossouw,c Karthik b Arshdeep Singh,0,2,0,0,0.00,2022
+India Vs South Africa,South Africa,4,Aiden Markram, b AR Patel,33,19,4,1,173.68,2022
+India Vs South Africa,South Africa,5,David Miller,,106,47,8,7,225.53,2022
+South Africa Vs India,South Africa,1,Quinton de Kockâ€ , b Arshdeep Singh,1,4,0,0,25.00,2022
+South Africa Vs India,South Africa,2,Temba Bavuma(c), b Chahar,0,4,0,0,0.00,2022
+South Africa Vs India,South Africa,3,Rilee Rossouw,c â€ Pant b Arshdeep Singh,0,1,0,0,0.00,2022
+South Africa Vs India,South Africa,4,Aiden Markram,lbw b HV Patel,25,24,3,1,104.16,2022
+South Africa Vs India,South Africa,5,David Miller, b Arshdeep Singh,0,1,0,0,0.00,2022
+South Africa Vs India,South Africa,6,Tristan Stubbs,c Arshdeep Singh b Chahar,0,1,0,0,0.00,2022
+South Africa Vs India,South Africa,7,Wayne Parnell,c Yadav b AR Patel,24,37,1,1,64.86,2022
+South Africa Vs India,South Africa,8,Keshav Maharaj, b HV Patel,41,35,5,2,117.14,2022
+South Africa Vs India,South Africa,9,Kagiso Rabada,,7,11,0,0,63.63,2022
+South Africa Vs India,South Africa,10,Anrich Nortje,,2,2,0,0,100.00,2022
+South Africa Vs India,India,1,KL Rahul,,51,56,2,4,91.07,2022
+South Africa Vs India,India,2,Rohit Sharma(c),c â€ de Kock b Rabada,0,2,0,0,0.00,2022
+South Africa Vs India,India,3,Virat Kohli,c â€ de Kock b Nortje,3,9,0,0,33.33,2022
+South Africa Vs India,India,4,Suryakumar Yadav,,50,33,5,3,151.51,2022
+Australia Vs India,Australia,1,Cameron Green,c Rahul b Kumar,52,21,7,3,247.61,2022
+Australia Vs India,Australia,2,Aaron Finch(c),c Pandya b AR Patel,7,6,1,0,116.66,2022
+Australia Vs India,Australia,3,Steven Smith,st â€ Karthik b Chahal,9,10,1,0,90.00,2022
+Australia Vs India,Australia,4,Glenn Maxwell,run out (AR Patel),6,11,1,0,54.54,2022
+Australia Vs India,Australia,5,Josh Inglis,c Sharma b AR Patel,24,22,3,0,109.09,2022
+Australia Vs India,Australia,6,Tim David,c Sharma b HV Patel,54,27,2,4,200.00,2022
+Australia Vs India,Australia,7,Matthew Wadeâ€ ,c & b AR Patel,1,3,0,0,33.33,2022
+Australia Vs India,Australia,8,Daniel Sams,,28,20,1,2,140.00,2022
+Australia Vs India,Australia,9,Pat Cummins,,0,1,0,0,0.00,2022
+Australia Vs India,India,1,KL Rahul,c â€ Wade b Sams,1,4,0,0,25.00,2022
+Australia Vs India,India,2,Rohit Sharma(c),c Sams b Cummins,17,14,2,1,121.42,2022
+Australia Vs India,India,3,Virat Kohli,c Finch b Sams,63,48,3,4,131.25,2022
+Australia Vs India,India,4,Suryakumar Yadav,c Finch b Hazlewood,69,36,5,5,191.66,2022
+Australia Vs India,India,5,Hardik Pandya,,25,16,2,1,156.25,2022
+Australia Vs India,India,6,Dinesh Karthikâ€ ,,1,1,0,0,100.00,2022
+Australia Vs India,Australia,1,Aaron Finch(c), b Bumrah,31,15,4,1,206.66,2022
+Australia Vs India,Australia,2,Cameron Green,run out (Kohli/AR Patel),5,4,1,0,125.00,2022
+Australia Vs India,Australia,3,Glenn Maxwell, b AR Patel,0,1,0,0,0.00,2022
+Australia Vs India,Australia,4,Tim David, b AR Patel,2,3,0,0,66.66,2022
+Australia Vs India,Australia,5,Matthew Wadeâ€ ,,43,20,4,3,215.00,2022
+Australia Vs India,Australia,6,Steven Smith,run out (HV Patel),8,5,1,0,160.00,2022
+Australia Vs India,India,1,KL Rahul, b Zampa,10,6,0,1,166.66,2022
+Australia Vs India,India,2,Rohit Sharma(c),,46,20,4,4,230.00,2022
+Australia Vs India,India,3,Virat Kohli, b Zampa,11,6,2,0,183.33,2022
+Australia Vs India,India,4,Suryakumar Yadav,lbw b Zampa,0,1,0,0,0.00,2022
+Australia Vs India,India,5,Hardik Pandya,c Finch b Cummins,9,9,1,0,100.00,2022
+Australia Vs India,India,6,Dinesh Karthik,,10,2,1,1,500.00,2022
+India Vs Australia,India,1,KL Rahul,c Ellis b Hazlewood,55,35,4,3,157.14,2022
+India Vs Australia,India,2,Rohit Sharma(c),c Ellis b Hazlewood,11,9,1,1,122.22,2022
+India Vs Australia,India,3,Virat Kohli,c Green b Ellis,2,7,0,0,28.57,2022
+India Vs Australia,India,4,Suryakumar Yadav,c â€ Wade b Green,46,25,2,4,184.00,2022
+India Vs Australia,India,5,Hardik Pandya,,71,30,7,5,236.66,2022
+India Vs Australia,India,6,Axar Patel,c Green b Ellis,6,5,1,0,120.00,2022
+India Vs Australia,India,7,Dinesh Karthikâ€ ,lbw b Ellis,6,5,0,0,120.00,2022
+India Vs Australia,India,8,Harshal Patel,,7,4,1,0,175.00,2022
+India Vs Australia,Australia,1,Aaron Finch(c), b AR Patel,22,13,3,1,169.23,2022
+India Vs Australia,Australia,2,Cameron Green,c Kohli b AR Patel,61,30,8,4,203.33,2022
+India Vs Australia,Australia,3,Steven Smith,c â€ Karthik b UT Yadav,35,24,3,1,145.83,2022
+India Vs Australia,Australia,4,Glenn Maxwell,c â€ Karthik b UT Yadav,1,3,0,0,33.33,2022
+India Vs Australia,Australia,5,Josh Inglis, b AR Patel,17,10,3,0,170.00,2022
+India Vs Australia,Australia,6,Tim David,c Pandya b Chahal,18,14,1,1,128.57,2022
+India Vs Australia,Australia,7,Matthew Wadeâ€ ,,45,21,6,2,214.28,2022
+India Vs Australia,Australia,8,Pat Cummins,,4,1,1,0,400.00,2022
+India Vs Afghanistan,India,1,KL Rahul(c),c Najibullah Zadran b Fareed Ahmad,62,41,6,2,151.21,2022
+India Vs Afghanistan,India,2,Virat Kohli,,122,61,12,6,200.00,2022
+India Vs Afghanistan,India,3,Suryakumar Yadav, b Fareed Ahmad,6,2,0,1,300.00,2022
+India Vs Afghanistan,India,4,Rishabh Pantâ€ ,,20,16,3,0,125.00,2022
+India Vs Afghanistan,Afghanistan,1,Hazratullah Zazai,lbw b Kumar,0,4,0,0,0.00,2022
+India Vs Afghanistan,Afghanistan,2,Rahmanullah Gurbazâ€ , b Kumar,0,1,0,0,0.00,2022
+India Vs Afghanistan,Afghanistan,3,Ibrahim Zadran,,64,59,4,2,108.47,2022
+India Vs Afghanistan,Afghanistan,4,Karim Janat,c Kohli b Kumar,2,4,0,0,50.00,2022
+India Vs Afghanistan,Afghanistan,5,Najibullah Zadran,lbw b Kumar,0,2,0,0,0.00,2022
+India Vs Afghanistan,Afghanistan,6,Mohammad Nabi(c),lbw b Arshdeep Singh,7,7,1,0,100.00,2022
+India Vs Afghanistan,Afghanistan,7,Azmatullah Omarzai,c Karthik b Kumar,1,6,0,0,16.66,2022
+India Vs Afghanistan,Afghanistan,8,Rashid Khan,c Patel b Hooda,15,19,2,0,78.94,2022
+India Vs Afghanistan,Afghanistan,9,Mujeeb Ur Rahman, b Ashwin,18,13,2,1,138.46,2022
+India Vs Afghanistan,Afghanistan,10,Fareed Ahmad,,1,5,0,0,20.00,2022
+India Vs Sri Lanka,India,1,KL Rahul,lbw b Theekshana,6,7,1,0,85.71,2022
+India Vs Sri Lanka,India,2,Rohit Sharma(c),c Nissanka b Karunaratne,72,41,5,4,175.60,2022
+India Vs Sri Lanka,India,3,Virat Kohli, b Madushanka,0,4,0,0,0.00,2022
+India Vs Sri Lanka,India,4,Suryakumar Yadav,c Theekshana b Shanaka,34,29,1,1,117.24,2022
+India Vs Sri Lanka,India,5,Hardik Pandya,c Nissanka b Shanaka,17,13,0,1,130.76,2022
+India Vs Sri Lanka,India,6,Rishabh Pantâ€ ,c Nissanka b Madushanka,17,13,3,0,130.76,2022
+India Vs Sri Lanka,India,7,Deepak Hooda, b Madushanka,3,4,0,0,75.00,2022
+India Vs Sri Lanka,India,8,Ravichandran Ashwin,,15,7,0,1,214.28,2022
+India Vs Sri Lanka,India,9,Bhuvneshwar Kumar, b Karunaratne,0,2,0,0,0.00,2022
+India Vs Sri Lanka,India,10,Arshdeep Singh,,1,1,0,0,100.00,2022
+India Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,c Sharma b Chahal,52,37,4,2,140.54,2022
+India Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,lbw b Chahal,57,37,4,3,154.05,2022
+India Vs Sri Lanka,Sri Lanka,3,Charith Asalanka,c Yadav b Chahal,0,3,0,0,0.00,2022
+India Vs Sri Lanka,Sri Lanka,4,Danushka Gunathilaka,c Rahul b Ashwin,1,7,0,0,14.28,2022
+India Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,,25,17,0,2,147.05,2022
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),,33,18,4,1,183.33,2022
+India Vs Pakistan,India,1,KL Rahul,c Mohammad Nawaz b Shadab Khan,28,20,1,2,140.00,2022
+India Vs Pakistan,India,2,Rohit Sharma(c),c Khushdil Shah b Haris Rauf,28,16,3,2,175.00,2022
+India Vs Pakistan,India,3,Virat Kohli,run out (Asif Ali),60,44,4,1,136.36,2022
+India Vs Pakistan,India,4,Suryakumar Yadav,c Asif Ali b Mohammad Nawaz,13,10,2,0,130.00,2022
+India Vs Pakistan,India,5,Rishabh Pantâ€ ,c Asif Ali b Shadab Khan,14,12,2,0,116.66,2022
+India Vs Pakistan,India,6,Hardik Pandya,c Mohammad Nawaz b Mohammad Hasnain,0,2,0,0,0.00,2022
+India Vs Pakistan,India,7,Deepak Hooda,c Mohammad Nawaz b Naseem Shah,16,14,2,0,114.28,2022
+India Vs Pakistan,India,8,Bhuvneshwar Kumar,,0,0,0,0,-,2022
+India Vs Pakistan,India,9,Ravi Bishnoi,,8,2,2,0,400.00,2022
+India Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ ,c Yadav b Pandya,71,51,6,2,139.21,2022
+India Vs Pakistan,Pakistan,2,Babar Azam(c),c Sharma b Ravi Bishnoi,14,10,2,0,140.00,2022
+India Vs Pakistan,Pakistan,3,Fakhar Zaman,c Kohli b Chahal,15,18,2,0,83.33,2022
+India Vs Pakistan,Pakistan,4,Mohammad Nawaz,c Hooda b Kumar,42,20,6,2,210.00,2022
+India Vs Pakistan,Pakistan,5,Khushdil Shah,,14,11,1,0,127.27,2022
+India Vs Pakistan,Pakistan,6,Asif Ali,lbw b Arshdeep Singh,16,8,2,1,200.00,2022
+India Vs Pakistan,Pakistan,7,Iftikhar Ahmed,,2,1,0,0,200.00,2022
+India Vs Hong Kong,India,1,KL Rahul,c â€ McKechnie b Mohammad Ghazanfar,36,39,0,2,92.30,2022
+India Vs Hong Kong,India,2,Rohit Sharma(c),c Aizaz Khan b Shukla,21,13,2,1,161.53,2022
+India Vs Hong Kong,India,3,Virat Kohli,,59,44,1,3,134.09,2022
+India Vs Hong Kong,India,4,Suryakumar Yadav,,68,26,6,6,261.53,2022
+India Vs Hong Kong,Hong Kong,1,Nizakat Khan(c),run out (Jadeja),10,12,1,0,83.33,2022
+India Vs Hong Kong,Hong Kong,2,Yasim Murtaza,c Avesh Khan b Arshdeep Singh,9,9,2,0,100.00,2022
+India Vs Hong Kong,Hong Kong,3,Babar Hayat,c Avesh Khan b Jadeja,41,35,3,2,117.14,2022
+India Vs Hong Kong,Hong Kong,4,Kinchit Shah,c sub (Ravi Bishnoi) b Kumar,30,28,2,1,107.14,2022
+India Vs Hong Kong,Hong Kong,5,Aizaz Khan, b Avesh Khan,14,13,2,0,107.69,2022
+India Vs Hong Kong,Hong Kong,6,Zeeshan Ali,,26,17,2,1,152.94,2022
+India Vs Hong Kong,Hong Kong,7,Scott McKechnieâ€ ,,16,8,2,1,200.00,2022
+Pakistan Vs India,Pakistan,1,Mohammad Rizwanâ€ ,c Avesh Khan b Pandya,43,42,4,1,102.38,2022
+Pakistan Vs India,Pakistan,2,Babar Azam(c),c Arshdeep Singh b Kumar,10,9,2,0,111.11,2022
+Pakistan Vs India,Pakistan,3,Fakhar Zaman,c â€ Karthik b Avesh Khan,10,6,2,0,166.66,2022
+Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,c â€ Karthik b Pandya,28,22,2,1,127.27,2022
+Pakistan Vs India,Pakistan,5,Khushdil Shah,c Jadeja b Pandya,2,7,0,0,28.57,2022
+Pakistan Vs India,Pakistan,6,Shadab Khan,lbw b Kumar,10,9,1,0,111.11,2022
+Pakistan Vs India,Pakistan,7,Asif Ali,c Yadav b Kumar,9,7,0,0,128.57,2022
+Pakistan Vs India,Pakistan,8,Mohammad Nawaz,c â€ Karthik b Arshdeep Singh,1,3,0,0,33.33,2022
+Pakistan Vs India,Pakistan,9,Haris Rauf,,13,7,2,0,185.71,2022
+Pakistan Vs India,Pakistan,10,Naseem Shah,lbw b Kumar,0,1,0,0,0.00,2022
+Pakistan Vs India,Pakistan,11,Shahnawaz Dahani, b Arshdeep Singh,16,6,0,2,266.66,2022
+Pakistan Vs India,India,1,Rohit Sharma(c),c Iftikhar Ahmed b Mohammad Nawaz,12,18,0,1,66.66,2022
+Pakistan Vs India,India,2,KL Rahul, b Naseem Shah,0,1,0,0,0.00,2022
+Pakistan Vs India,India,3,Virat Kohli,c Iftikhar Ahmed b Mohammad Nawaz,35,34,3,1,102.94,2022
+Pakistan Vs India,India,4,Ravindra Jadeja, b Mohammad Nawaz,35,29,2,2,120.68,2022
+Pakistan Vs India,India,5,Suryakumar Yadav, b Naseem Shah,18,18,1,0,100.00,2022
+Pakistan Vs India,India,6,Hardik Pandya,,33,17,4,1,194.11,2022
+Pakistan Vs India,India,7,Dinesh Karthikâ€ ,,1,1,0,0,100.00,2022
+India Vs West Indies,India,1,Ishan Kishan,c Pooran b Drakes,11,13,1,0,84.61,2022
+India Vs West Indies,India,2,Shreyas Iyer,c & b Holder,64,40,8,2,160.00,2022
+India Vs West Indies,India,3,Deepak Hooda,c Brooks b Walsh,38,25,3,2,152.00,2022
+India Vs West Indies,India,4,Sanju Samson, b Smith,15,11,2,0,136.36,2022
+India Vs West Indies,India,5,Hardik Pandya(c),run out (Smith),28,16,2,2,175.00,2022
+India Vs West Indies,India,6,Dinesh Karthikâ€ ,lbw b Smith,12,9,2,0,133.33,2022
+India Vs West Indies,India,7,Axar Patel,c Pooran b Smith,9,7,0,1,128.57,2022
+India Vs West Indies,India,8,Kuldeep Yadav,,0,0,0,0,-,2022
+India Vs West Indies,India,9,Avesh Khan,,1,2,0,0,50.00,2022
+India Vs West Indies,West Indies,1,Jason Holder, b Patel,0,3,0,0,0.00,2022
+India Vs West Indies,West Indies,2,Shamarh Brooks,st â€ Karthik b Patel,13,13,2,0,100.00,2022
+India Vs West Indies,West Indies,3,Devon Thomasâ€ , b Patel,10,11,2,0,90.90,2022
+India Vs West Indies,West Indies,4,Shimron Hetmyer,c Iyer b Ravi Bishnoi,56,35,5,4,160.00,2022
+India Vs West Indies,West Indies,5,Nicholas Pooran(c),lbw b Kuldeep Yadav,3,6,0,0,50.00,2022
+India Vs West Indies,West Indies,6,Rovman Powell,lbw b Ravi Bishnoi,9,13,1,0,69.23,2022
+India Vs West Indies,West Indies,7,Keemo Paul,lbw b Ravi Bishnoi,0,1,0,0,0.00,2022
+India Vs West Indies,West Indies,8,Dominic Drakes, b Kuldeep Yadav,1,2,0,0,50.00,2022
+India Vs West Indies,West Indies,9,Odean Smith,c Pandya b Kuldeep Yadav,0,3,0,0,0.00,2022
+India Vs West Indies,West Indies,10,Hayden Walsh,,0,4,0,0,0.00,2022
+India Vs West Indies,West Indies,11,Obed McCoy,c Hooda b Ravi Bishnoi,0,3,0,0,0.00,2022
+India Vs West Indies,India,1,Rohit Sharma(c), b Hosein,33,16,2,3,206.25,2022
+India Vs West Indies,India,2,Suryakumar Yadav,lbw b Joseph,24,14,1,2,171.42,2022
+India Vs West Indies,India,3,Deepak Hooda,c King b Joseph,21,19,2,0,110.52,2022
+India Vs West Indies,India,4,Rishabh Pantâ€ ,c Drakes b McCoy,44,31,6,0,141.93,2022
+India Vs West Indies,India,5,Sanju Samson,,30,23,2,1,130.43,2022
+India Vs West Indies,India,6,Dinesh Karthik, b McCoy,6,9,0,0,66.66,2022
+India Vs West Indies,India,7,Axar Patel,,20,8,1,2,250.00,2022
+India Vs West Indies,West Indies,1,Brandon King,c & b Avesh Khan,13,8,3,0,162.50,2022
+India Vs West Indies,West Indies,2,Kyle Mayers,c Hooda b Patel,14,16,2,0,87.50,2022
+India Vs West Indies,West Indies,3,Devon Thomasâ€ ,c Hooda b Avesh Khan,1,4,0,0,25.00,2022
+India Vs West Indies,West Indies,4,Nicholas Pooran(c),run out (Samson/â€ Pant),24,8,1,3,300.00,2022
+India Vs West Indies,West Indies,5,Rovman Powell,c Hooda b Patel,24,16,1,2,150.00,2022
+India Vs West Indies,West Indies,6,Shimron Hetmyer, b Ravi Bishnoi,19,19,2,1,100.00,2022
+India Vs West Indies,West Indies,7,Jason Holder,c Samson b Arshdeep Singh,13,9,1,1,144.44,2022
+India Vs West Indies,West Indies,8,Akeal Hosein,c Yadav b Ravi Bishnoi,3,10,0,0,30.00,2022
+India Vs West Indies,West Indies,9,Dominic Drakes, b Arshdeep Singh,5,7,1,0,71.42,2022
+India Vs West Indies,West Indies,10,Alzarri Joseph,,6,10,0,0,60.00,2022
+India Vs West Indies,West Indies,11,Obed McCoy, b Arshdeep Singh,2,8,0,0,25.00,2022
+West Indies Vs India,West Indies,1,Brandon King, b Pandya,20,20,3,0,100.00,2022
+West Indies Vs India,West Indies,2,Kyle Mayers,c â€ Pant b Kumar,73,50,8,4,146.00,2022
+West Indies Vs India,West Indies,3,Nicholas Pooran(c),c â€ Pant b Kumar,22,23,2,1,95.65,2022
+West Indies Vs India,West Indies,4,Rovman Powell,c Hooda b Arshdeep Singh,23,14,2,1,164.28,2022
+West Indies Vs India,West Indies,5,Shimron Hetmyer,run out (Yadav/â€ Pant),20,12,0,2,166.66,2022
+West Indies Vs India,West Indies,6,Devon Thomasâ€ ,,0,0,0,0,-,2022
+West Indies Vs India,West Indies,7,Jason Holder,,1,1,0,0,100.00,2022
+West Indies Vs India,India,1,Rohit Sharma(c),,11,5,1,1,220.00,2022
+West Indies Vs India,India,2,Suryakumar Yadav,c Joseph b Drakes,76,44,8,4,172.72,2022
+West Indies Vs India,India,3,Shreyas Iyer,st â€ Thomas b Hosein,24,27,2,0,88.88,2022
+West Indies Vs India,India,4,Rishabh Pantâ€ ,,33,26,3,1,126.92,2022
+West Indies Vs India,India,5,Hardik Pandya,c â€ Thomas b Holder,4,6,0,0,66.66,2022
+West Indies Vs India,India,6,Deepak Hooda,,10,7,1,0,142.85,2022
+India Vs West Indies,India,1,Rohit Sharma(c),c Hosein b McCoy,0,1,0,0,0.00,2022
+India Vs West Indies,India,2,Suryakumar Yadav,c â€ Thomas b McCoy,11,6,0,1,183.33,2022
+India Vs West Indies,India,3,Shreyas Iyer,c â€ Thomas b Joseph,10,11,0,1,90.90,2022
+India Vs West Indies,India,4,Rishabh Pantâ€ ,c Smith b Hosein,24,12,1,2,200.00,2022
+India Vs West Indies,India,5,Hardik Pandya,c Smith b Holder,31,31,1,2,100.00,2022
+India Vs West Indies,India,6,Ravindra Jadeja,c Powell b McCoy,27,30,0,1,90.00,2022
+India Vs West Indies,India,7,Dinesh Karthik,c Joseph b McCoy,7,13,0,0,53.84,2022
+India Vs West Indies,India,8,Ravichandran Ashwin,c Smith b McCoy,10,6,2,0,166.66,2022
+India Vs West Indies,India,9,Bhuvneshwar Kumar,c â€ Thomas b McCoy,1,3,0,0,33.33,2022
+India Vs West Indies,India,10,Avesh Khan, b Holder,8,4,0,1,200.00,2022
+India Vs West Indies,India,11,Arshdeep Singh,,1,1,0,0,100.00,2022
+India Vs West Indies,West Indies,1,Brandon King, b Avesh Khan,68,52,8,2,130.76,2022
+India Vs West Indies,West Indies,2,Kyle Mayers,c Ashwin b Pandya,8,14,1,0,57.14,2022
+India Vs West Indies,West Indies,3,Nicholas Pooran(c),c Yadav b Ashwin,14,11,1,1,127.27,2022
+India Vs West Indies,West Indies,4,Shimron Hetmyer,c & b Jadeja,6,10,1,0,60.00,2022
+India Vs West Indies,West Indies,5,Devon Thomasâ€ ,,31,19,1,2,163.15,2022
+India Vs West Indies,West Indies,6,Rovman Powell, b Arshdeep Singh,5,8,0,0,62.50,2022
+India Vs West Indies,West Indies,7,Odean Smith,,4,4,0,0,100.00,2022
+India Vs West Indies,India,1,Rohit Sharma(c),c Hetmyer b Holder,64,44,7,2,145.45,2022
+India Vs West Indies,India,2,Suryakumar Yadav,c Holder b Hosein,24,16,3,1,150.00,2022
+India Vs West Indies,India,3,Shreyas Iyer,c Hosein b McCoy,0,4,0,0,0.00,2022
+India Vs West Indies,India,4,Rishabh Pantâ€ ,c Hosein b Paul,14,12,2,0,116.66,2022
+India Vs West Indies,India,5,Hardik Pandya,c McCoy b Joseph,1,3,0,0,33.33,2022
+India Vs West Indies,India,6,Ravindra Jadeja,c Paul b Joseph,16,13,2,0,123.07,2022
+India Vs West Indies,India,7,Dinesh Karthik,,41,19,4,2,215.78,2022
+India Vs West Indies,India,8,Ravichandran Ashwin,,13,10,0,1,130.00,2022
+India Vs West Indies,West Indies,1,Kyle Mayers,c Kumar b Arshdeep Singh,15,6,2,1,250.00,2022
+India Vs West Indies,West Indies,2,Shamarh Brooks, b Kumar,20,15,2,1,133.33,2022
+India Vs West Indies,West Indies,3,Jason Holder, b Jadeja,0,4,0,0,0.00,2022
+India Vs West Indies,West Indies,4,Nicholas Pooran(c)â€ ,c â€ Pant b Ashwin,18,15,1,1,120.00,2022
+India Vs West Indies,West Indies,5,Rovman Powell, b Ravi Bishnoi,14,17,0,1,82.35,2022
+India Vs West Indies,West Indies,6,Shimron Hetmyer,c Yadav b Ashwin,14,15,1,1,93.33,2022
+India Vs West Indies,West Indies,7,Akeal Hosein, b Arshdeep Singh,11,15,0,1,73.33,2022
+India Vs West Indies,West Indies,8,Odean Smith,st â€ Pant b Ravi Bishnoi,0,2,0,0,0.00,2022
+India Vs West Indies,West Indies,9,Keemo Paul,,19,22,2,0,86.36,2022
+India Vs West Indies,West Indies,10,Alzarri Joseph,,5,11,0,0,45.45,2022
+England Vs India,England,1,Jason Roy,c â€ Pant b Umran Malik,27,26,1,2,103.84,2022
+England Vs India,England,2,Jos Buttler(c)â€ , b Avesh Khan,18,9,2,1,200.00,2022
+England Vs India,England,3,Dawid Malan,c â€ Pant b Ravi Bishnoi,77,39,6,5,197.43,2022
+England Vs India,England,4,Phil Salt, b Patel,8,6,1,0,133.33,2022
+England Vs India,England,5,Liam Livingstone,,42,29,0,4,144.82,2022
+England Vs India,England,6,Moeen Ali,c Patel b Ravi Bishnoi,0,1,0,0,0.00,2022
+England Vs India,England,7,Harry Brook,c Ravi Bishnoi b Patel,19,9,3,0,211.11,2022
+England Vs India,England,8,Chris Jordan,run out (Jadeja/â€ Pant),11,3,1,1,366.66,2022
+England Vs India,India,1,Rohit Sharma(c),c Salt b Topley,11,12,2,0,91.66,2022
+England Vs India,India,2,Rishabh Pantâ€ ,c â€ Buttler b Topley,1,5,0,0,20.00,2022
+England Vs India,India,3,Virat Kohli,c Roy b Willey,11,6,1,1,183.33,2022
+England Vs India,India,4,Suryakumar Yadav,c Salt b Ali,117,55,14,6,212.72,2022
+England Vs India,India,5,Shreyas Iyer,c â€ Buttler b Topley,28,23,0,2,121.73,2022
+England Vs India,India,6,Dinesh Karthik,lbw b Willey,6,7,1,0,85.71,2022
+England Vs India,India,7,Ravindra Jadeja,lbw b Gleeson,7,4,0,1,175.00,2022
+England Vs India,India,8,Harshal Patel,c Gleeson b Jordan,5,6,1,0,83.33,2022
+England Vs India,India,9,Avesh Khan,,1,1,0,0,100.00,2022
+England Vs India,India,10,Ravi Bishnoi, b Jordan,2,2,0,0,100.00,2022
+India Vs England,India,1,Rohit Sharma(c),c â€ Buttler b Gleeson,31,20,3,2,155.00,2022
+India Vs England,India,2,Rishabh Pantâ€ ,c â€ Buttler b Gleeson,26,15,4,1,173.33,2022
+India Vs England,India,3,Virat Kohli,c Malan b Gleeson,1,3,0,0,33.33,2022
+India Vs England,India,4,Suryakumar Yadav,c Curran b Jordan,15,11,2,0,136.36,2022
+India Vs England,India,5,Hardik Pandya,c Malan b Jordan,12,15,1,0,80.00,2022
+India Vs England,India,6,Ravindra Jadeja,,46,29,5,0,158.62,2022
+India Vs England,India,7,Dinesh Karthik,run out (Brook/â€ Buttler),12,17,1,0,70.58,2022
+India Vs England,India,8,Harshal Patel,c Gleeson b Jordan,13,6,1,1,216.66,2022
+India Vs England,India,9,Bhuvneshwar Kumar,c Willey b Jordan,2,4,0,0,50.00,2022
+India Vs England,India,10,Jasprit Bumrah,,0,0,0,0,-,2022
+India Vs England,England,1,Jason Roy,c Sharma b Kumar,0,1,0,0,0.00,2022
+India Vs England,England,2,Jos Buttler(c)â€ ,c â€ Pant b Kumar,4,5,0,0,80.00,2022
+India Vs England,England,3,Dawid Malan,c Patel b Chahal,19,25,2,0,76.00,2022
+India Vs England,England,4,Liam Livingstone, b Bumrah,15,9,3,0,166.66,2022
+India Vs England,England,5,Harry Brook,c Yadav b Chahal,8,9,2,0,88.88,2022
+India Vs England,England,6,Moeen Ali,c Sharma b Pandya,35,21,3,2,166.66,2022
+India Vs England,England,7,Sam Curran,c Pandya b Bumrah,2,4,0,0,50.00,2022
+India Vs England,England,8,David Willey,,33,22,3,2,150.00,2022
+India Vs England,England,9,Chris Jordan,run out (Chahal/Sharma),1,1,0,0,100.00,2022
+India Vs England,England,10,Richard Gleeson,c Kohli b Kumar,2,3,0,0,66.66,2022
+India Vs England,England,11,Matt Parkinson, b Patel,0,2,0,0,0.00,2022
+India Vs England,India,1,Rohit Sharma(c),c â€ Buttler b Ali,24,14,5,0,171.42,2022
+India Vs England,India,2,Ishan Kishan,c Parkinson b Ali,8,10,0,0,80.00,2022
+India Vs England,India,3,Deepak Hooda,c Mills b Jordan,33,17,3,2,194.11,2022
+India Vs England,India,4,Suryakumar Yadav,c â€ Buttler b Jordan,39,19,4,2,205.26,2022
+India Vs England,India,5,Hardik Pandya,c Brook b Topley,51,33,6,1,154.54,2022
+India Vs England,India,6,Axar Patel,c Roy b Parkinson,17,12,3,0,141.66,2022
+India Vs England,India,7,Dinesh Karthikâ€ ,c Curran b Mills,11,7,2,0,157.14,2022
+India Vs England,India,8,Harshal Patel,run out (â€ Buttler),3,6,0,0,50.00,2022
+India Vs England,India,9,Bhuvneshwar Kumar,,1,1,0,0,100.00,2022
+India Vs England,India,10,Arshdeep Singh,,2,1,0,0,200.00,2022
+India Vs England,England,1,Jason Roy,c HV Patel b Pandya,4,16,0,0,25.00,2022
+India Vs England,England,2,Jos Buttler(c)â€ , b Kumar,0,1,0,0,0.00,2022
+India Vs England,England,3,Dawid Malan, b Pandya,21,14,4,0,150.00,2022
+India Vs England,England,4,Liam Livingstone,c â€ Karthik b Pandya,0,3,0,0,0.00,2022
+India Vs England,England,5,Harry Brook,c Yadav b Chahal,28,23,2,1,121.73,2022
+India Vs England,England,6,Moeen Ali,st â€ Karthik b Chahal,36,20,4,2,180.00,2022
+India Vs England,England,7,Sam Curran,c â€ Karthik b Pandya,4,4,0,0,100.00,2022
+India Vs England,England,8,Chris Jordan,,26,17,2,1,152.94,2022
+India Vs England,England,9,Tymal Mills,c & b HV Patel,7,8,0,1,87.50,2022
+India Vs England,England,10,Reece Topley,c â€ Karthik b Arshdeep Singh,9,8,1,0,112.50,2022
+India Vs England,England,11,Matt Parkinson,c Hooda b Arshdeep Singh,0,3,0,0,0.00,2022
+India Vs Ireland,India,1,Sanju Samson, b Adair,77,42,9,4,183.33,2022
+India Vs Ireland,India,2,Ishan Kishanâ€ ,c â€ Tucker b Adair,3,5,0,0,60.00,2022
+India Vs Ireland,India,3,Deepak Hooda,c McBrine b Little,104,57,9,6,182.45,2022
+India Vs Ireland,India,4,Suryakumar Yadav,c â€ Tucker b Little,15,5,2,1,300.00,2022
+India Vs Ireland,India,5,Hardik Pandya(c),,13,9,2,0,144.44,2022
+India Vs Ireland,India,6,Dinesh Karthik,c â€ Tucker b Young,0,1,0,0,0.00,2022
+India Vs Ireland,India,7,Axar Patel,c Dockrell b Young,0,1,0,0,0.00,2022
+India Vs Ireland,India,8,Harshal Patel, b Adair,0,1,0,0,0.00,2022
+India Vs Ireland,India,9,Bhuvneshwar Kumar,,1,1,0,0,100.00,2022
+India Vs Ireland,Ireland,1,Paul Stirling, b Ravi Bishnoi,40,18,5,3,222.22,2022
+India Vs Ireland,Ireland,2,Andy Balbirnie(c),c Ravi Bishnoi b HV Patel,60,37,3,7,162.16,2022
+India Vs Ireland,Ireland,3,Gareth Delany,run out (Pandya),0,4,0,0,0.00,2022
+India Vs Ireland,Ireland,4,Harry Tector,c Hooda b Kumar,39,28,5,0,139.28,2022
+India Vs Ireland,Ireland,5,Lorcan Tuckerâ€ ,c sub (YS Chahal) b Umran Malik,5,9,0,0,55.55,2022
+India Vs Ireland,Ireland,6,George Dockrell,,34,16,3,3,212.50,2022
+India Vs Ireland,Ireland,7,Mark Adair,,23,12,3,1,191.66,2022
+Ireland Vs India,Ireland,1,Paul Stirling,c Hooda b Pandya,4,5,1,0,80.00,2022
+Ireland Vs India,Ireland,2,Andy Balbirnie(c), b Kumar,0,2,0,0,0.00,2022
+Ireland Vs India,Ireland,3,Gareth Delany,c â€ Karthik b Avesh Khan,8,9,1,0,88.88,2022
+Ireland Vs India,Ireland,4,Harry Tector,,64,33,6,3,193.93,2022
+Ireland Vs India,Ireland,5,Lorcan Tuckerâ€ ,c Patel b Chahal,18,16,0,2,112.50,2022
+Ireland Vs India,Ireland,6,George Dockrell,,4,7,0,0,57.14,2022
+Ireland Vs India,India,1,Deepak Hooda,,47,29,6,2,162.06,2022
+Ireland Vs India,India,2,Ishan Kishan, b Young,26,11,3,2,236.36,2022
+Ireland Vs India,India,3,Suryakumar Yadav,lbw b Young,0,1,0,0,0.00,2022
+Ireland Vs India,India,4,Hardik Pandya(c),lbw b Little,24,12,1,3,200.00,2022
+Ireland Vs India,India,5,Dinesh Karthikâ€ ,,5,4,1,0,125.00,2022
+India Vs Info,India,1,Ishan Kishan, b Ngidi,15,7,0,2,214.28,2022
+India Vs Info,India,2,Ruturaj Gaikwad,c Pretorius b Ngidi,10,12,1,0,83.33,2022
+India Vs Info,India,3,Shreyas Iyer,,0,1,0,0,0.00,2022
+India Vs Info,India,4,Rishabh Pant(c)â€ ,,1,1,0,0,100.00,2022
+India Vs South Africa,India,1,Ruturaj Gaikwad,c â€ de Kock b Ngidi,5,7,1,0,71.42,2022
+India Vs South Africa,India,2,Ishan Kishan,c â€ de Kock b Nortje,27,26,3,1,103.84,2022
+India Vs South Africa,India,3,Shreyas Iyer,lbw b Jansen,4,2,1,0,200.00,2022
+India Vs South Africa,India,4,Rishabh Pant(c)â€ ,c Pretorius b Maharaj,17,23,2,0,73.91,2022
+India Vs South Africa,India,5,Hardik Pandya,c Shamsi b Ngidi,46,31,3,3,148.38,2022
+India Vs South Africa,India,6,Dinesh Karthik,c van der Dussen b Pretorius,55,27,9,2,203.70,2022
+India Vs South Africa,India,7,Axar Patel,,8,4,1,0,200.00,2022
+India Vs South Africa,India,8,Harshal Patel,,1,1,0,0,100.00,2022
+India Vs South Africa,South Africa,1,Quinton de Kockâ€ ,run out (HV Patel),14,13,2,0,107.69,2022
+India Vs South Africa,South Africa,2,Temba Bavuma(c),,8,11,1,0,72.72,2022
+India Vs South Africa,South Africa,3,Dwaine Pretorius,c â€ Pant b Avesh Khan,0,6,0,0,0.00,2022
+India Vs South Africa,South Africa,4,Rassie van der Dussen,c Gaikwad b Avesh Khan,20,20,2,0,100.00,2022
+India Vs South Africa,South Africa,5,Heinrich Klaasen,lbw b Chahal,8,8,1,0,100.00,2022
+India Vs South Africa,South Africa,6,David Miller, b HV Patel,9,7,0,1,128.57,2022
+India Vs South Africa,South Africa,7,Marco Jansen,c Gaikwad b Avesh Khan,12,17,1,1,70.58,2022
+India Vs South Africa,South Africa,8,Keshav Maharaj,c Iyer b Avesh Khan,0,2,0,0,0.00,2022
+India Vs South Africa,South Africa,9,Anrich Nortje,c Ishan Kishan b Chahal,1,4,0,0,25.00,2022
+India Vs South Africa,South Africa,10,Lungi Ngidi,c Gaikwad b AR Patel,4,10,0,0,40.00,2022
+India Vs South Africa,South Africa,11,Tabraiz Shamsi,,4,3,0,0,133.33,2022
+India Vs South Africa,India,1,Ruturaj Gaikwad,c & b Maharaj,57,35,7,2,162.85,2022
+India Vs South Africa,India,2,Ishan Kishan,c Hendricks b Pretorius,54,35,5,2,154.28,2022
+India Vs South Africa,India,3,Shreyas Iyer,c Nortje b Shamsi,14,11,0,2,127.27,2022
+India Vs South Africa,India,4,Rishabh Pant(c)â€ ,c Bavuma b Pretorius,6,8,0,0,75.00,2022
+India Vs South Africa,India,5,Hardik Pandya,,31,21,4,0,147.61,2022
+India Vs South Africa,India,6,Dinesh Karthik,c Parnell b Rabada,6,8,0,0,75.00,2022
+India Vs South Africa,India,7,Axar Patel,,5,2,1,0,250.00,2022
+India Vs South Africa,South Africa,1,Temba Bavuma(c),c Avesh Khan b AR Patel,8,10,0,0,80.00,2022
+India Vs South Africa,South Africa,2,Reeza Hendricks,c Chahal b HV Patel,23,20,2,1,115.00,2022
+India Vs South Africa,South Africa,3,Dwaine Pretorius,c â€ Pant b Chahal,20,16,2,1,125.00,2022
+India Vs South Africa,South Africa,4,Rassie van der Dussen,c â€ Pant b Chahal,1,4,0,0,25.00,2022
+India Vs South Africa,South Africa,5,Heinrich Klaasenâ€ ,c AR Patel b Chahal,29,24,3,1,120.83,2022
+India Vs South Africa,South Africa,6,David Miller,c Gaikwad b HV Patel,3,5,0,0,60.00,2022
+India Vs South Africa,South Africa,7,Wayne Parnell,,22,18,2,0,122.22,2022
+India Vs South Africa,South Africa,8,Kagiso Rabada,c Chahal b HV Patel,9,8,1,0,112.50,2022
+India Vs South Africa,South Africa,9,Keshav Maharaj,c Karthik b Kumar,11,8,0,1,137.50,2022
+India Vs South Africa,South Africa,10,Anrich Nortje,run out (â€ Pant/Kumar),0,1,0,0,0.00,2022
+India Vs South Africa,South Africa,11,Tabraiz Shamsi,c Avesh Khan b HV Patel,0,1,0,0,0.00,2022
+India Vs South Africa,India,1,Ruturaj Gaikwad,c Maharaj b Rabada,1,4,0,0,25.00,2022
+India Vs South Africa,India,2,Ishan Kishan,c van der Dussen b Nortje,34,21,2,3,161.90,2022
+India Vs South Africa,India,3,Shreyas Iyer,c â€ Klaasen b Pretorius,40,35,2,2,114.28,2022
+India Vs South Africa,India,4,Rishabh Pant(c)â€ ,c van der Dussen b Maharaj,5,7,0,0,71.42,2022
+India Vs South Africa,India,5,Hardik Pandya, b Parnell,9,12,1,0,75.00,2022
+India Vs South Africa,India,6,Axar Patel, b Nortje,10,11,1,0,90.90,2022
+India Vs South Africa,India,7,Dinesh Karthik,,30,21,2,2,142.85,2022
+India Vs South Africa,India,8,Harshal Patel,,12,9,2,0,133.33,2022
+India Vs South Africa,South Africa,1,Temba Bavuma(c), b Chahal,35,30,4,1,116.66,2022
+India Vs South Africa,South Africa,2,Reeza Hendricks, b Kumar,4,3,1,0,133.33,2022
+India Vs South Africa,South Africa,3,Dwaine Pretorius,c Avesh Khan b Kumar,4,5,1,0,80.00,2022
+India Vs South Africa,South Africa,4,Rassie van der Dussen, b Kumar,1,7,0,0,14.28,2022
+India Vs South Africa,South Africa,5,Heinrich Klaasenâ€ ,c sub (Ravi Bishnoi) b HV Patel,81,46,7,5,176.08,2022
+India Vs South Africa,South Africa,6,David Miller,,20,15,1,1,133.33,2022
+India Vs South Africa,South Africa,7,Wayne Parnell, b Kumar,1,4,0,0,25.00,2022
+India Vs South Africa,South Africa,8,Kagiso Rabada,,0,0,0,0,-,2022
+India Vs South Africa,India,1,Ishan Kishan,c Stubbs b Maharaj,76,48,11,3,158.33,2022
+India Vs South Africa,India,2,Ruturaj Gaikwad,c Bavuma b Parnell,23,15,0,3,153.33,2022
+India Vs South Africa,India,3,Shreyas Iyer, b Pretorius,36,27,1,3,133.33,2022
+India Vs South Africa,India,4,Rishabh Pant(c)â€ ,c van der Dussen b Nortje,29,16,2,2,181.25,2022
+India Vs South Africa,India,5,Hardik Pandya,,31,12,2,3,258.33,2022
+India Vs South Africa,India,6,Dinesh Karthik,,1,2,0,0,50.00,2022
+India Vs South Africa,South Africa,1,Quinton de Kockâ€ ,c Ishan Kishan b AR Patel,22,18,3,0,122.22,2022
+India Vs South Africa,South Africa,2,Temba Bavuma(c),c â€ Pant b Kumar,10,8,2,0,125.00,2022
+India Vs South Africa,South Africa,3,Dwaine Pretorius, b HV Patel,29,13,1,4,223.07,2022
+India Vs South Africa,South Africa,4,Rassie van der Dussen,,75,46,7,5,163.04,2022
+India Vs South Africa,South Africa,5,David Miller,,64,31,4,5,206.45,2022
+Sri Lanka Vs India,Sri Lanka,1,Pathum Nissanka,c VR Iyer b Avesh Khan,1,10,0,0,10.00,2022
+Sri Lanka Vs India,Sri Lanka,2,Danushka Gunathilaka, b Mohammed Siraj,0,1,0,0,0.00,2022
+Sri Lanka Vs India,Sri Lanka,3,Charith Asalanka,c â€ Samson b Avesh Khan,4,6,1,0,66.66,2022
+Sri Lanka Vs India,Sri Lanka,4,Janith Liyanage, b Ravi Bishnoi,9,19,0,0,47.36,2022
+Sri Lanka Vs India,Sri Lanka,5,Dinesh Chandimalâ€ ,c VR Iyer b Patel,22,27,2,0,81.48,2022
+Sri Lanka Vs India,Sri Lanka,6,Dasun Shanaka(c),,74,38,9,2,194.73,2022
+Sri Lanka Vs India,Sri Lanka,7,Chamika Karunaratne,,12,19,0,0,63.15,2022
+Sri Lanka Vs India,India,1,Sanju Samsonâ€ ,c â€ Chandimal b Karunaratne,18,12,3,0,150.00,2022
+Sri Lanka Vs India,India,2,Rohit Sharma(c),c Karunaratne b Chameera,5,9,1,0,55.55,2022
+Sri Lanka Vs India,India,3,Shreyas Iyer,,73,45,9,1,162.22,2022
+Sri Lanka Vs India,India,4,Deepak Hooda, b Kumara,21,16,1,1,131.25,2022
+Sri Lanka Vs India,India,5,Venkatesh Iyer,c sub (P Jayawickrama) b Kumara,5,4,1,0,125.00,2022
+Sri Lanka Vs India,India,6,Ravindra Jadeja,,22,15,3,0,146.66,2022
+Sri Lanka Vs India,Sri Lanka,1,Pathum Nissanka,lbw b Kumar,75,53,11,0,141.50,2022
+Sri Lanka Vs India,Sri Lanka,2,Danushka Gunathilaka,c VR Iyer b Jadeja,38,29,4,2,131.03,2022
+Sri Lanka Vs India,Sri Lanka,3,Charith Asalanka,lbw b Chahal,2,5,0,0,40.00,2022
+Sri Lanka Vs India,Sri Lanka,4,Kamil Mishara,c SS Iyer b Patel,1,4,0,0,25.00,2022
+Sri Lanka Vs India,Sri Lanka,5,Dinesh Chandimalâ€ ,c Sharma b Bumrah,9,10,1,0,90.00,2022
+Sri Lanka Vs India,Sri Lanka,6,Dasun Shanaka(c),,47,19,2,5,247.36,2022
+Sri Lanka Vs India,Sri Lanka,7,Chamika Karunaratne,,0,0,0,0,-,2022
+Sri Lanka Vs India,India,1,Rohit Sharma(c), b Chameera,1,2,0,0,50.00,2022
+Sri Lanka Vs India,India,2,Ishan Kishanâ€ ,c Shanaka b Kumara,16,15,2,0,106.66,2022
+Sri Lanka Vs India,India,3,Shreyas Iyer,,74,44,6,4,168.18,2022
+Sri Lanka Vs India,India,4,Sanju Samson,c Fernando b Kumara,39,25,2,3,156.00,2022
+Sri Lanka Vs India,India,5,Ravindra Jadeja,,45,18,7,1,250.00,2022
+India Vs Sri Lanka,India,1,Rohit Sharma(c), b Kumara,44,32,2,1,137.50,2022
+India Vs Sri Lanka,India,2,Ishan Kishanâ€ ,c Liyanage b Shanaka,89,56,10,3,158.92,2022
+India Vs Sri Lanka,India,3,Shreyas Iyer,,57,28,5,2,203.57,2022
+India Vs Sri Lanka,India,4,Ravindra Jadeja,,3,4,0,0,75.00,2022
+India Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka, b Kumar,0,1,0,0,0.00,2022
+India Vs Sri Lanka,Sri Lanka,2,Kamil Mishara,c Sharma b Kumar,13,12,2,0,108.33,2022
+India Vs Sri Lanka,Sri Lanka,3,Janith Liyanage,c Samson b VR Iyer,11,17,0,0,64.70,2022
+India Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,,53,47,5,0,112.76,2022
+India Vs Sri Lanka,Sri Lanka,5,Dinesh Chandimalâ€ ,st â€ Ishan Kishan b Jadeja,10,9,0,1,111.11,2022
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),c Kumar b Chahal,3,6,0,0,50.00,2022
+India Vs Sri Lanka,Sri Lanka,7,Chamika Karunaratne,c â€ Ishan Kishan b VR Iyer,21,14,0,2,150.00,2022
+India Vs Sri Lanka,Sri Lanka,8,Dushmantha Chameera,,24,14,2,1,171.42,2022
+India Vs West Indies,India,1,Ruturaj Gaikwad,c Mayers b Holder,4,8,1,0,50.00,2022
+India Vs West Indies,India,2,Ishan Kishanâ€ , b Chase,34,31,5,0,109.67,2022
+India Vs West Indies,India,3,Shreyas Iyer,c Holder b Walsh,25,16,4,0,156.25,2022
+India Vs West Indies,India,4,Rohit Sharma(c), b Drakes,7,15,0,0,46.66,2022
+India Vs West Indies,India,5,Suryakumar Yadav,c Powell b Shepherd,65,31,1,7,209.67,2022
+India Vs West Indies,India,6,Venkatesh Iyer,,35,19,4,2,184.21,2022
+India Vs West Indies,West Indies,1,Kyle Mayers,c â€ Ishan Kishan b Chahar,6,5,1,0,120.00,2022
+India Vs West Indies,West Indies,2,Shai Hope,c â€ Ishan Kishan b Chahar,8,4,2,0,200.00,2022
+India Vs West Indies,West Indies,3,Nicholas Pooranâ€ ,c â€ Ishan Kishan b Thakur,61,47,8,1,129.78,2022
+India Vs West Indies,West Indies,4,Rovman Powell,c Thakur b Patel,25,14,2,2,178.57,2022
+India Vs West Indies,West Indies,5,Kieron Pollard(c),c Ravi Bishnoi b VR Iyer,5,7,1,0,71.42,2022
+India Vs West Indies,West Indies,6,Jason Holder,c SS Iyer b VR Iyer,2,6,0,0,33.33,2022
+India Vs West Indies,West Indies,7,Roston Chase, b Patel,12,7,2,0,171.42,2022
+India Vs West Indies,West Indies,8,Romario Shepherd,c Sharma b Patel,29,21,1,3,138.09,2022
+India Vs West Indies,West Indies,9,Fabian Allen,,5,3,1,0,166.66,2022
+India Vs West Indies,West Indies,10,Dominic Drakes,c Sharma b Thakur,4,3,1,0,133.33,2022
+India Vs West Indies,West Indies,11,Hayden Walsh,,0,3,0,0,0.00,2022
+India Vs West Indies,India,1,Rohit Sharma(c),c King b Chase,19,18,2,1,105.55,2022
+India Vs West Indies,India,2,Ishan Kishan,c Mayers b Cottrell,2,10,0,0,20.00,2022
+India Vs West Indies,India,3,Virat Kohli, b Chase,52,41,7,1,126.82,2022
+India Vs West Indies,India,4,Suryakumar Yadav,c & b Chase,8,6,1,0,133.33,2022
+India Vs West Indies,India,5,Rishabh Pantâ€ ,,52,28,7,1,185.71,2022
+India Vs West Indies,India,6,Venkatesh Iyer, b Shepherd,33,18,4,1,183.33,2022
+India Vs West Indies,India,7,Harshal Patel,,1,1,0,0,100.00,2022
+India Vs West Indies,West Indies,1,Brandon King,c Yadav b Ravi Bishnoi,22,30,2,0,73.33,2022
+India Vs West Indies,West Indies,2,Kyle Mayers,c & b Chahal,9,10,1,0,90.00,2022
+India Vs West Indies,West Indies,3,Nicholas Pooranâ€ ,c Ravi Bishnoi b Kumar,62,41,5,3,151.21,2022
+India Vs West Indies,West Indies,4,Rovman Powell,,68,36,4,5,188.88,2022
+India Vs West Indies,West Indies,5,Kieron Pollard(c),,3,3,0,0,100.00,2022
+West Indies Vs India,West Indies,1,Brandon King,c Yadav b Kumar,4,5,1,0,80.00,2022
+West Indies Vs India,West Indies,2,Kyle Mayers,lbw b Chahal,31,24,7,0,129.16,2022
+West Indies Vs India,West Indies,3,Nicholas Pooranâ€ ,c Kohli b Patel,61,43,4,5,141.86,2022
+West Indies Vs India,West Indies,4,Roston Chase,lbw b Ravi Bishnoi,4,10,0,0,40.00,2022
+West Indies Vs India,West Indies,5,Rovman Powell,c Iyer b Ravi Bishnoi,2,3,0,0,66.66,2022
+West Indies Vs India,West Indies,6,Akeal Hosein,c & b Chahar,10,12,0,1,83.33,2022
+West Indies Vs India,West Indies,7,Kieron Pollard(c),,24,19,2,1,126.31,2022
+West Indies Vs India,West Indies,8,Odean Smith,c Sharma b Patel,4,4,0,0,100.00,2022
+West Indies Vs India,India,1,Rohit Sharma(c),c Smith b Chase,40,19,4,3,210.52,2022
+West Indies Vs India,India,2,Ishan Kishan,c Allen b Chase,35,42,4,0,83.33,2022
+West Indies Vs India,India,3,Virat Kohli,c Pollard b Allen,17,13,1,0,130.76,2022
+West Indies Vs India,India,4,Rishabh Pantâ€ ,c Smith b Cottrell,8,8,0,0,100.00,2022
+West Indies Vs India,India,5,Suryakumar Yadav,,34,18,5,1,188.88,2022
+West Indies Vs India,India,6,Venkatesh Iyer,,24,13,2,1,184.61,2022
+India Vs New Zealand,India,1,Rohit Sharma(c),c & b Sodhi,56,31,5,3,180.64,2021
+India Vs New Zealand,India,2,Ishan Kishan,c â€ Seifert b Santner,29,21,6,0,138.09,2021
+India Vs New Zealand,India,3,Suryakumar Yadav,c Guptill b Santner,0,4,0,0,0.00,2021
+India Vs New Zealand,India,4,Rishabh Pantâ€ ,c Neesham b Santner,4,6,0,0,66.66,2021
+India Vs New Zealand,India,5,Shreyas Iyer,c Mitchell b Milne,25,20,2,0,125.00,2021
+India Vs New Zealand,India,6,Venkatesh Iyer,c Chapman b Boult,20,15,1,1,133.33,2021
+India Vs New Zealand,India,7,Axar Patel,,2,4,0,0,50.00,2021
+India Vs New Zealand,India,8,Harshal Patel,hit wicket b Ferguson,18,11,2,1,163.63,2021
+India Vs New Zealand,India,9,Deepak Chahar,,21,8,2,1,262.50,2021
+India Vs New Zealand,New Zealand,1,Martin Guptill,c Yadav b Chahal,51,36,4,4,141.66,2021
+India Vs New Zealand,New Zealand,2,Daryl Mitchell,c HV Patel b AR Patel,5,6,1,0,83.33,2021
+India Vs New Zealand,New Zealand,3,Mark Chapman,st â€ Pant b AR Patel,0,2,0,0,0.00,2021
+India Vs New Zealand,New Zealand,4,Glenn Phillips, b AR Patel,0,4,0,0,0.00,2021
+India Vs New Zealand,New Zealand,5,Tim Seifertâ€ ,run out (Ishan Kishan/â€ Pant),17,18,1,0,94.44,2021
+India Vs New Zealand,New Zealand,6,James Neesham,c â€ Pant b HV Patel,3,7,0,0,42.85,2021
+India Vs New Zealand,New Zealand,7,Mitchell Santner(c),run out (Ishan Kishan),2,4,0,0,50.00,2021
+India Vs New Zealand,New Zealand,8,Adam Milne,c Sharma b VR Iyer,7,6,0,1,116.66,2021
+India Vs New Zealand,New Zealand,9,Ish Sodhi,c Yadav b HV Patel,9,11,2,0,81.81,2021
+India Vs New Zealand,New Zealand,10,Lockie Ferguson,c & b Chahar,14,8,0,2,175.00,2021
+India Vs New Zealand,New Zealand,11,Trent Boult,,2,2,0,0,100.00,2021
+New Zealand Vs India,New Zealand,1,Martin Guptill,c â€ Pant b Chahar,31,15,3,2,206.66,2021
+New Zealand Vs India,New Zealand,2,Daryl Mitchell,c Yadav b HV Patel,31,28,3,0,110.71,2021
+New Zealand Vs India,New Zealand,3,Mark Chapman,c Rahul b AR Patel,21,17,3,0,123.52,2021
+New Zealand Vs India,New Zealand,4,Glenn Phillips,c sub (RD Gaikwad) b HV Patel,34,21,1,3,161.90,2021
+New Zealand Vs India,New Zealand,5,Tim Seifertâ€ ,c Kumar b Ashwin,13,15,1,0,86.66,2021
+New Zealand Vs India,New Zealand,6,James Neesham,c â€ Pant b Kumar,3,12,0,0,25.00,2021
+New Zealand Vs India,New Zealand,7,Mitchell Santner,,8,9,0,0,88.88,2021
+New Zealand Vs India,New Zealand,8,Adam Milne,,5,4,0,0,125.00,2021
+New Zealand Vs India,India,1,KL Rahul,c Phillips b Southee,65,49,6,2,132.65,2021
+New Zealand Vs India,India,2,Rohit Sharma(c),c Guptill b Southee,55,36,1,5,152.77,2021
+New Zealand Vs India,India,3,Venkatesh Iyer,,12,11,2,0,109.09,2021
+New Zealand Vs India,India,4,Suryakumar Yadav, b Southee,1,2,0,0,50.00,2021
+New Zealand Vs India,India,5,Rishabh Pantâ€ ,,12,6,0,2,200.00,2021
+New Zealand Vs India,New Zealand,1,Martin Guptill,c SS Iyer b Chahar,70,42,3,4,166.66,2021
+New Zealand Vs India,New Zealand,2,Daryl Mitchell, b Kumar,0,1,0,0,0.00,2021
+New Zealand Vs India,New Zealand,3,Mark Chapman, b Ashwin,63,50,6,2,126.00,2021
+New Zealand Vs India,New Zealand,4,Glenn Phillips,lbw b Ashwin,0,3,0,0,0.00,2021
+New Zealand Vs India,New Zealand,5,Tim Seifertâ€ ,c Yadav b Kumar,12,11,2,0,109.09,2021
+New Zealand Vs India,New Zealand,6,Rachin Ravindra, b Mohammed Siraj,7,8,1,0,87.50,2021
+New Zealand Vs India,New Zealand,7,Mitchell Santner,,4,4,0,0,100.00,2021
+New Zealand Vs India,New Zealand,8,Tim Southee(c),,0,1,0,0,0.00,2021
+New Zealand Vs India,India,1,KL Rahul,c Chapman b Santner,15,14,1,1,107.14,2021
+New Zealand Vs India,India,2,Rohit Sharma(c),c Ravindra b Boult,48,36,5,2,133.33,2021
+New Zealand Vs India,India,3,Suryakumar Yadav, b Boult,62,40,6,3,155.00,2021
+New Zealand Vs India,India,4,Rishabh Pantâ€ ,,17,17,2,0,100.00,2021
+New Zealand Vs India,India,5,Shreyas Iyer,c Boult b Southee,5,8,0,0,62.50,2021
+New Zealand Vs India,India,6,Venkatesh Iyer,c Ravindra b Mitchell,4,2,1,0,200.00,2021
+New Zealand Vs India,India,7,Axar Patel,,1,1,0,0,100.00,2021
+Namibia Vs India,Namibia,1,Stephan Baard,lbw b Jadeja,21,21,1,1,100.00,2021
+Namibia Vs India,Namibia,2,Michael van Lingen,c Mohammed Shami b Bumrah,14,15,2,0,93.33,2021
+Namibia Vs India,Namibia,3,Craig Williams,st â€ Pant b Jadeja,0,4,0,0,0.00,2021
+Namibia Vs India,Namibia,4,Gerhard Erasmus(c),c â€ Pant b Ashwin,12,20,1,0,60.00,2021
+Namibia Vs India,Namibia,5,Jan Nicol Loftie-Eaton,c Sharma b Ashwin,5,5,0,0,100.00,2021
+Namibia Vs India,Namibia,6,David Wiese,c Sharma b Bumrah,26,25,2,0,104.00,2021
+Namibia Vs India,Namibia,7,JJ Smit,c Sharma b Jadeja,9,9,1,0,100.00,2021
+Namibia Vs India,Namibia,8,Zane Greenâ€ , b Ashwin,0,1,0,0,0.00,2021
+Namibia Vs India,Namibia,9,Jan Frylinck,,15,15,0,0,100.00,2021
+Namibia Vs India,Namibia,10,Ruben Trumpelmann,,13,6,1,1,216.66,2021
+Namibia Vs India,India,1,KL Rahul,,54,36,4,2,150.00,2021
+Namibia Vs India,India,2,Rohit Sharma,c â€ Green b Frylinck,56,37,7,2,151.35,2021
+Namibia Vs India,India,3,Suryakumar Yadav,,25,19,4,0,131.57,2021
+Scotland Vs India,Scotland,1,George Munsey,c Pandya b Mohammed Shami,24,19,4,1,126.31,2021
+Scotland Vs India,Scotland,2,Kyle Coetzer(c), b Bumrah,1,7,0,0,14.28,2021
+Scotland Vs India,Scotland,3,Matthew Crossâ€ ,lbw b Jadeja,2,9,0,0,22.22,2021
+Scotland Vs India,Scotland,4,Richie Berrington, b Jadeja,0,5,0,0,0.00,2021
+Scotland Vs India,Scotland,5,Calum MacLeod, b Mohammed Shami,16,28,0,0,57.14,2021
+Scotland Vs India,Scotland,6,Michael Leask,lbw b Jadeja,21,12,2,1,175.00,2021
+Scotland Vs India,Scotland,7,Chris Greaves,c Pandya b Ashwin,1,7,0,0,14.28,2021
+Scotland Vs India,Scotland,8,Mark Watt, b Bumrah,14,13,2,0,107.69,2021
+Scotland Vs India,Scotland,9,Safyaan Sharif,run out (sub [Ishan Kishan]),0,1,0,0,0.00,2021
+Scotland Vs India,Scotland,10,Alasdair Evans, b Mohammed Shami,0,1,0,0,0.00,2021
+Scotland Vs India,Scotland,11,Brad Wheal,,2,4,0,0,50.00,2021
+Scotland Vs India,India,1,KL Rahul,c MacLeod b Watt,50,19,6,3,263.15,2021
+Scotland Vs India,India,2,Rohit Sharma,lbw b Wheal,30,16,5,1,187.50,2021
+Scotland Vs India,India,3,Virat Kohli(c),,2,2,0,0,100.00,2021
+Scotland Vs India,India,4,Suryakumar Yadav,,6,2,0,1,300.00,2021
+India Vs Afghanistan,India,1,KL Rahul, b Gulbadin Naib,69,48,6,2,143.75,2021
+India Vs Afghanistan,India,2,Rohit Sharma,c Mohammad Nabi b Karim Janat,74,47,8,3,157.44,2021
+India Vs Afghanistan,India,3,Rishabh Pantâ€ ,,27,13,1,3,207.69,2021
+India Vs Afghanistan,India,4,Hardik Pandya,,35,13,4,2,269.23,2021
+India Vs Afghanistan,Afghanistan,1,Hazratullah Zazai,c Thakur b Bumrah,13,15,1,1,86.66,2021
+India Vs Afghanistan,Afghanistan,2,Mohammad Shahzadâ€ ,c Ashwin b Mohammed Shami,0,4,0,0,0.00,2021
+India Vs Afghanistan,Afghanistan,3,Rahmanullah Gurbaz,c Pandya b Jadeja,19,10,1,2,190.00,2021
+India Vs Afghanistan,Afghanistan,4,Gulbadin Naib,lbw b Ashwin,18,20,3,0,90.00,2021
+India Vs Afghanistan,Afghanistan,5,Najibullah Zadran, b Ashwin,11,13,0,1,84.61,2021
+India Vs Afghanistan,Afghanistan,6,Mohammad Nabi(c),c Jadeja b Mohammed Shami,35,32,2,1,109.37,2021
+India Vs Afghanistan,Afghanistan,7,Karim Janat,,42,22,3,2,190.90,2021
+India Vs Afghanistan,Afghanistan,8,Rashid Khan,c Pandya b Mohammed Shami,0,1,0,0,0.00,2021
+India Vs Afghanistan,Afghanistan,9,Sharafuddin Ashraf,,2,3,0,0,66.66,2021
+India Vs New Zealand,India,1,KL Rahul,c Mitchell b Southee,18,16,3,0,112.50,2021
+India Vs New Zealand,India,2,Ishan Kishan,c Mitchell b Boult,4,8,1,0,50.00,2021
+India Vs New Zealand,India,3,Rohit Sharma,c Guptill b Sodhi,14,14,1,1,100.00,2021
+India Vs New Zealand,India,4,Virat Kohli(c),c Boult b Sodhi,9,17,0,0,52.94,2021
+India Vs New Zealand,India,5,Rishabh Pantâ€ , b Milne,12,19,0,0,63.15,2021
+India Vs New Zealand,India,6,Hardik Pandya,c Guptill b Boult,23,24,1,0,95.83,2021
+India Vs New Zealand,India,7,Ravindra Jadeja,,26,19,2,1,136.84,2021
+India Vs New Zealand,India,8,Shardul Thakur,c Guptill b Boult,0,3,0,0,0.00,2021
+India Vs New Zealand,India,9,Mohammed Shami,,0,0,0,0,-,2021
+India Vs New Zealand,New Zealand,1,Martin Guptill,c Thakur b Bumrah,20,17,3,0,117.64,2021
+India Vs New Zealand,New Zealand,2,Daryl Mitchell,c Rahul b Bumrah,49,35,4,3,140.00,2021
+India Vs New Zealand,New Zealand,3,Kane Williamson(c),,33,31,3,0,106.45,2021
+India Vs New Zealand,New Zealand,4,Devon Conwayâ€ ,,2,4,0,0,50.00,2021
+India Vs Pakistan,India,1,KL Rahul, b Shaheen Shah Afridi,3,8,0,0,37.50,2021
+India Vs Pakistan,India,2,Rohit Sharma,lbw b Shaheen Shah Afridi,0,1,0,0,0.00,2021
+India Vs Pakistan,India,3,Virat Kohli(c),c â€ Mohammad Rizwan b Shaheen Shah Afridi,57,49,5,1,116.32,2021
+India Vs Pakistan,India,4,Suryakumar Yadav,c â€ Mohammad Rizwan b Hasan Ali,11,8,1,1,137.50,2021
+India Vs Pakistan,India,5,Rishabh Pantâ€ ,c & b Shadab Khan,39,30,2,2,130.00,2021
+India Vs Pakistan,India,6,Ravindra Jadeja,c sub (Mohammad Nawaz) b Hasan Ali,13,13,1,0,100.00,2021
+India Vs Pakistan,India,7,Hardik Pandya,c Babar Azam b Haris Rauf,11,8,2,0,137.50,2021
+India Vs Pakistan,India,8,Bhuvneshwar Kumar,,5,4,0,0,125.00,2021
+India Vs Pakistan,India,9,Mohammed Shami,,0,0,0,0,-,2021
+India Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ ,,79,55,6,3,143.63,2021
+India Vs Pakistan,Pakistan,2,Babar Azam(c),,68,52,6,2,130.76,2021
+India Vs Sri Lanka,India,1,Ruturaj Gaikwad,lbw b PWH de Silva,14,10,2,0,140.00,2021
+India Vs Sri Lanka,India,2,Shikhar Dhawan(c),c DM de Silva b Chameera,0,1,0,0,0.00,2021
+India Vs Sri Lanka,India,3,Devdutt Padikkal,lbw b Mendis,9,15,1,0,60.00,2021
+India Vs Sri Lanka,India,4,Sanju Samsonâ€ ,lbw b PWH de Silva,0,3,0,0,0.00,2021
+India Vs Sri Lanka,India,5,Nitish Rana,c & b Shanaka,6,15,0,0,40.00,2021
+India Vs Sri Lanka,India,6,Bhuvneshwar Kumar,c Shanaka b PWH de Silva,16,32,0,0,50.00,2021
+India Vs Sri Lanka,India,7,Kuldeep Yadav,,23,28,0,0,82.14,2021
+India Vs Sri Lanka,India,8,Rahul Chahar,c â€ Bhanuka b Shanaka,5,5,1,0,100.00,2021
+India Vs Sri Lanka,India,9,Varun Chakravarthy,c Karunaratne b PWH de Silva,0,2,0,0,0.00,2021
+India Vs Sri Lanka,India,10,Chetan Sakariya,,5,9,0,0,55.55,2021
+India Vs Sri Lanka,Sri Lanka,1,Avishka Fernando,c & b Chahar,12,18,1,0,66.66,2021
+India Vs Sri Lanka,Sri Lanka,2,Minod Bhanukaâ€ ,lbw b Chahar,18,27,1,0,66.66,2021
+India Vs Sri Lanka,Sri Lanka,3,Sadeera Samarawickrama, b Chahar,6,13,0,0,46.15,2021
+India Vs Sri Lanka,Sri Lanka,4,Dhananjaya de Silva,,23,20,2,0,115.00,2021
+India Vs Sri Lanka,Sri Lanka,5,Wanindu Hasaranga,,14,9,1,0,155.55,2021
+India Vs Sri Lanka,India,1,Ruturaj Gaikwad,c â€ Bhanuka b Shanaka,21,18,1,0,116.66,2021
+India Vs Sri Lanka,India,2,Shikhar Dhawan(c), b Dananjaya,40,42,5,0,95.23,2021
+India Vs Sri Lanka,India,3,Devdutt Padikkal, b PWH de Silva,29,23,1,1,126.08,2021
+India Vs Sri Lanka,India,4,Sanju Samsonâ€ , b Dananjaya,7,13,0,0,53.84,2021
+India Vs Sri Lanka,India,5,Nitish Rana,c DM de Silva b Chameera,9,12,0,0,75.00,2021
+India Vs Sri Lanka,India,6,Bhuvneshwar Kumar,,13,11,0,0,118.18,2021
+India Vs Sri Lanka,India,7,Navdeep Saini,,1,1,0,0,100.00,2021
+India Vs Sri Lanka,Sri Lanka,1,Avishka Fernando,c Chahar b Kumar,11,13,2,0,84.61,2021
+India Vs Sri Lanka,Sri Lanka,2,Minod Bhanukaâ€ ,c Chahar b Kuldeep Yadav,36,31,4,0,116.12,2021
+India Vs Sri Lanka,Sri Lanka,3,Sadeera Samarawickrama, b Varun,8,12,1,0,66.66,2021
+India Vs Sri Lanka,Sri Lanka,4,Dasun Shanaka(c),st â€ Samson b Kuldeep Yadav,3,6,0,0,50.00,2021
+India Vs Sri Lanka,Sri Lanka,5,Dhananjaya de Silva,,40,34,1,1,117.64,2021
+India Vs Sri Lanka,Sri Lanka,6,Wanindu Hasaranga,c Kumar b Chahar,15,11,2,0,136.36,2021
+India Vs Sri Lanka,Sri Lanka,7,Ramesh Mendis,c Gaikwad b Sakariya,2,5,0,0,40.00,2021
+India Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,,12,6,0,1,200.00,2021
+India Vs Sri Lanka,India,1,Prithvi Shaw,c â€ Bhanuka b Chameera,0,1,0,0,0.00,2021
+India Vs Sri Lanka,India,2,Shikhar Dhawan(c),c Bandara b Karunaratne,46,36,4,1,127.77,2021
+India Vs Sri Lanka,India,3,Sanju Samson,lbw b PWH de Silva,27,20,2,1,135.00,2021
+India Vs Sri Lanka,India,4,Suryakumar Yadav,c sub (RTM Mendis) b PWH de Silva,50,34,5,2,147.05,2021
+India Vs Sri Lanka,India,5,Hardik Pandya,c â€ Bhanuka b Chameera,10,12,0,0,83.33,2021
+India Vs Sri Lanka,India,6,Ishan Kishanâ€ ,,20,14,1,1,142.85,2021
+India Vs Sri Lanka,India,7,Krunal Pandya,,3,3,0,0,100.00,2021
+India Vs Sri Lanka,Sri Lanka,1,Avishka Fernando,c Samson b Kumar,26,23,3,0,113.04,2021
+India Vs Sri Lanka,Sri Lanka,2,Minod Bhanukaâ€ ,c Yadav b KH Pandya,10,7,2,0,142.85,2021
+India Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva, b Chahal,9,10,1,0,90.00,2021
+India Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,c Shaw b Chahar,44,26,3,3,169.23,2021
+India Vs Sri Lanka,Sri Lanka,5,Ashen Bandara, b HH Pandya,9,19,0,0,47.36,2021
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),st â€ Ishan Kishan b Varun,16,14,0,1,114.28,2021
+India Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga, b Chahar,0,2,0,0,0.00,2021
+India Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne, b Kumar,3,4,0,0,75.00,2021
+India Vs Sri Lanka,Sri Lanka,9,Isuru Udana,c Yadav b Kumar,1,2,0,0,50.00,2021
+India Vs Sri Lanka,Sri Lanka,10,Dushmantha Chameera,c KH Pandya b Kumar,1,3,0,0,33.33,2021
+India Vs Sri Lanka,Sri Lanka,11,Akila Dananjaya,,1,1,0,0,100.00,2021
+India Vs England,India,1,Rohit Sharma, b Stokes,64,34,4,5,188.23,2021
+India Vs England,India,2,Virat Kohli(c),,80,52,7,2,153.84,2021
+India Vs England,India,3,Suryakumar Yadav,c Roy b Rashid,32,17,3,2,188.23,2021
+India Vs England,India,4,Hardik Pandya,,39,17,4,2,229.41,2021
+India Vs England,England,1,Jason Roy, b Kumar,0,2,0,0,0.00,2021
+India Vs England,England,2,Jos Buttlerâ€ ,c Pandya b Kumar,52,34,2,4,152.94,2021
+India Vs England,England,3,Dawid Malan, b Thakur,68,46,9,2,147.82,2021
+India Vs England,England,4,Jonny Bairstow,c Yadav b Thakur,7,7,1,0,100.00,2021
+India Vs England,England,5,Eoin Morgan(c),c sub (KL Rahul) b Pandya,1,4,0,0,25.00,2021
+India Vs England,England,6,Ben Stokes,c â€ Pant b Natarajan,14,12,2,0,116.66,2021
+India Vs England,England,7,Chris Jordan,c Yadav b Thakur,11,10,0,1,110.00,2021
+India Vs England,England,8,Jofra Archer,run out (Yadav/â€ Pant),1,2,0,0,50.00,2021
+India Vs England,England,9,Sam Curran,,14,3,0,2,466.66,2021
+India Vs England,England,10,Adil Rashid,,0,0,0,0,-,2021
+India Vs England,India,1,Rohit Sharma,c & b Archer,12,12,1,1,100.00,2021
+India Vs England,India,2,KL Rahul,c Archer b Stokes,14,17,2,0,82.35,2021
+India Vs England,India,3,Suryakumar Yadav,c Malan b Curran,57,31,6,3,183.87,2021
+India Vs England,India,4,Virat Kohli(c),st â€ Buttler b Rashid,1,5,0,0,20.00,2021
+India Vs England,India,5,Rishabh Pantâ€ , b Archer,30,23,4,0,130.43,2021
+India Vs England,India,6,Shreyas Iyer,c Malan b Archer,37,18,5,1,205.55,2021
+India Vs England,India,7,Hardik Pandya,c Stokes b Wood,11,8,0,1,137.50,2021
+India Vs England,India,8,Shardul Thakur,,10,4,2,0,250.00,2021
+India Vs England,India,9,Washington Sundar,c Rashid b Archer,4,2,1,0,200.00,2021
+India Vs England,India,10,Bhuvneshwar Kumar,,0,0,0,0,-,2021
+India Vs England,England,1,Jason Roy,c Yadav b Pandya,40,27,6,1,148.14,2021
+India Vs England,England,2,Jos Buttlerâ€ ,c Rahul b Kumar,9,6,0,1,150.00,2021
+India Vs England,England,3,Dawid Malan, b Chahar,14,17,0,1,82.35,2021
+India Vs England,England,4,Jonny Bairstow,c Washington Sundar b Chahar,25,19,2,1,131.57,2021
+India Vs England,England,5,Ben Stokes,c Yadav b Thakur,46,23,4,3,200.00,2021
+India Vs England,England,6,Eoin Morgan(c),c Washington Sundar b Thakur,4,6,0,0,66.66,2021
+India Vs England,England,7,Sam Curran, b Pandya,3,5,0,0,60.00,2021
+India Vs England,England,8,Chris Jordan,c Pandya b Thakur,12,9,1,0,133.33,2021
+India Vs England,England,9,Jofra Archer,,18,8,2,1,225.00,2021
+India Vs England,England,10,Adil Rashid,,0,0,0,0,-,2021
+India Vs England,India,1,Rohit Sharma,c Archer b Wood,15,17,2,0,88.23,2021
+India Vs England,India,2,KL Rahul, b Wood,0,4,0,0,0.00,2021
+India Vs England,India,3,Ishan Kishan,c â€ Buttler b Jordan,4,9,0,0,44.44,2021
+India Vs England,India,4,Virat Kohli(c),,77,46,8,4,167.39,2021
+India Vs England,India,5,Rishabh Pantâ€ ,run out (â€ Buttler/Curran),25,20,3,0,125.00,2021
+India Vs England,India,6,Shreyas Iyer,c Malan b Wood,9,9,1,0,100.00,2021
+India Vs England,India,7,Hardik Pandya,c Archer b Jordan,17,15,0,2,113.33,2021
+India Vs England,England,1,Jason Roy,c Sharma b Chahal,9,13,2,0,69.23,2021
+India Vs England,England,2,Jos Buttlerâ€ ,,83,52,5,4,159.61,2021
+India Vs England,England,3,Dawid Malan,st â€ Pant b Washington Sundar,18,17,0,1,105.88,2021
+India Vs England,England,4,Jonny Bairstow,,40,28,5,0,142.85,2021
+England Vs India,England,1,Jason Roy,c Kumar b Washington Sundar,46,35,4,2,131.42,2021
+England Vs India,England,2,Jos Buttlerâ€ ,lbw b Kumar,0,1,0,0,0.00,2021
+England Vs India,England,3,Dawid Malan,lbw b Chahal,24,23,4,0,104.34,2021
+England Vs India,England,4,Jonny Bairstow,c Yadav b Washington Sundar,20,15,1,1,133.33,2021
+England Vs India,England,5,Eoin Morgan(c),c â€ Pant b Thakur,28,20,4,0,140.00,2021
+England Vs India,England,6,Ben Stokes,c Pandya b Thakur,24,21,1,0,114.28,2021
+England Vs India,England,7,Sam Curran,,6,5,1,0,120.00,2021
+England Vs India,England,8,Chris Jordan,,0,0,0,0,-,2021
+England Vs India,India,1,KL Rahul,c â€ Buttler b SM Curran,0,6,0,0,0.00,2021
+England Vs India,India,2,Ishan Kishan,lbw b Rashid,56,32,5,4,175.00,2021
+England Vs India,India,3,Virat Kohli(c),,73,49,5,3,148.97,2021
+England Vs India,India,4,Rishabh Pantâ€ ,c Bairstow b Jordan,26,13,2,2,200.00,2021
+England Vs India,India,5,Shreyas Iyer,,8,8,0,0,100.00,2021
+India Vs England,India,1,Shikhar Dhawan, b Wood,4,12,0,0,33.33,2021
+India Vs England,India,2,KL Rahul, b Archer,1,4,0,0,25.00,2021
+India Vs England,India,3,Virat Kohli(c),c Jordan b Rashid,0,5,0,0,0.00,2021
+India Vs England,India,4,Rishabh Pantâ€ ,c Bairstow b Stokes,21,23,2,1,91.30,2021
+India Vs England,India,5,Shreyas Iyer,c Malan b Jordan,67,48,8,1,139.58,2021
+India Vs England,India,6,Hardik Pandya,c Jordan b Archer,19,21,1,1,90.47,2021
+India Vs England,India,7,Shardul Thakur,c Malan b Archer,0,1,0,0,0.00,2021
+India Vs England,India,8,Washington Sundar,,3,3,0,0,100.00,2021
+India Vs England,India,9,Axar Patel,,7,3,1,0,233.33,2021
+India Vs England,England,1,Jason Roy,lbw b Washington Sundar,49,32,4,3,153.12,2021
+India Vs England,England,2,Jos Buttlerâ€ ,lbw b Chahal,28,24,2,1,116.66,2021
+India Vs England,England,3,Dawid Malan,,24,20,2,1,120.00,2021
+India Vs England,England,4,Jonny Bairstow,,26,17,1,2,152.94,2021
+Australia Vs India,Australia,1,Matthew Wadeâ€ ,lbw b Thakur,80,53,7,2,150.94,2020
+Australia Vs India,Australia,2,Aaron Finch(c),c Pandya b Washington Sundar,0,2,0,0,0.00,2020
+Australia Vs India,Australia,3,Steven Smith, b Washington Sundar,24,23,1,0,104.34,2020
+Australia Vs India,Australia,4,Glenn Maxwell, b Natarajan,54,36,3,3,150.00,2020
+Australia Vs India,Australia,5,Moises Henriques,,5,2,1,0,250.00,2020
+Australia Vs India,Australia,6,D'Arcy Short,run out (sub [MK Pandey]/â€ Rahul),7,3,1,0,233.33,2020
+Australia Vs India,Australia,7,Daniel Sams,,4,2,1,0,200.00,2020
+Australia Vs India,India,1,KL Rahulâ€ ,c Smith b Maxwell,0,2,0,0,0.00,2020
+Australia Vs India,India,2,Shikhar Dhawan,c Sams b Swepson,28,21,3,0,133.33,2020
+Australia Vs India,India,3,Virat Kohli(c),c Sams b Tye,85,61,4,3,139.34,2020
+Australia Vs India,India,4,Sanju Samson,c Smith b Swepson,10,9,0,0,111.11,2020
+Australia Vs India,India,5,Shreyas Iyer,lbw b Swepson,0,1,0,0,0.00,2020
+Australia Vs India,India,6,Hardik Pandya,c Finch b Zampa,20,13,1,2,153.84,2020
+Australia Vs India,India,7,Washington Sundar,c Tye b Abbott,7,6,1,0,116.66,2020
+Australia Vs India,India,8,Shardul Thakur,,17,7,0,2,242.85,2020
+Australia Vs India,India,9,Deepak Chahar,,0,0,0,0,-,2020
+Australia Vs India,Australia,1,Matthew Wade(c)â€ ,run out (Kohli/â€ Rahul),58,32,10,1,181.25,2020
+Australia Vs India,Australia,2,D'Arcy Short,c Iyer b Natarajan,9,9,1,0,100.00,2020
+Australia Vs India,Australia,3,Steven Smith,c Pandya b Chahal,46,38,3,2,121.05,2020
+Australia Vs India,Australia,4,Glenn Maxwell,c Washington Sundar b Thakur,22,13,0,2,169.23,2020
+Australia Vs India,Australia,5,Moises Henriques,c â€ Rahul b Natarajan,26,18,0,1,144.44,2020
+Australia Vs India,Australia,6,Marcus Stoinis,,16,7,0,1,228.57,2020
+Australia Vs India,Australia,7,Daniel Sams,,8,3,1,0,266.66,2020
+Australia Vs India,India,1,KL Rahulâ€ ,c Swepson b Tye,30,22,2,1,136.36,2020
+Australia Vs India,India,2,Shikhar Dhawan,c Swepson b Zampa,52,36,4,2,144.44,2020
+Australia Vs India,India,3,Virat Kohli(c),c â€ Wade b Sams,40,24,2,2,166.66,2020
+Australia Vs India,India,4,Sanju Samson,c Smith b Swepson,15,10,1,1,150.00,2020
+Australia Vs India,India,5,Hardik Pandya,,42,22,3,2,190.90,2020
+Australia Vs India,India,6,Shreyas Iyer,,12,5,1,1,240.00,2020
+India Vs Australia,India,1,KL Rahulâ€ ,c Abbott b Henriques,51,40,5,1,127.50,2020
+India Vs Australia,India,2,Shikhar Dhawan, b Starc,1,6,0,0,16.66,2020
+India Vs Australia,India,3,Virat Kohli(c),c & b Swepson,9,9,1,0,100.00,2020
+India Vs Australia,India,4,Sanju Samson,c Swepson b Henriques,23,15,1,1,153.33,2020
+India Vs Australia,India,5,Manish Pandey,c Hazlewood b Zampa,2,8,0,0,25.00,2020
+India Vs Australia,India,6,Hardik Pandya,c Smith b Henriques,16,15,0,1,106.66,2020
+India Vs Australia,India,7,Ravindra Jadeja,,44,23,5,1,191.30,2020
+India Vs Australia,India,8,Washington Sundar,c Abbott b Starc,7,5,1,0,140.00,2020
+India Vs Australia,India,9,Deepak Chahar,,0,0,0,0,-,2020
+India Vs Australia,Australia,1,D'Arcy Short,c Pandya b Natarajan,34,38,3,0,89.47,2020
+India Vs Australia,Australia,2,Aaron Finch(c),c Pandya b Chahal,35,26,5,1,134.61,2020
+India Vs Australia,Australia,3,Steven Smith,c Samson b Chahal,12,9,0,1,133.33,2020
+India Vs Australia,Australia,4,Glenn Maxwell,lbw b Natarajan,2,3,0,0,66.66,2020
+India Vs Australia,Australia,5,Moises Henriques,lbw b Chahar,30,20,1,1,150.00,2020
+India Vs Australia,Australia,6,Matthew Wadeâ€ ,c Kohli b Chahal,7,9,0,0,77.77,2020
+India Vs Australia,Australia,7,Sean Abbott,,12,8,0,1,150.00,2020
+India Vs Australia,Australia,8,Mitchell Starc, b Natarajan,1,2,0,0,50.00,2020
+India Vs Australia,Australia,9,Mitchell Swepson,,12,5,1,1,240.00,2020
+India Vs New Zealand,India,1,KL Rahulâ€ ,c Santner b Bennett,45,33,4,2,136.36,2020
+India Vs New Zealand,India,2,Sanju Samson,c Santner b Kuggeleijn,2,5,0,0,40.00,2020
+India Vs New Zealand,India,3,Rohit Sharma(c),,60,41,3,3,146.34,2020
+India Vs New Zealand,India,4,Shreyas Iyer,,33,31,1,2,106.45,2020
+India Vs New Zealand,India,5,Shivam Dube,c Bruce b Kuggeleijn,5,6,1,0,83.33,2020
+India Vs New Zealand,India,6,Manish Pandey,,11,4,1,1,275.00,2020
+India Vs New Zealand,New Zealand,1,Martin Guptill,lbw b Bumrah,2,6,0,0,33.33,2020
+India Vs New Zealand,New Zealand,2,Colin Munro, b Washington Sundar,15,6,2,1,250.00,2020
+India Vs New Zealand,New Zealand,3,Tim Seifertâ€ ,c Samson b Saini,50,30,5,3,166.66,2020
+India Vs New Zealand,New Zealand,4,Tom Bruce,run out (Samson/â€ Rahul),0,3,0,0,0.00,2020
+India Vs New Zealand,New Zealand,5,Ross Taylor,c â€ Rahul b Saini,53,47,5,2,112.76,2020
+India Vs New Zealand,New Zealand,6,Daryl Mitchell, b Bumrah,2,4,0,0,50.00,2020
+India Vs New Zealand,New Zealand,7,Mitchell Santner,c Pandey b Thakur,6,7,0,0,85.71,2020
+India Vs New Zealand,New Zealand,8,Scott Kuggeleijn,c Washington Sundar b Thakur,0,1,0,0,0.00,2020
+India Vs New Zealand,New Zealand,9,Tim Southee(c), b Bumrah,6,5,1,0,120.00,2020
+India Vs New Zealand,New Zealand,10,Ish Sodhi,,16,10,0,2,160.00,2020
+India Vs New Zealand,New Zealand,11,Hamish Bennett,,1,2,0,0,50.00,2020
+India Vs New Zealand,India,1,KL Rahulâ€ ,c Santner b Sodhi,39,26,3,2,150.00,2020
+India Vs New Zealand,India,2,Sanju Samson,c Santner b Kuggeleijn,8,5,0,1,160.00,2020
+India Vs New Zealand,India,3,Virat Kohli(c),c Santner b Bennett,11,9,2,0,122.22,2020
+India Vs New Zealand,India,4,Shreyas Iyer,c â€ Seifert b Sodhi,1,7,0,0,14.28,2020
+India Vs New Zealand,India,5,Shivam Dube,c Bruce b Sodhi,12,9,2,0,133.33,2020
+India Vs New Zealand,India,6,Manish Pandey,,50,36,3,0,138.88,2020
+India Vs New Zealand,India,7,Washington Sundar, b Santner,0,3,0,0,0.00,2020
+India Vs New Zealand,India,8,Shardul Thakur,c Southee b Bennett,20,15,2,0,133.33,2020
+India Vs New Zealand,India,9,Yuzvendra Chahal,c â€ Seifert b Southee,1,2,0,0,50.00,2020
+India Vs New Zealand,India,10,Navdeep Saini,,11,9,2,0,122.22,2020
+India Vs New Zealand,New Zealand,1,Martin Guptill,c â€ Rahul b Bumrah,4,8,0,0,50.00,2020
+India Vs New Zealand,New Zealand,2,Colin Munro,run out (Thakur/Kohli),64,47,6,3,136.17,2020
+India Vs New Zealand,New Zealand,3,Tim Seifertâ€ ,run out (â€ Rahul),57,39,4,3,146.15,2020
+India Vs New Zealand,New Zealand,4,Tom Bruce, b Chahal,0,3,0,0,0.00,2020
+India Vs New Zealand,New Zealand,5,Ross Taylor,c Iyer b Thakur,24,18,2,0,133.33,2020
+India Vs New Zealand,New Zealand,6,Daryl Mitchell,c Dube b Thakur,4,3,1,0,133.33,2020
+India Vs New Zealand,New Zealand,7,Mitchell Santner,run out (Samson/â€ Rahul),2,2,0,0,100.00,2020
+India Vs New Zealand,New Zealand,8,Scott Kuggeleijn,,0,0,0,0,-,2020
+India Vs New Zealand,India,1,Rohit Sharma,c Southee b Bennett,65,40,6,3,162.50,2020
+India Vs New Zealand,India,2,KL Rahulâ€ ,c Munro b de Grandhomme,27,19,2,1,142.10,2020
+India Vs New Zealand,India,3,Shivam Dube,c Sodhi b Bennett,3,7,0,0,42.85,2020
+India Vs New Zealand,India,4,Virat Kohli(c),c Southee b Bennett,38,27,2,1,140.74,2020
+India Vs New Zealand,India,5,Shreyas Iyer,st â€ Seifert b Santner,17,16,0,1,106.25,2020
+India Vs New Zealand,India,6,Manish Pandey,,14,6,1,1,233.33,2020
+India Vs New Zealand,India,7,Ravindra Jadeja,,10,5,0,1,200.00,2020
+India Vs New Zealand,New Zealand,1,Martin Guptill,c sub (SV Samson) b Thakur,31,21,2,3,147.61,2020
+India Vs New Zealand,New Zealand,2,Colin Munro,st â€ Rahul b Jadeja,14,16,2,0,87.50,2020
+India Vs New Zealand,New Zealand,3,Kane Williamson(c),c â€ Rahul b Mohammed Shami,95,48,8,6,197.91,2020
+India Vs New Zealand,New Zealand,4,Mitchell Santner, b Chahal,9,11,1,0,81.81,2020
+India Vs New Zealand,New Zealand,5,Colin de Grandhomme,c Dube b Thakur,5,12,0,0,41.66,2020
+India Vs New Zealand,New Zealand,6,Ross Taylor, b Mohammed Shami,17,10,1,1,170.00,2020
+India Vs New Zealand,New Zealand,7,Tim Seifertâ€ ,,0,2,0,0,0.00,2020
+New Zealand Vs India,New Zealand,1,Martin Guptill,c Kohli b Thakur,33,20,4,2,165.00,2020
+New Zealand Vs India,New Zealand,2,Colin Munro,c Kohli b Dube,26,25,2,1,104.00,2020
+New Zealand Vs India,New Zealand,3,Kane Williamson(c),c Chahal b Jadeja,14,20,0,0,70.00,2020
+New Zealand Vs India,New Zealand,4,Colin de Grandhomme,c & b Jadeja,3,5,0,0,60.00,2020
+New Zealand Vs India,New Zealand,5,Ross Taylor,c Sharma b Bumrah,18,24,0,0,75.00,2020
+New Zealand Vs India,New Zealand,6,Tim Seifertâ€ ,,33,26,1,2,126.92,2020
+New Zealand Vs India,New Zealand,7,Mitchell Santner,,0,0,0,0,-,2020
+New Zealand Vs India,India,1,Rohit Sharma,c Taylor b Southee,8,6,2,0,133.33,2020
+New Zealand Vs India,India,2,KL Rahulâ€ ,,57,50,3,2,114.00,2020
+New Zealand Vs India,India,3,Virat Kohli(c),c â€ Seifert b Southee,11,12,1,0,91.66,2020
+New Zealand Vs India,India,4,Shreyas Iyer,c Southee b Sodhi,44,33,1,3,133.33,2020
+New Zealand Vs India,India,5,Shivam Dube,,8,4,0,1,200.00,2020
+New Zealand Vs India,New Zealand,1,Martin Guptill,c Sharma b Dube,30,19,4,1,157.89,2020
+New Zealand Vs India,New Zealand,2,Colin Munro,c Chahal b Thakur,59,42,6,2,140.47,2020
+New Zealand Vs India,New Zealand,3,Kane Williamson(c),c Kohli b Chahal,51,26,4,4,196.15,2020
+New Zealand Vs India,New Zealand,4,Colin de Grandhomme,c Dube b Jadeja,0,2,0,0,0.00,2020
+New Zealand Vs India,New Zealand,5,Ross Taylor,,54,27,3,3,200.00,2020
+New Zealand Vs India,New Zealand,6,Tim Seifertâ€ ,c Iyer b Bumrah,1,2,0,0,50.00,2020
+New Zealand Vs India,New Zealand,7,Mitchell Santner,,2,2,0,0,100.00,2020
+New Zealand Vs India,India,1,Rohit Sharma,c Taylor b Santner,7,6,0,1,116.66,2020
+New Zealand Vs India,India,2,KL Rahulâ€ ,c Southee b Sodhi,56,27,4,3,207.40,2020
+New Zealand Vs India,India,3,Virat Kohli(c),c Guptill b Tickner,45,32,3,1,140.62,2020
+New Zealand Vs India,India,4,Shreyas Iyer,,58,29,5,3,200.00,2020
+New Zealand Vs India,India,5,Shivam Dube,c Southee b Sodhi,13,9,1,1,144.44,2020
+New Zealand Vs India,India,6,Manish Pandey,,14,12,0,1,116.66,2020
+India Vs Sri Lanka,India,1,KL Rahul,st â€ Perera b Sandakan,54,36,5,1,150.00,2020
+India Vs Sri Lanka,India,2,Shikhar Dhawan,c Gunathilaka b Sandakan,52,36,7,1,144.44,2020
+India Vs Sri Lanka,India,3,Sanju Samsonâ€ ,lbw b PWH de Silva,6,2,0,1,300.00,2020
+India Vs Sri Lanka,India,4,Manish Pandey,,31,18,4,0,172.22,2020
+India Vs Sri Lanka,India,5,Shreyas Iyer,c & b Sandakan,4,2,1,0,200.00,2020
+India Vs Sri Lanka,India,6,Virat Kohli(c),run out (Gunathilaka/â€ Perera),26,17,2,1,152.94,2020
+India Vs Sri Lanka,India,7,Washington Sundar,c Sandakan b Kumara,0,1,0,0,0.00,2020
+India Vs Sri Lanka,India,8,Shardul Thakur,,22,8,1,2,275.00,2020
+India Vs Sri Lanka,Sri Lanka,1,Danushka Gunathilaka,c Washington Sundar b Bumrah,1,2,0,0,50.00,2020
+India Vs Sri Lanka,Sri Lanka,2,Avishka Fernando,c Iyer b Thakur,9,7,0,1,128.57,2020
+India Vs Sri Lanka,Sri Lanka,3,Kusal Pereraâ€ , b Saini,7,10,1,0,70.00,2020
+India Vs Sri Lanka,Sri Lanka,4,Oshada Fernando,run out (Pandey),2,5,0,0,40.00,2020
+India Vs Sri Lanka,Sri Lanka,5,Angelo Mathews,c Pandey b Washington Sundar,31,20,1,3,155.00,2020
+India Vs Sri Lanka,Sri Lanka,6,Dhananjaya de Silva,c Bumrah b Saini,57,36,8,1,158.33,2020
+India Vs Sri Lanka,Sri Lanka,7,Dasun Shanaka,c & b Thakur,9,9,0,1,100.00,2020
+India Vs Sri Lanka,Sri Lanka,8,Wanindu Hasaranga,run out (Chahal),0,2,0,0,0.00,2020
+India Vs Sri Lanka,Sri Lanka,9,Lakshan Sandakan,st â€ Samson b Washington Sundar,1,2,0,0,50.00,2020
+India Vs Sri Lanka,Sri Lanka,10,Lasith Malinga(c),c Kohli b Saini,0,1,0,0,0.00,2020
+India Vs Sri Lanka,Sri Lanka,11,Lahiru Kumara,,1,1,0,0,100.00,2020
+Sri Lanka Vs India,Sri Lanka,1,Danushka Gunathilaka, b Saini,20,21,3,0,95.23,2020
+Sri Lanka Vs India,Sri Lanka,2,Avishka Fernando,c Saini b Washington Sundar,22,16,5,0,137.50,2020
+Sri Lanka Vs India,Sri Lanka,3,Kusal Pereraâ€ ,c Dhawan b Kuldeep Yadav,34,28,0,3,121.42,2020
+Sri Lanka Vs India,Sri Lanka,4,Oshada Fernando,st â€ Pant b Kuldeep Yadav,10,9,1,0,111.11,2020
+Sri Lanka Vs India,Sri Lanka,5,Bhanuka Rajapaksa,c â€ Pant b Saini,9,12,1,0,75.00,2020
+Sri Lanka Vs India,Sri Lanka,6,Dasun Shanaka, b Bumrah,7,8,0,0,87.50,2020
+Sri Lanka Vs India,Sri Lanka,7,Dhananjaya de Silva,c Dube b Thakur,17,13,2,0,130.76,2020
+Sri Lanka Vs India,Sri Lanka,8,Wanindu Hasaranga,,16,10,3,0,160.00,2020
+Sri Lanka Vs India,Sri Lanka,9,Isuru Udana,c Saini b Thakur,1,2,0,0,50.00,2020
+Sri Lanka Vs India,Sri Lanka,10,Lasith Malinga(c),c Kuldeep Yadav b Thakur,0,1,0,0,0.00,2020
+Sri Lanka Vs India,Sri Lanka,11,Lahiru Kumara,,0,0,0,0,-,2020
+Sri Lanka Vs India,India,1,KL Rahul, b PWH de Silva,45,32,6,0,140.62,2020
+Sri Lanka Vs India,India,2,Shikhar Dhawan,lbw b PWH de Silva,32,29,2,0,110.34,2020
+Sri Lanka Vs India,India,3,Shreyas Iyer,c Shanaka b Kumara,34,26,3,1,130.76,2020
+Sri Lanka Vs India,India,4,Virat Kohli(c),,30,17,1,2,176.47,2020
+Sri Lanka Vs India,India,5,Rishabh Pantâ€ ,,1,1,0,0,100.00,2020
+India Vs West Indies,India,1,Rohit Sharma,c Walsh b Williams,71,34,6,5,208.82,2019
+India Vs West Indies,India,2,KL Rahul,c â€ Pooran b Cottrell,91,56,9,4,162.50,2019
+India Vs West Indies,India,3,Rishabh Pantâ€ ,c Holder b Pollard,0,2,0,0,0.00,2019
+India Vs West Indies,India,4,Virat Kohli(c),,70,29,4,7,241.37,2019
+India Vs West Indies,India,5,Shreyas Iyer,,0,0,0,0,-,2019
+India Vs West Indies,West Indies,1,Lendl Simmons,c Iyer b Mohammed Shami,7,11,1,0,63.63,2019
+India Vs West Indies,West Indies,2,Brandon King,c Rahul b Kumar,5,4,1,0,125.00,2019
+India Vs West Indies,West Indies,3,Shimron Hetmyer,c Rahul b Kuldeep Yadav,41,24,1,5,170.83,2019
+India Vs West Indies,West Indies,4,Nicholas Pooranâ€ ,c Dube b Chahar,0,1,0,0,0.00,2019
+India Vs West Indies,West Indies,5,Kieron Pollard(c),c sub (RA Jadeja) b Kumar,68,39,5,6,174.35,2019
+India Vs West Indies,West Indies,6,Jason Holder,c sub (MK Pandey) b Kuldeep Yadav,8,5,1,0,160.00,2019
+India Vs West Indies,West Indies,7,Hayden Walsh, b Mohammed Shami,11,13,1,0,84.61,2019
+India Vs West Indies,West Indies,8,Khary Pierre,c sub (RA Jadeja) b Chahar,6,12,0,0,50.00,2019
+India Vs West Indies,West Indies,9,Kesrick Williams,,13,7,1,1,185.71,2019
+India Vs West Indies,West Indies,10,Sheldon Cottrell,,4,4,1,0,100.00,2019
+India Vs West Indies,India,1,Rohit Sharma, b Holder,15,18,2,0,83.33,2019
+India Vs West Indies,India,2,KL Rahul,c Hetmyer b Pierre,11,11,1,0,100.00,2019
+India Vs West Indies,India,3,Shivam Dube,c Hetmyer b Walsh,54,30,3,4,180.00,2019
+India Vs West Indies,India,4,Virat Kohli(c),c Simmons b Williams,19,17,2,0,111.76,2019
+India Vs West Indies,India,5,Rishabh Pantâ€ ,,33,22,3,1,150.00,2019
+India Vs West Indies,India,6,Shreyas Iyer,c King b Walsh,10,11,1,0,90.90,2019
+India Vs West Indies,India,7,Ravindra Jadeja, b Williams,9,11,0,0,81.81,2019
+India Vs West Indies,India,8,Washington Sundar,c & b Cottrell,0,1,0,0,0.00,2019
+India Vs West Indies,India,9,Deepak Chahar,,1,1,0,0,100.00,2019
+India Vs West Indies,West Indies,1,Lendl Simmons,,67,45,4,4,148.88,2019
+India Vs West Indies,West Indies,2,Evin Lewis,st â€ Pant b Washington Sundar,40,35,3,3,114.28,2019
+India Vs West Indies,West Indies,3,Shimron Hetmyer,c Kohli b Jadeja,23,14,0,3,164.28,2019
+India Vs West Indies,West Indies,4,Nicholas Pooranâ€ ,,38,18,4,2,211.11,2019
+West Indies Vs India,West Indies,1,Lendl Simmons,c Sharma b Chahar,2,4,0,0,50.00,2019
+West Indies Vs India,West Indies,2,Evin Lewis,lbw b Washington Sundar,40,17,3,4,235.29,2019
+West Indies Vs India,West Indies,3,Brandon King,st â€ Pant b Jadeja,31,23,3,1,134.78,2019
+West Indies Vs India,West Indies,4,Shimron Hetmyer,c Sharma b Chahal,56,41,2,4,136.58,2019
+West Indies Vs India,West Indies,5,Kieron Pollard(c), b Chahal,37,19,1,4,194.73,2019
+West Indies Vs India,West Indies,6,Jason Holder,,24,9,1,2,266.66,2019
+West Indies Vs India,West Indies,7,Denesh Ramdinâ€ ,,11,7,1,0,157.14,2019
+West Indies Vs India,India,1,Rohit Sharma,c Hetmyer b Pierre,8,10,1,0,80.00,2019
+West Indies Vs India,India,2,KL Rahul,c Pollard b Pierre,62,40,5,4,155.00,2019
+West Indies Vs India,India,3,Virat Kohli(c),,94,50,6,6,188.00,2019
+West Indies Vs India,India,4,Rishabh Pantâ€ ,c Holder b Cottrell,18,9,0,2,200.00,2019
+West Indies Vs India,India,5,Shreyas Iyer,c & b Pollard,4,6,0,0,66.66,2019
+West Indies Vs India,India,6,Shivam Dube,,0,0,0,0,-,2019
+India Vs Bangladesh,India,1,Rohit Sharma(c), b Shafiul Islam,2,6,0,0,33.33,2019
+India Vs Bangladesh,India,2,Shikhar Dhawan,c Mahmudullah b Shafiul Islam,19,16,4,0,118.75,2019
+India Vs Bangladesh,India,3,KL Rahul,c Litton Das b Al-Amin Hossain,52,35,7,0,148.57,2019
+India Vs Bangladesh,India,4,Shreyas Iyer,c Litton Das b Soumya Sarkar,62,33,3,5,187.87,2019
+India Vs Bangladesh,India,5,Rishabh Pantâ€ , b Soumya Sarkar,6,9,0,0,66.66,2019
+India Vs Bangladesh,India,6,Manish Pandey,,22,13,3,0,169.23,2019
+India Vs Bangladesh,India,7,Shivam Dube,,9,8,0,0,112.50,2019
+India Vs Bangladesh,Bangladesh,1,Litton Das,c Washington Sundar b Chahar,9,8,2,0,112.50,2019
+India Vs Bangladesh,Bangladesh,2,Mohammad Naim, b Dube,81,48,10,2,168.75,2019
+India Vs Bangladesh,Bangladesh,3,Soumya Sarkar,c Dube b Chahar,0,1,0,0,0.00,2019
+India Vs Bangladesh,Bangladesh,4,Mohammad Mithun,c Rahul b Chahar,27,29,2,1,93.10,2019
+India Vs Bangladesh,Bangladesh,5,Mushfiqur Rahimâ€ , b Dube,0,1,0,0,0.00,2019
+India Vs Bangladesh,Bangladesh,6,Mahmudullah(c), b Chahal,8,10,0,0,80.00,2019
+India Vs Bangladesh,Bangladesh,7,Afif Hossain,c & b Dube,0,1,0,0,0.00,2019
+India Vs Bangladesh,Bangladesh,8,Aminul Islam, b Chahar,9,9,1,0,100.00,2019
+India Vs Bangladesh,Bangladesh,9,Shafiul Islam,c Rahul b Chahar,4,6,0,0,66.66,2019
+India Vs Bangladesh,Bangladesh,10,Mustafizur Rahman,c Iyer b Chahar,1,3,0,0,33.33,2019
+India Vs Bangladesh,Bangladesh,11,Al-Amin Hossain,,0,0,0,0,-,2019
+Bangladesh Vs India,Bangladesh,1,Litton Das,run out (â€ Pant),29,21,4,0,138.09,2019
+Bangladesh Vs India,Bangladesh,2,Mohammad Naim,c Iyer b Washington Sundar,36,31,5,0,116.12,2019
+Bangladesh Vs India,Bangladesh,3,Soumya Sarkar,st â€ Pant b Chahal,30,20,2,1,150.00,2019
+Bangladesh Vs India,Bangladesh,4,Mushfiqur Rahimâ€ ,c Pandya b Chahal,4,6,0,0,66.66,2019
+Bangladesh Vs India,Bangladesh,5,Mahmudullah(c),c Dube b Chahar,30,21,4,0,142.85,2019
+Bangladesh Vs India,Bangladesh,6,Afif Hossain,c Sharma b Ahmed,6,8,0,0,75.00,2019
+Bangladesh Vs India,Bangladesh,7,Mosaddek Hossain,,7,9,0,0,77.77,2019
+Bangladesh Vs India,Bangladesh,8,Aminul Islam,,5,5,1,0,100.00,2019
+Bangladesh Vs India,India,1,Rohit Sharma(c),c sub (Mohammad Mithun) b Aminul Islam,85,43,6,6,197.67,2019
+Bangladesh Vs India,India,2,Shikhar Dhawan, b Aminul Islam,31,27,4,0,114.81,2019
+Bangladesh Vs India,India,3,KL Rahul,,8,11,0,0,72.72,2019
+Bangladesh Vs India,India,4,Shreyas Iyer,,24,13,3,1,184.61,2019
+India Vs Bangladesh,India,1,Rohit Sharma(c),lbw b Shafiul Islam,9,5,2,0,180.00,2019
+India Vs Bangladesh,India,2,Shikhar Dhawan,run out (Mahmudullah/â€ Mushfiqur Rahim),41,42,3,1,97.61,2019
+India Vs Bangladesh,India,3,KL Rahul,c Mahmudullah b Aminul Islam,15,17,2,0,88.23,2019
+India Vs Bangladesh,India,4,Shreyas Iyer,c Mohammad Naim b Aminul Islam,22,13,1,2,169.23,2019
+India Vs Bangladesh,India,5,Rishabh Pantâ€ ,c Mohammad Naim b Shafiul Islam,27,26,3,0,103.84,2019
+India Vs Bangladesh,India,6,Shivam Dube,c & b Afif Hossain,1,4,0,0,25.00,2019
+India Vs Bangladesh,India,7,Krunal Pandya,,15,8,1,1,187.50,2019
+India Vs Bangladesh,India,8,Washington Sundar,,14,5,0,2,280.00,2019
+India Vs Bangladesh,Bangladesh,1,Litton Das,c Rahul b Chahar,7,4,1,0,175.00,2019
+India Vs Bangladesh,Bangladesh,2,Mohammad Naim,c Dhawan b Chahal,26,28,2,1,92.85,2019
+India Vs Bangladesh,Bangladesh,3,Soumya Sarkar, b Ahmed,39,35,1,2,111.42,2019
+India Vs Bangladesh,Bangladesh,4,Mushfiqur Rahimâ€ ,,60,43,8,1,139.53,2019
+India Vs Bangladesh,Bangladesh,5,Mahmudullah(c),,15,7,1,1,214.28,2019
+India Vs South Africa,India,1,Shikhar Dhawan,c Bavuma b Shamsi,36,25,4,2,144.00,2019
+India Vs South Africa,India,2,Rohit Sharma,c RR Hendricks b BE Hendricks,9,8,2,0,112.50,2019
+India Vs South Africa,India,3,Virat Kohli(c),c Phehlukwayo b Rabada,9,15,0,0,60.00,2019
+India Vs South Africa,India,4,Rishabh Pantâ€ ,c Phehlukwayo b Fortuin,19,20,1,1,95.00,2019
+India Vs South Africa,India,5,Shreyas Iyer,st â€ de Kock b Fortuin,5,8,0,0,62.50,2019
+India Vs South Africa,India,6,Hardik Pandya,c Miller b Rabada,14,18,1,0,77.77,2019
+India Vs South Africa,India,7,Krunal Pandya,c â€ de Kock b BE Hendricks,4,7,0,0,57.14,2019
+India Vs South Africa,India,8,Ravindra Jadeja,c & b Rabada,19,17,1,1,111.76,2019
+India Vs South Africa,India,9,Washington Sundar,run out (â€ de Kock/Rabada),4,1,1,0,400.00,2019
+India Vs South Africa,India,10,Deepak Chahar,,0,0,0,0,-,2019
+India Vs South Africa,India,11,Navdeep Saini,,0,1,0,0,0.00,2019
+India Vs South Africa,South Africa,1,Reeza Hendricks,c Kohli b HH Pandya,28,26,4,0,107.69,2019
+India Vs South Africa,South Africa,2,Quinton de Kock(c)â€ ,,79,52,6,5,151.92,2019
+India Vs South Africa,South Africa,3,Temba Bavuma,,27,23,2,1,117.39,2019
+South Africa Vs India,South Africa,1,Reeza Hendricks,c Washington Sundar b Chahar,6,11,1,0,54.54,2019
+South Africa Vs India,South Africa,2,Quinton de Kock(c)â€ ,c Kohli b Saini,52,37,8,0,140.54,2019
+South Africa Vs India,South Africa,3,Temba Bavuma,c Jadeja b Chahar,49,43,3,1,113.95,2019
+South Africa Vs India,South Africa,4,Rassie van der Dussen,c & b Jadeja,1,2,0,0,50.00,2019
+South Africa Vs India,South Africa,5,David Miller, b HH Pandya,18,15,0,1,120.00,2019
+South Africa Vs India,South Africa,6,Dwaine Pretorius,,10,7,0,1,142.85,2019
+South Africa Vs India,South Africa,7,Andile Phehlukwayo,,8,5,0,1,160.00,2019
+South Africa Vs India,India,1,Rohit Sharma,lbw b Phehlukwayo,12,12,0,2,100.00,2019
+South Africa Vs India,India,2,Shikhar Dhawan,c Miller b Shamsi,40,31,4,1,129.03,2019
+South Africa Vs India,India,3,Virat Kohli(c),,72,52,4,3,138.46,2019
+South Africa Vs India,India,4,Rishabh Pantâ€ ,c Shamsi b Fortuin,4,5,0,0,80.00,2019
+South Africa Vs India,India,5,Shreyas Iyer,,16,14,2,0,114.28,2019
+West Indies Vs India,West Indies,1,Evin Lewis,lbw b DL Chahar,10,11,1,0,90.90,2019
+West Indies Vs India,West Indies,2,Sunil Narine,c Saini b DL Chahar,2,6,0,0,33.33,2019
+West Indies Vs India,West Indies,3,Shimron Hetmyer,lbw b DL Chahar,1,3,0,0,33.33,2019
+West Indies Vs India,West Indies,4,Kieron Pollard, b Saini,58,45,1,6,128.88,2019
+West Indies Vs India,West Indies,5,Nicholas Pooranâ€ ,c â€ Pant b Saini,17,23,1,1,73.91,2019
+West Indies Vs India,West Indies,6,Rovman Powell,,32,20,1,2,160.00,2019
+West Indies Vs India,West Indies,7,Carlos Brathwaite(c),c Washington Sundar b RD Chahar,10,7,0,1,142.85,2019
+West Indies Vs India,West Indies,8,Fabian Allen,,8,5,0,1,160.00,2019
+West Indies Vs India,India,1,KL Rahul,c â€ Pooran b Allen,20,18,2,1,111.11,2019
+West Indies Vs India,India,2,Shikhar Dhawan,c Cottrell b Thomas,3,5,0,0,60.00,2019
+West Indies Vs India,India,3,Virat Kohli(c),c Lewis b Thomas,59,45,6,0,131.11,2019
+West Indies Vs India,India,4,Rishabh Pantâ€ ,,65,42,4,4,154.76,2019
+West Indies Vs India,India,5,Manish Pandey,,2,5,0,0,40.00,2019
+India Vs West Indies,India,1,Rohit Sharma,c Hetmyer b Thomas,67,51,6,3,131.37,2019
+India Vs West Indies,India,2,Shikhar Dhawan, b Paul,23,16,3,0,143.75,2019
+India Vs West Indies,India,3,Virat Kohli(c), b Cottrell,28,23,1,1,121.73,2019
+India Vs West Indies,India,4,Rishabh Pantâ€ ,c Pollard b Thomas,4,5,0,0,80.00,2019
+India Vs West Indies,India,5,Manish Pandey,c â€ Pooran b Cottrell,6,8,0,0,75.00,2019
+India Vs West Indies,India,6,Krunal Pandya,,20,13,0,2,153.84,2019
+India Vs West Indies,India,7,Ravindra Jadeja,,9,4,0,1,225.00,2019
+India Vs West Indies,West Indies,1,Sunil Narine, b Washington Sundar,4,12,0,0,33.33,2019
+India Vs West Indies,West Indies,2,Evin Lewis,c & b Kumar,0,2,0,0,0.00,2019
+India Vs West Indies,West Indies,3,Nicholas Pooranâ€ ,c Pandey b Pandya,19,34,1,0,55.88,2019
+India Vs West Indies,West Indies,4,Rovman Powell,lbw b Pandya,54,34,6,3,158.82,2019
+India Vs West Indies,West Indies,5,Kieron Pollard,,8,8,1,0,100.00,2019
+India Vs West Indies,West Indies,6,Shimron Hetmyer,,6,4,1,0,150.00,2019
+West Indies Vs India,West Indies,1,John Campbell,c Pandya b Washington Sundar,0,2,0,0,0.00,2019
+West Indies Vs India,West Indies,2,Evin Lewis, b Kumar,0,4,0,0,0.00,2019
+West Indies Vs India,West Indies,3,Nicholas Pooranâ€ ,c â€ Pant b Saini,20,16,1,2,125.00,2019
+West Indies Vs India,West Indies,4,Kieron Pollard,lbw b Saini,49,49,2,4,100.00,2019
+West Indies Vs India,West Indies,5,Shimron Hetmyer, b Saini,0,1,0,0,0.00,2019
+West Indies Vs India,West Indies,6,Rovman Powell,c â€ Pant b Ahmed,4,5,1,0,80.00,2019
+West Indies Vs India,West Indies,7,Carlos Brathwaite(c),c & b Pandya,9,24,0,0,37.50,2019
+West Indies Vs India,West Indies,8,Sunil Narine,c Ahmed b Jadeja,2,4,0,0,50.00,2019
+West Indies Vs India,West Indies,9,Keemo Paul,c Kohli b Kumar,3,11,0,0,27.27,2019
+West Indies Vs India,West Indies,10,Sheldon Cottrell,,0,1,0,0,0.00,2019
+West Indies Vs India,West Indies,11,Oshane Thomas,,0,3,0,0,0.00,2019
+West Indies Vs India,India,1,Rohit Sharma,c Pollard b Narine,24,25,2,2,96.00,2019
+West Indies Vs India,India,2,Shikhar Dhawan,lbw b Cottrell,1,7,0,0,14.28,2019
+West Indies Vs India,India,3,Virat Kohli(c),c Pollard b Cottrell,19,29,1,0,65.51,2019
+West Indies Vs India,India,4,Rishabh Pantâ€ ,c Cottrell b Narine,0,1,0,0,0.00,2019
+West Indies Vs India,India,5,Manish Pandey, b Paul,19,14,2,0,135.71,2019
+West Indies Vs India,India,6,Krunal Pandya, b Paul,12,14,1,0,85.71,2019
+West Indies Vs India,India,7,Ravindra Jadeja,,10,9,0,0,111.11,2019
+West Indies Vs India,India,8,Washington Sundar,,8,5,0,1,160.00,2019
+India Vs Australia,India,1,KL Rahul,c Richardson b Coulter-Nile,47,26,3,4,180.76,2019
+India Vs Australia,India,2,Shikhar Dhawan,c Stoinis b Behrendorff,14,24,1,0,58.33,2019
+India Vs Australia,India,3,Virat Kohli(c),,72,38,2,6,189.47,2019
+India Vs Australia,India,4,Rishabh Pant,c Richardson b Short,1,6,0,0,16.66,2019
+India Vs Australia,India,5,MS Dhoniâ€ ,c Finch b Cummins,40,23,3,3,173.91,2019
+India Vs Australia,India,6,Dinesh Karthik,,8,3,2,0,266.66,2019
+India Vs Australia,Australia,1,D'Arcy Short,c Rahul b Shankar,40,28,6,0,142.85,2019
+India Vs Australia,Australia,2,Marcus Stoinis, b Kaul,7,11,1,0,63.63,2019
+India Vs Australia,Australia,3,Aaron Finch(c),c Dhawan b Shankar,8,7,1,0,114.28,2019
+India Vs Australia,Australia,4,Glenn Maxwell,,113,55,7,9,205.45,2019
+India Vs Australia,Australia,5,Peter Handscombâ€ ,,20,18,1,0,111.11,2019
+India Vs Australia,India,1,Rohit Sharma,c Zampa b Behrendorff,5,8,0,0,62.50,2019
+India Vs Australia,India,2,KL Rahul,c Finch b Coulter-Nile,50,36,6,1,138.88,2019
+India Vs Australia,India,3,Virat Kohli(c),c Coulter-Nile b Zampa,24,17,3,0,141.17,2019
+India Vs Australia,India,4,Rishabh Pant,run out (Behrendorff/â€ Handscomb),3,5,0,0,60.00,2019
+India Vs Australia,India,5,MS Dhoniâ€ ,,29,37,0,1,78.37,2019
+India Vs Australia,India,6,Dinesh Karthik, b Coulter-Nile,1,3,0,0,33.33,2019
+India Vs Australia,India,7,Krunal Pandya,c Maxwell b Coulter-Nile,1,6,0,0,16.66,2019
+India Vs Australia,India,8,Umesh Yadav,lbw b Cummins,2,4,0,0,50.00,2019
+India Vs Australia,India,9,Yuzvendra Chahal,,0,4,0,0,0.00,2019
+India Vs Australia,Australia,1,D'Arcy Short,run out (Pandya/â€ Dhoni),37,37,5,0,100.00,2019
+India Vs Australia,Australia,2,Marcus Stoinis,run out (Yadav/Chahal),1,5,0,0,20.00,2019
+India Vs Australia,Australia,3,Aaron Finch(c),lbw b Bumrah,0,1,0,0,0.00,2019
+India Vs Australia,Australia,4,Glenn Maxwell,c Rahul b Chahal,56,43,6,2,130.23,2019
+India Vs Australia,Australia,5,Peter Handscombâ€ ,c â€ Dhoni b Bumrah,13,15,0,0,86.66,2019
+India Vs Australia,Australia,6,Ashton Turner, b Pandya,0,5,0,0,0.00,2019
+India Vs Australia,Australia,7,Nathan Coulter-Nile, b Bumrah,4,8,0,0,50.00,2019
+India Vs Australia,Australia,8,Pat Cummins,,7,3,1,0,233.33,2019
+India Vs Australia,Australia,9,Jhye Richardson,,7,3,1,0,233.33,2019
+New Zealand Vs India,New Zealand,1,Tim Seifertâ€ ,st â€ Dhoni b Kuldeep Yadav,43,25,3,3,172.00,2019
+New Zealand Vs India,New Zealand,2,Colin Munro,c HH Pandya b Kuldeep Yadav,72,40,5,5,180.00,2019
+New Zealand Vs India,New Zealand,3,Kane Williamson(c),c Kuldeep Yadav b Ahmed,27,21,3,0,128.57,2019
+New Zealand Vs India,New Zealand,4,Colin de Grandhomme,c â€ Dhoni b Kumar,30,16,3,1,187.50,2019
+New Zealand Vs India,New Zealand,5,Daryl Mitchell,,19,11,3,0,172.72,2019
+New Zealand Vs India,New Zealand,6,Ross Taylor,,14,7,1,1,200.00,2019
+New Zealand Vs India,India,1,Shikhar Dhawan,c Mitchell b Santner,5,4,1,0,125.00,2019
+New Zealand Vs India,India,2,Rohit Sharma(c),c â€ Seifert b Mitchell,38,32,3,0,118.75,2019
+New Zealand Vs India,India,3,Vijay Shankar,c de Grandhomme b Santner,43,28,5,2,153.57,2019
+New Zealand Vs India,India,4,Rishabh Pant,c Williamson b Tickner,28,12,1,3,233.33,2019
+New Zealand Vs India,India,5,Hardik Pandya,c Williamson b Kuggeleijn,21,11,1,2,190.90,2019
+New Zealand Vs India,India,6,MS Dhoniâ€ ,c Southee b Mitchell,2,4,0,0,50.00,2019
+New Zealand Vs India,India,7,Dinesh Karthik,,33,16,0,4,206.25,2019
+New Zealand Vs India,India,8,Krunal Pandya,,26,13,2,2,200.00,2019
+New Zealand Vs India,New Zealand,1,Tim Seifertâ€ ,c â€ Dhoni b Kumar,12,12,1,1,100.00,2019
+New Zealand Vs India,New Zealand,2,Colin Munro,c Sharma b KH Pandya,12,12,0,1,100.00,2019
+New Zealand Vs India,New Zealand,3,Kane Williamson(c),lbw b KH Pandya,20,17,3,0,117.64,2019
+New Zealand Vs India,New Zealand,4,Daryl Mitchell,lbw b KH Pandya,1,2,0,0,50.00,2019
+New Zealand Vs India,New Zealand,5,Ross Taylor,run out (Shankar),42,36,3,0,116.66,2019
+New Zealand Vs India,New Zealand,6,Colin de Grandhomme,c Sharma b HH Pandya,50,28,1,4,178.57,2019
+New Zealand Vs India,New Zealand,7,Mitchell Santner, b Ahmed,7,8,0,0,87.50,2019
+New Zealand Vs India,New Zealand,8,Scott Kuggeleijn,,2,2,0,0,100.00,2019
+New Zealand Vs India,New Zealand,9,Tim Southee, b Ahmed,3,3,0,0,100.00,2019
+New Zealand Vs India,India,1,Rohit Sharma(c),c Southee b Sodhi,50,29,3,4,172.41,2019
+New Zealand Vs India,India,2,Shikhar Dhawan,c de Grandhomme b Ferguson,30,31,2,0,96.77,2019
+New Zealand Vs India,India,3,Rishabh Pant,,40,28,4,1,142.85,2019
+New Zealand Vs India,India,4,Vijay Shankar,c Southee b Mitchell,14,8,1,1,175.00,2019
+New Zealand Vs India,India,5,MS Dhoniâ€ ,,20,17,1,0,117.64,2019
+New Zealand Vs India,New Zealand,1,Tim Seifertâ€ , b Ahmed,84,43,7,6,195.34,2019
+New Zealand Vs India,New Zealand,2,Colin Munro,c Shankar b KH Pandya,34,20,2,2,170.00,2019
+New Zealand Vs India,New Zealand,3,Kane Williamson(c),c HH Pandya b Chahal,34,22,0,3,154.54,2019
+New Zealand Vs India,New Zealand,4,Daryl Mitchell,c Karthik b HH Pandya,8,6,1,0,133.33,2019
+New Zealand Vs India,New Zealand,5,Ross Taylor,c Ahmed b Kumar,23,14,0,2,164.28,2019
+New Zealand Vs India,New Zealand,6,Colin de Grandhomme,c sub (Mohammed Siraj) b HH Pandya,3,4,0,0,75.00,2019
+New Zealand Vs India,New Zealand,7,Mitchell Santner,,7,4,1,0,175.00,2019
+New Zealand Vs India,New Zealand,8,Scott Kuggeleijn,,20,7,3,1,285.71,2019
+New Zealand Vs India,India,1,Rohit Sharma(c),c Ferguson b Southee,1,5,0,0,20.00,2019
+New Zealand Vs India,India,2,Shikhar Dhawan, b Ferguson,29,18,2,3,161.11,2019
+New Zealand Vs India,India,3,Vijay Shankar,c de Grandhomme b Santner,27,18,2,2,150.00,2019
+New Zealand Vs India,India,4,Rishabh Pant, b Santner,4,10,0,0,40.00,2019
+New Zealand Vs India,India,5,MS Dhoniâ€ ,c Ferguson b Southee,39,31,5,1,125.80,2019
+New Zealand Vs India,India,6,Dinesh Karthik,c Southee b Sodhi,5,6,0,0,83.33,2019
+New Zealand Vs India,India,7,Hardik Pandya,c Mitchell b Sodhi,4,4,1,0,100.00,2019
+New Zealand Vs India,India,8,Krunal Pandya,c â€ Seifert b Southee,20,18,1,1,111.11,2019
+New Zealand Vs India,India,9,Bhuvneshwar Kumar,c â€ Seifert b Ferguson,1,3,0,0,33.33,2019
+New Zealand Vs India,India,10,Yuzvendra Chahal, b Mitchell,1,3,0,0,33.33,2019
+New Zealand Vs India,India,11,Khaleel Ahmed,,1,1,0,0,100.00,2019
+Australia Vs India,Australia,1,D'Arcy Short,lbw b Pandya,33,29,5,0,113.79,2018
+Australia Vs India,Australia,2,Aaron Finch(c),c Pandya b Kuldeep Yadav,28,23,4,0,121.73,2018
+Australia Vs India,Australia,3,Glenn Maxwell,c Sharma b Pandya,13,16,2,0,81.25,2018
+Australia Vs India,Australia,4,Ben McDermott,lbw b Pandya,0,1,0,0,0.00,2018
+Australia Vs India,Australia,5,Alex Careyâ€ ,c Kohli b Pandya,27,19,4,0,142.10,2018
+Australia Vs India,Australia,6,Chris Lynn,run out (Bumrah),13,10,1,0,130.00,2018
+Australia Vs India,Australia,7,Marcus Stoinis,,25,15,3,0,166.66,2018
+Australia Vs India,Australia,8,Nathan Coulter-Nile,,13,7,2,0,185.71,2018
+Australia Vs India,India,1,Rohit Sharma, b Zampa,23,16,1,2,143.75,2018
+Australia Vs India,India,2,Shikhar Dhawan,lbw b Starc,41,22,6,2,186.36,2018
+Australia Vs India,India,3,Virat Kohli(c),,61,41,4,2,148.78,2018
+Australia Vs India,India,4,KL Rahul,c Coulter-Nile b Maxwell,14,20,0,1,70.00,2018
+Australia Vs India,India,5,Rishabh Pantâ€ ,c â€ Carey b Tye,0,1,0,0,0.00,2018
+Australia Vs India,India,6,Dinesh Karthik,,22,18,1,1,122.22,2018
+Australia Vs Info,Australia,1,D'Arcy Short, b Ahmed,14,15,2,0,93.33,2018
+Australia Vs Info,Australia,2,Aaron Finch(c),c â€ Pant b Kumar,0,1,0,0,0.00,2018
+Australia Vs Info,Australia,3,Chris Lynn,c Pandya b Ahmed,13,13,1,1,100.00,2018
+Australia Vs Info,Australia,4,Glenn Maxwell, b Pandya,19,22,1,0,86.36,2018
+Australia Vs Info,Australia,5,Marcus Stoinis,c Karthik b Bumrah,4,5,1,0,80.00,2018
+Australia Vs Info,Australia,6,Ben McDermott,,32,30,2,1,106.66,2018
+Australia Vs Info,Australia,7,Alex Careyâ€ ,c Pandya b Kuldeep Yadav,4,6,0,0,66.66,2018
+Australia Vs Info,Australia,8,Nathan Coulter-Nile,c sub (MK Pandey) b Kumar,18,9,1,2,200.00,2018
+Australia Vs Info,Australia,9,Andrew Tye,,12,13,2,0,92.30,2018
+Australia Vs India,Australia,1,D'Arcy Short,c Kuldeep Yadav b Ahmed,7,12,1,0,58.33,2018
+Australia Vs India,Australia,2,Aaron Finch(c),c Ahmed b Kuldeep Yadav,27,24,3,0,112.50,2018
+Australia Vs India,Australia,3,Chris Lynn,c & b Kuldeep Yadav,37,20,1,4,185.00,2018
+Australia Vs India,Australia,4,Glenn Maxwell,c Kumar b Bumrah,46,24,0,4,191.66,2018
+Australia Vs India,Australia,5,Marcus Stoinis,,33,19,3,1,173.68,2018
+Australia Vs India,Australia,6,Ben McDermott,,2,3,0,0,66.66,2018
+Australia Vs India,India,1,Rohit Sharma,c Finch b Behrendorff,7,8,0,0,87.50,2018
+Australia Vs India,India,2,Shikhar Dhawan,c Behrendorff b Stanlake,76,42,10,2,180.95,2018
+Australia Vs India,India,3,KL Rahul,st â€ Carey b Zampa,13,12,1,0,108.33,2018
+Australia Vs India,India,4,Virat Kohli(c),c Lynn b Zampa,4,8,0,0,50.00,2018
+Australia Vs India,India,5,Rishabh Pantâ€ ,c Behrendorff b Tye,20,16,1,1,125.00,2018
+Australia Vs India,India,6,Dinesh Karthik,c Behrendorff b Stoinis,30,13,4,1,230.76,2018
+Australia Vs India,India,7,Krunal Pandya,c Maxwell b Stoinis,2,4,0,0,50.00,2018
+Australia Vs India,India,8,Bhuvneshwar Kumar,,1,1,0,0,100.00,2018
+Australia Vs India,India,9,Kuldeep Yadav,,4,1,1,0,400.00,2018
+West Indies Vs India,West Indies,1,Shai Hope,c Washington Sundar b Chahal,24,22,3,1,109.09,2018
+West Indies Vs India,West Indies,2,Shimron Hetmyer,c Pandya b Chahal,26,21,4,1,123.80,2018
+West Indies Vs India,West Indies,3,Darren Bravo,,43,37,2,2,116.21,2018
+West Indies Vs India,West Indies,4,Denesh Ramdinâ€ , b Washington Sundar,15,15,0,1,100.00,2018
+West Indies Vs India,West Indies,5,Nicholas Pooran,,53,25,4,4,212.00,2018
+West Indies Vs India,India,1,Shikhar Dhawan,c Pollard b Allen,92,62,10,2,148.38,2018
+West Indies Vs India,India,2,Rohit Sharma(c),c Brathwaite b Paul,4,6,1,0,66.66,2018
+West Indies Vs India,India,3,KL Rahul,c â€ Ramdin b Thomas,17,10,4,0,170.00,2018
+West Indies Vs India,India,4,Rishabh Pant, b Paul,58,38,5,3,152.63,2018
+West Indies Vs India,India,5,Manish Pandey,,4,6,0,0,66.66,2018
+West Indies Vs India,India,6,Dinesh Karthikâ€ ,,0,0,0,0,-,2018
+India Vs West Indies,India,1,Rohit Sharma(c),,111,61,8,7,181.96,2018
+India Vs West Indies,India,2,Shikhar Dhawan,c Pooran b Allen,43,41,3,0,104.87,2018
+India Vs West Indies,India,3,Rishabh Pant,c Hetmyer b Pierre,5,6,1,0,83.33,2018
+India Vs West Indies,India,4,KL Rahul,,26,14,2,1,185.71,2018
+India Vs West Indies,West Indies,1,Shai Hope, b Ahmed,6,8,0,1,75.00,2018
+India Vs West Indies,West Indies,2,Shimron Hetmyer,c Dhawan b Ahmed,15,14,3,0,107.14,2018
+India Vs West Indies,West Indies,3,Darren Bravo,c Sharma b Kuldeep Yadav,23,18,4,0,127.77,2018
+India Vs West Indies,West Indies,4,Denesh Ramdinâ€ ,c Sharma b Kumar,10,17,0,0,58.82,2018
+India Vs West Indies,West Indies,5,Nicholas Pooran, b Kuldeep Yadav,4,3,1,0,133.33,2018
+India Vs West Indies,West Indies,6,Kieron Pollard,c & b Bumrah,6,11,1,0,54.54,2018
+India Vs West Indies,West Indies,7,Carlos Brathwaite(c),,15,19,0,1,78.94,2018
+India Vs West Indies,West Indies,8,Fabian Allen,run out (Pandya),0,1,0,0,0.00,2018
+India Vs West Indies,West Indies,9,Keemo Paul,c Sharma b Kumar,20,21,0,2,95.23,2018
+India Vs West Indies,West Indies,10,Khary Pierre,c & b Bumrah,1,4,0,0,25.00,2018
+India Vs West Indies,West Indies,11,Oshane Thomas,,8,4,2,0,200.00,2018
+West Indies Vs India,West Indies,1,Shai Hope,run out (Rahul/Pandey),14,10,3,0,140.00,2018
+West Indies Vs India,West Indies,2,Denesh Ramdinâ€ ,c â€ Karthik b Yadav,2,5,0,0,40.00,2018
+West Indies Vs India,West Indies,3,Shimron Hetmyer,c â€ Karthik b Bumrah,10,7,2,0,142.85,2018
+West Indies Vs India,West Indies,4,Kieron Pollard,c Pandey b Pandya,14,26,0,1,53.84,2018
+West Indies Vs India,West Indies,5,Darren Bravo,c Dhawan b Kuldeep Yadav,5,10,0,0,50.00,2018
+West Indies Vs India,West Indies,6,Rovman Powell,c â€ Karthik b Kuldeep Yadav,4,13,0,0,30.76,2018
+West Indies Vs India,West Indies,7,Carlos Brathwaite(c),lbw b Kuldeep Yadav,4,11,0,0,36.36,2018
+West Indies Vs India,West Indies,8,Fabian Allen,c Yadav b Ahmed,27,20,4,0,135.00,2018
+West Indies Vs India,West Indies,9,Keemo Paul,,15,13,2,0,115.38,2018
+West Indies Vs India,West Indies,10,Khary Pierre,,9,5,2,0,180.00,2018
+West Indies Vs India,India,1,Rohit Sharma(c),c â€ Ramdin b Thomas,6,6,1,0,100.00,2018
+West Indies Vs India,India,2,Shikhar Dhawan, b Thomas,3,8,0,0,37.50,2018
+West Indies Vs India,India,3,KL Rahul,c Bravo b Brathwaite,16,22,2,0,72.72,2018
+West Indies Vs India,India,4,Rishabh Pant,c Bravo b Brathwaite,1,4,0,0,25.00,2018
+West Indies Vs India,India,5,Manish Pandey,c & b Pierre,19,24,2,0,79.16,2018
+West Indies Vs India,India,6,Dinesh Karthikâ€ ,,31,34,3,1,91.17,2018
+West Indies Vs India,India,7,Krunal Pandya,,21,9,3,0,233.33,2018
+England Vs India,England,1,Jason Roy,c â€ Dhoni b Chahar,67,31,4,7,216.12,2018
+England Vs India,England,2,Jos Buttlerâ€ , b Kaul,34,21,7,0,161.90,2018
+England Vs India,England,3,Alex Hales,c â€ Dhoni b Pandya,30,24,3,2,125.00,2018
+England Vs India,England,4,Eoin Morgan(c),c â€ Dhoni b Pandya,6,9,0,0,66.66,2018
+England Vs India,England,5,Ben Stokes,c Kohli b Pandya,14,10,2,0,140.00,2018
+England Vs India,England,6,Jonny Bairstow,c â€ Dhoni b Pandya,25,14,2,2,178.57,2018
+England Vs India,England,7,David Willey, b Yadav,1,2,0,0,50.00,2018
+England Vs India,England,8,Chris Jordan,run out (â€ Dhoni),3,3,0,0,100.00,2018
+England Vs India,England,9,Liam Plunkett,c â€ Dhoni b Kaul,9,4,0,1,225.00,2018
+England Vs India,England,10,Adil Rashid,,4,3,1,0,133.33,2018
+England Vs India,India,1,Rohit Sharma,,100,56,11,5,178.57,2018
+England Vs India,India,2,Shikhar Dhawan,c Ball b Willey,5,3,1,0,166.66,2018
+England Vs India,India,3,KL Rahul,c Jordan b Ball,19,10,1,2,190.00,2018
+England Vs India,India,4,Virat Kohli(c),c & b Jordan,43,29,2,2,148.27,2018
+England Vs India,India,5,Hardik Pandya,,33,14,4,2,235.71,2018
+India Vs England,India,1,Rohit Sharma,c Buttler b Ball,5,9,1,0,55.55,2018
+India Vs England,India,2,Shikhar Dhawan,run out (Roy/Morgan),10,12,1,0,83.33,2018
+India Vs England,India,3,KL Rahul, b Plunkett,6,8,0,0,75.00,2018
+India Vs England,India,4,Virat Kohli(c),c Root b Willey,47,38,1,2,123.68,2018
+India Vs England,India,5,Suresh Raina,st â€ Buttler b Rashid,27,20,2,1,135.00,2018
+India Vs England,India,6,MS Dhoniâ€ ,,32,24,5,0,133.33,2018
+India Vs England,India,7,Hardik Pandya,,12,10,0,1,120.00,2018
+India Vs England,England,1,Jason Roy, b Yadav,15,12,2,1,125.00,2018
+India Vs England,England,2,Jos Buttlerâ€ ,c Kohli b Yadav,14,12,3,0,116.66,2018
+India Vs England,England,3,Joe Root, b Chahal,9,10,0,0,90.00,2018
+India Vs England,England,4,Alex Hales,,58,41,4,3,141.46,2018
+India Vs England,England,5,Eoin Morgan(c),c Dhawan b Pandya,17,19,2,0,89.47,2018
+India Vs England,England,6,Jonny Bairstow,c Kuldeep Yadav b Kumar,28,18,0,2,155.55,2018
+India Vs England,England,7,David Willey,,3,6,0,0,50.00,2018
+England Vs India,England,1,Jason Roy, b Yadav,30,20,5,0,150.00,2018
+England Vs India,England,2,Jos Buttlerâ€ ,c Kohli b Kuldeep Yadav,69,46,8,2,150.00,2018
+England Vs India,England,3,Alex Hales, b Kuldeep Yadav,8,18,0,0,44.44,2018
+England Vs India,England,4,Eoin Morgan(c),c Kohli b Kuldeep Yadav,7,6,0,0,116.66,2018
+England Vs India,England,5,Jonny Bairstow,st â€ Dhoni b Kuldeep Yadav,0,1,0,0,0.00,2018
+England Vs India,England,6,Joe Root,st â€ Dhoni b Kuldeep Yadav,0,1,0,0,0.00,2018
+England Vs India,England,7,Moeen Ali,c Raina b Pandya,6,8,1,0,75.00,2018
+England Vs India,England,8,David Willey,,29,15,2,2,193.33,2018
+England Vs India,England,9,Chris Jordan,c & b Yadav,0,1,0,0,0.00,2018
+England Vs India,England,10,Liam Plunkett,,3,4,0,0,75.00,2018
+England Vs India,India,1,Shikhar Dhawan, b Willey,4,4,1,0,100.00,2018
+England Vs India,India,2,Rohit Sharma,c Morgan b Rashid,32,30,3,1,106.66,2018
+England Vs India,India,3,KL Rahul,,101,54,10,5,187.03,2018
+England Vs India,India,4,Virat Kohli(c),,20,22,0,1,90.90,2018
+India Vs Ireland,India,1,KL Rahul,c & b O'Brien,70,36,3,6,194.44,2018
+India Vs Ireland,India,2,Virat Kohli(c),c Dockrell b Chase,9,8,1,0,112.50,2018
+India Vs Ireland,India,3,Suresh Raina,c Dockrell b O'Brien,69,45,5,3,153.33,2018
+India Vs Ireland,India,4,Rohit Sharma,c Stirling b O'Brien,0,2,0,0,0.00,2018
+India Vs Ireland,India,5,Manish Pandey,,21,20,1,0,105.00,2018
+India Vs Ireland,India,6,Hardik Pandya,,32,9,1,4,355.55,2018
+India Vs Ireland,Ireland,1,Paul Stirling,c Raina b Yadav,0,2,0,0,0.00,2018
+India Vs Ireland,Ireland,2,James Shannon,c Rahul b Kaul,2,7,0,0,28.57,2018
+India Vs Ireland,Ireland,3,William Porterfield, b Yadav,14,11,1,1,127.27,2018
+India Vs Ireland,Ireland,4,Andy Balbirnie, b Chahal,9,7,1,0,128.57,2018
+India Vs Ireland,Ireland,5,Gary Wilson(c)â€ , b Kuldeep Yadav,15,18,2,0,83.33,2018
+India Vs Ireland,Ireland,6,Kevin O'Brien,c Kuldeep Yadav b Pandya,0,2,0,0,0.00,2018
+India Vs Ireland,Ireland,7,Simi Singh,lbw b Chahal,0,2,0,0,0.00,2018
+India Vs Ireland,Ireland,8,Stuart Thompson, b Chahal,13,9,2,0,144.44,2018
+India Vs Ireland,Ireland,9,George Dockrell,c Yadav b Kuldeep Yadav,4,8,0,0,50.00,2018
+India Vs Ireland,Ireland,10,Boyd Rankin,st â€ Karthik b Kuldeep Yadav,10,8,0,1,125.00,2018
+India Vs Ireland,Ireland,11,Peter Chase,,0,1,0,0,0.00,2018
+India Vs Ireland,India,1,Rohit Sharma, b Chase,97,61,8,5,159.01,2018
+India Vs Ireland,India,2,Shikhar Dhawan,c Thompson b O'Brien,74,45,5,5,164.44,2018
+India Vs Ireland,India,3,Suresh Raina,c O'Brien b Chase,10,6,2,0,166.66,2018
+India Vs Ireland,India,4,MS Dhoniâ€ ,c Thompson b Chase,11,5,1,1,220.00,2018
+India Vs Ireland,India,5,Hardik Pandya,,6,1,0,1,600.00,2018
+India Vs Ireland,India,6,Virat Kohli(c),c Thompson b Chase,0,2,0,0,0.00,2018
+India Vs Ireland,India,7,Manish Pandey,,0,0,0,0,-,2018
+India Vs Ireland,Ireland,1,Paul Stirling,c Kuldeep Yadav b Bumrah,1,3,0,0,33.33,2018
+India Vs Ireland,Ireland,2,James Shannon,lbw b Kuldeep Yadav,60,35,5,4,171.42,2018
+India Vs Ireland,Ireland,3,Andy Balbirnie,st â€ Dhoni b Chahal,11,14,1,0,78.57,2018
+India Vs Ireland,Ireland,4,Simi Singh,c Kohli b Kuldeep Yadav,7,10,1,0,70.00,2018
+India Vs Ireland,Ireland,5,Gary Wilson(c),st â€ Dhoni b Chahal,5,9,0,0,55.55,2018
+India Vs Ireland,Ireland,6,Kevin O'Brien,c Dhawan b Chahal,10,5,0,1,200.00,2018
+India Vs Ireland,Ireland,7,Stuart Thompson,c Pandya b Kuldeep Yadav,12,8,1,0,150.00,2018
+India Vs Ireland,Ireland,8,Stuart Poynterâ€ , b Kuldeep Yadav,7,9,0,0,77.77,2018
+India Vs Ireland,Ireland,9,George Dockrell, b Bumrah,9,6,0,1,150.00,2018
+India Vs Ireland,Ireland,10,Boyd Rankin,,5,13,0,0,38.46,2018
+India Vs Ireland,Ireland,11,Peter Chase,,2,8,0,0,25.00,2018
+Bangladesh Vs India,Bangladesh,1,Tamim Iqbal,c Thakur b Chahal,15,13,1,0,115.38,2018
+Bangladesh Vs India,Bangladesh,2,Litton Das,c Raina b Washington Sundar,11,9,0,1,122.22,2018
+Bangladesh Vs India,Bangladesh,3,Sabbir Rahman, b Unadkat,77,50,7,4,154.00,2018
+Bangladesh Vs India,Bangladesh,4,Soumya Sarkar,c Dhawan b Chahal,1,2,0,0,50.00,2018
+Bangladesh Vs India,Bangladesh,5,Mushfiqur Rahimâ€ ,c Shankar b Chahal,9,12,0,0,75.00,2018
+Bangladesh Vs India,Bangladesh,6,Mahmudullah,run out (â€ Karthik/Shankar),21,16,2,0,131.25,2018
+Bangladesh Vs India,Bangladesh,7,Shakib Al Hasan(c),run out (Rahul/Shankar),7,7,1,0,100.00,2018
+Bangladesh Vs India,Bangladesh,8,Mehidy Hasan Miraz,,19,7,2,1,271.42,2018
+Bangladesh Vs India,Bangladesh,9,Rubel Hossain, b Unadkat,0,1,0,0,0.00,2018
+Bangladesh Vs India,Bangladesh,10,Mustafizur Rahman,,0,3,0,0,0.00,2018
+Bangladesh Vs India,India,1,Shikhar Dhawan,c sub (Ariful Haque) b Shakib Al Hasan,10,7,0,1,142.85,2018
+Bangladesh Vs India,India,2,Rohit Sharma(c),c Mahmudullah b Nazmul Islam,56,42,4,3,133.33,2018
+Bangladesh Vs India,India,3,Suresh Raina,c â€ Mushfiqur Rahim b Rubel Hossain,0,3,0,0,0.00,2018
+Bangladesh Vs India,India,4,KL Rahul,c Sabbir Rahman b Rubel Hossain,24,14,2,1,171.42,2018
+Bangladesh Vs India,India,5,Manish Pandey,c Sabbir Rahman b Mustafizur Rahman,28,27,3,0,103.70,2018
+Bangladesh Vs India,India,6,Vijay Shankar,c Mehidy Hasan Miraz b Soumya Sarkar,17,19,3,0,89.47,2018
+Bangladesh Vs India,India,7,Dinesh Karthikâ€ ,,29,8,2,3,362.50,2018
+Bangladesh Vs India,India,8,Washington Sundar,,0,0,0,0,-,2018
+India Vs Bangladesh,India,1,Rohit Sharma(c),run out (Rubel Hossain),89,61,5,5,145.90,2018
+India Vs Bangladesh,India,2,Shikhar Dhawan, b Rubel Hossain,35,27,5,1,129.62,2018
+India Vs Bangladesh,India,3,Suresh Raina,c Soumya Sarkar b Rubel Hossain,47,30,5,2,156.66,2018
+India Vs Bangladesh,India,4,Dinesh Karthikâ€ ,,2,2,0,0,100.00,2018
+India Vs Bangladesh,Bangladesh,1,Tamim Iqbal, b Washington Sundar,27,19,4,1,142.10,2018
+India Vs Bangladesh,Bangladesh,2,Litton Das,st â€ Karthik b Washington Sundar,7,7,1,0,100.00,2018
+India Vs Bangladesh,Bangladesh,3,Soumya Sarkar, b Washington Sundar,1,3,0,0,33.33,2018
+India Vs Bangladesh,Bangladesh,4,Mushfiqur Rahimâ€ ,,72,55,8,1,130.90,2018
+India Vs Bangladesh,Bangladesh,5,Mahmudullah(c),c Rahul b Chahal,11,8,2,0,137.50,2018
+India Vs Bangladesh,Bangladesh,6,Sabbir Rahman, b Thakur,27,23,2,1,117.39,2018
+India Vs Bangladesh,Bangladesh,7,Mehidy Hasan Miraz,c Raina b Mohammed Siraj,7,6,1,0,116.66,2018
+India Vs Bangladesh,Bangladesh,8,Abu Hider,,0,0,0,0,-,2018
+Sri Lanka Vs India,Sri Lanka,1,Danushka Gunathilaka,c Raina b Thakur,17,8,0,1,212.50,2018
+Sri Lanka Vs India,Sri Lanka,2,Kusal Mendis,c Sharma b Chahal,55,38,3,3,144.73,2018
+Sri Lanka Vs India,Sri Lanka,3,Kusal Pereraâ€ , b Washington Sundar,3,4,0,0,75.00,2018
+Sri Lanka Vs India,Sri Lanka,4,Upul Tharanga, b Shankar,22,24,1,1,91.66,2018
+Sri Lanka Vs India,Sri Lanka,5,Thisara Perera(c),c Chahal b Thakur,15,6,0,2,250.00,2018
+Sri Lanka Vs India,Sri Lanka,6,Jeevan Mendis, b Washington Sundar,1,3,0,0,33.33,2018
+Sri Lanka Vs India,Sri Lanka,7,Dasun Shanaka,c â€ Karthik b Thakur,19,16,1,1,118.75,2018
+Sri Lanka Vs India,Sri Lanka,8,Akila Dananjaya,c Rahul b Unadkat,5,11,0,0,45.45,2018
+Sri Lanka Vs India,Sri Lanka,9,Suranga Lakmal,,5,4,1,0,125.00,2018
+Sri Lanka Vs India,Sri Lanka,10,Dushmantha Chameera,c Unadkat b Thakur,0,1,0,0,0.00,2018
+Sri Lanka Vs India,Sri Lanka,11,Nuwan Pradeep,,0,0,0,0,-,2018
+Sri Lanka Vs India,India,1,Rohit Sharma(c),c BKG Mendis b Dananjaya,11,7,1,1,157.14,2018
+Sri Lanka Vs India,India,2,Shikhar Dhawan,c NLTC Perera b Dananjaya,8,10,1,0,80.00,2018
+Sri Lanka Vs India,India,3,KL Rahul,hit wicket b BMAJ Mendis,18,17,1,0,105.88,2018
+Sri Lanka Vs India,India,4,Suresh Raina,c NLTC Perera b Pradeep,27,15,2,2,180.00,2018
+Sri Lanka Vs India,India,5,Manish Pandey,,42,31,3,1,135.48,2018
+Sri Lanka Vs India,India,6,Dinesh Karthikâ€ ,,39,25,5,0,156.00,2018
+Bangladesh Vs India,Bangladesh,1,Tamim Iqbal,c Unadkat b Thakur,15,16,2,0,93.75,2018
+Bangladesh Vs India,Bangladesh,2,Soumya Sarkar,c Chahal b Unadkat,14,12,1,1,116.66,2018
+Bangladesh Vs India,Bangladesh,3,Litton Das,c Raina b Chahal,34,30,3,0,113.33,2018
+Bangladesh Vs India,Bangladesh,4,Mushfiqur Rahimâ€ ,c â€ Karthik b Shankar,18,14,2,1,128.57,2018
+Bangladesh Vs India,Bangladesh,5,Mahmudullah(c),c Thakur b Shankar,1,8,0,0,12.50,2018
+Bangladesh Vs India,Bangladesh,6,Sabbir Rahman,c â€ Karthik b Unadkat,30,26,3,1,115.38,2018
+Bangladesh Vs India,Bangladesh,7,Mehidy Hasan Miraz,c Pandey b Unadkat,3,4,0,0,75.00,2018
+Bangladesh Vs India,Bangladesh,8,Taskin Ahmed,,8,9,1,0,88.88,2018
+Bangladesh Vs India,Bangladesh,9,Rubel Hossain,run out (Raina/Thakur),0,1,0,0,0.00,2018
+Bangladesh Vs India,Bangladesh,10,Mustafizur Rahman,,1,2,0,0,50.00,2018
+Bangladesh Vs India,India,1,Rohit Sharma(c), b Mustafizur Rahman,17,13,3,0,130.76,2018
+Bangladesh Vs India,India,2,Shikhar Dhawan,c Litton Das b Taskin Ahmed,55,43,5,2,127.90,2018
+Bangladesh Vs India,India,3,Rishabh Pant, b Rubel Hossain,7,8,1,0,87.50,2018
+Bangladesh Vs India,India,4,Suresh Raina,c Mehidy Hasan Miraz b Rubel Hossain,28,27,1,1,103.70,2018
+Bangladesh Vs India,India,5,Manish Pandey,,27,19,3,0,142.10,2018
+Bangladesh Vs India,India,6,Dinesh Karthikâ€ ,,2,2,0,0,100.00,2018
+India Vs Sri Lanka,India,1,Rohit Sharma(c),c BMAJ Mendis b Chameera,0,4,0,0,0.00,2018
+India Vs Sri Lanka,India,2,Shikhar Dhawan,c NLTC Perera b Gunathilaka,90,49,6,6,183.67,2018
+India Vs Sri Lanka,India,3,Suresh Raina, b Pradeep,1,3,0,0,33.33,2018
+India Vs Sri Lanka,India,4,Manish Pandey,c Gunathilaka b BMAJ Mendis,37,35,3,1,105.71,2018
+India Vs Sri Lanka,India,5,Rishabh Pant,c Pradeep b Chameera,23,23,1,1,100.00,2018
+India Vs Sri Lanka,India,6,Dinesh Karthikâ€ ,,13,6,2,0,216.66,2018
+India Vs Sri Lanka,Sri Lanka,1,Danushka Gunathilaka,c Pant b Unadkat,19,12,1,2,158.33,2018
+India Vs Sri Lanka,Sri Lanka,2,Kusal Mendis,c Dhawan b Washington Sundar,11,6,2,0,183.33,2018
+India Vs Sri Lanka,Sri Lanka,3,Kusal Perera,st â€ Karthik b Washington Sundar,66,37,6,4,178.37,2018
+India Vs Sri Lanka,Sri Lanka,4,Dinesh Chandimal(c)â€ , b Chahal,14,11,1,0,127.27,2018
+India Vs Sri Lanka,Sri Lanka,5,Upul Tharanga, b Chahal,17,18,0,1,94.44,2018
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka,,15,18,1,0,83.33,2018
+India Vs Sri Lanka,Sri Lanka,7,Thisara Perera,,22,10,2,1,220.00,2018
+India Vs South Africa,India,1,Rohit Sharma(c),lbw b Dala,11,8,2,0,137.50,2018
+India Vs South Africa,India,2,Shikhar Dhawan,run out (Dala),47,40,3,0,117.50,2018
+India Vs South Africa,India,3,Suresh Raina,c Behardien b Shamsi,43,27,5,1,159.25,2018
+India Vs South Africa,India,4,Manish Pandey,c Miller b Dala,13,10,0,1,130.00,2018
+India Vs South Africa,India,5,Hardik Pandya,c â€ Klaasen b Morris,21,17,0,1,123.52,2018
+India Vs South Africa,India,6,MS Dhoniâ€ ,c Miller b Dala,12,11,1,0,109.09,2018
+India Vs South Africa,India,7,Dinesh Karthik,lbw b Morris,13,6,3,0,216.66,2018
+India Vs South Africa,India,8,Axar Patel,,1,1,0,0,100.00,2018
+India Vs South Africa,India,9,Bhuvneshwar Kumar,,3,1,0,0,300.00,2018
+India Vs South Africa,South Africa,1,Reeza Hendricks,c Dhawan b Kumar,7,13,1,0,53.84,2018
+India Vs South Africa,South Africa,2,David Miller,c Patel b Raina,24,23,2,1,104.34,2018
+India Vs South Africa,South Africa,3,Jean-Paul Duminy(c),c Sharma b Thakur,55,41,2,3,134.14,2018
+India Vs South Africa,South Africa,4,Heinrich Klaasenâ€ ,c Kumar b Pandya,7,10,0,0,70.00,2018
+India Vs South Africa,South Africa,5,Christiaan Jonker,c Sharma b Kumar,49,24,5,2,204.16,2018
+India Vs South Africa,South Africa,6,Chris Morris, b Bumrah,4,3,1,0,133.33,2018
+India Vs South Africa,South Africa,7,Farhaan Behardien,,15,6,3,0,250.00,2018
+India Vs South Africa,India,1,Shikhar Dhawan,c Behardien b Duminy,24,14,3,2,171.42,2018
+India Vs South Africa,India,2,Rohit Sharma,lbw b Dala,0,1,0,0,0.00,2018
+India Vs South Africa,India,3,Suresh Raina,lbw b Phehlukwayo,31,24,5,0,129.16,2018
+India Vs South Africa,India,4,Virat Kohli(c),c â€ Klaasen b Dala,1,5,0,0,20.00,2018
+India Vs South Africa,India,5,Manish Pandey,,79,48,6,3,164.58,2018
+India Vs South Africa,India,6,MS Dhoniâ€ ,,52,28,4,3,185.71,2018
+India Vs South Africa,South Africa,1,Reeza Hendricks,c Pandya b Thakur,26,17,5,0,152.94,2018
+India Vs South Africa,South Africa,2,JJ Smuts,c Raina b Unadkat,2,9,0,0,22.22,2018
+India Vs South Africa,South Africa,3,Jean-Paul Duminy(c),,64,40,4,3,160.00,2018
+India Vs South Africa,South Africa,4,Heinrich Klaasenâ€ ,c â€ Dhoni b Unadkat,69,30,3,7,230.00,2018
+India Vs South Africa,South Africa,5,David Miller,c Thakur b Pandya,5,6,0,0,83.33,2018
+India Vs South Africa,South Africa,6,Farhaan Behardien,,16,10,0,1,160.00,2018
+India Vs South Africa,India,1,Rohit Sharma,c â€ Klaasen b Dala,21,9,2,2,233.33,2018
+India Vs South Africa,India,2,Shikhar Dhawan,c â€ Klaasen b Phehlukwayo,72,39,10,2,184.61,2018
+India Vs South Africa,India,3,Suresh Raina,c & b Dala,15,7,2,1,214.28,2018
+India Vs South Africa,India,4,Virat Kohli(c),lbw b Shamsi,26,20,2,1,130.00,2018
+India Vs South Africa,India,5,Manish Pandey,,29,27,0,1,107.40,2018
+India Vs South Africa,India,6,MS Dhoniâ€ , b Morris,16,11,2,0,145.45,2018
+India Vs South Africa,India,7,Hardik Pandya,,13,7,2,0,185.71,2018
+India Vs South Africa,South Africa,1,JJ Smuts,c Dhawan b Kumar,14,9,3,0,155.55,2018
+India Vs South Africa,South Africa,2,Reeza Hendricks,c â€ Dhoni b Kumar,70,50,8,1,140.00,2018
+India Vs South Africa,South Africa,3,Jean-Paul Duminy(c),c Raina b Kumar,3,7,0,0,42.85,2018
+India Vs South Africa,South Africa,4,David Miller,c Dhawan b Pandya,9,5,0,1,180.00,2018
+India Vs South Africa,South Africa,5,Farhaan Behardien,c Pandey b Chahal,39,27,3,2,144.44,2018
+India Vs South Africa,South Africa,6,Heinrich Klaasenâ€ ,c Raina b Kumar,16,8,1,1,200.00,2018
+India Vs South Africa,South Africa,7,Andile Phehlukwayo,c Chahal b Unadkat,13,8,2,0,162.50,2018
+India Vs South Africa,South Africa,8,Chris Morris,c Raina b Kumar,0,1,0,0,0.00,2018
+India Vs South Africa,South Africa,9,Dane Paterson,run out (Pandya/â€ Dhoni),1,1,0,0,100.00,2018
+India Vs South Africa,South Africa,10,Junior Dala,,2,3,0,0,66.66,2018
+India Vs South Africa,South Africa,11,Tabraiz Shamsi,,0,2,0,0,0.00,2018

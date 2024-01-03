@@ -1,0 +1,205 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "South Africa",
+        "team2": "India",
+        "winner": "South Africa",
+        "margin": "5 wickets",
+        "ground": "Gqeberha",
+        "matchDate": "Dec 12, 2023",
+        "scorecard": "T20I # 2396"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "India",
+        "margin": "6 runs",
+        "ground": "Bengaluru",
+        "matchDate": "Dec 3, 2023",
+        "scorecard": "T20I # 2380"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "India",
+        "margin": "20 runs",
+        "ground": "Raipur",
+        "matchDate": "Dec 1, 2023",
+        "scorecard": "T20I # 2379"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "5 wickets",
+        "ground": "Guwahati",
+        "matchDate": "Nov 28, 2023",
+        "scorecard": "T20I # 2372"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "India",
+        "margin": "44 runs",
+        "ground": "Thiruvananthapuram",
+        "matchDate": "Nov 26, 2023",
+        "scorecard": "T20I # 2367"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "India",
+        "margin": "2 wickets",
+        "ground": "Visakhapatnam",
+        "matchDate": "Nov 23, 2023",
+        "scorecard": "T20I # 2360"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "India",
+        "winner": "no result",
+        "margin": "-",
+        "ground": "Hangzhou",
+        "matchDate": "Oct 7, 2023",
+        "scorecard": "T20I # 2301"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "9 wickets",
+        "ground": "Hangzhou",
+        "matchDate": "Oct 6, 2023",
+        "scorecard": "T20I # 2296"
+      },
+      {
+        "team1": "India",
+        "team2": "Nepal",
+        "winner": "India",
+        "margin": "23 runs",
+        "ground": "Hangzhou",
+        "matchDate": "Oct 3, 2023",
+        "scorecard": "T20I # 2278"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "India",
+        "winner": "India",
+        "margin": "33 runs",
+        "ground": "Dublin (Malahide)",
+        "matchDate": "Aug 20, 2023",
+        "scorecard": "T20I # 2208"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "India",
+        "winner": "India",
+        "margin": "2 runs",
+        "ground": "Dublin (Malahide)",
+        "matchDate": "Aug 18, 2023",
+        "scorecard": "T20I # 2200"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "8 wickets",
+        "ground": "Lauderhill",
+        "matchDate": "Aug 13, 2023",
+        "scorecard": "T20I # 2194"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "9 wickets",
+        "ground": "Lauderhill",
+        "matchDate": "Aug 12, 2023",
+        "scorecard": "T20I # 2193"
+      },
+      {
+        "team1": "West Indies",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Providence",
+        "matchDate": "Aug 8, 2023",
+        "scorecard": "T20I # 2192"
+      },
+      {
+        "team1": "West Indies",
+        "team2": "India",
+        "winner": "West Indies",
+        "margin": "2 wickets",
+        "ground": "Providence",
+        "matchDate": "Aug 6, 2023",
+        "scorecard": "T20I # 2191"
+      },
+      {
+        "team1": "West Indies",
+        "team2": "India",
+        "winner": "West Indies",
+        "margin": "4 runs",
+        "ground": "Tarouba",
+        "matchDate": "Aug 3, 2023",
+        "scorecard": "T20I # 2188"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "India",
+        "margin": "168 runs",
+        "ground": "Ahmedabad",
+        "matchDate": "Feb 1, 2023",
+        "scorecard": "T20I # 1992"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Lucknow",
+        "matchDate": "Jan 29, 2023",
+        "scorecard": "T20I # 1991"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "margin": "21 runs",
+        "ground": "Ranchi",
+        "matchDate": "Jan 27, 2023",
+        "scorecard": "T20I # 1990"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "margin": "91 runs",
+        "ground": "Rajkot",
+        "matchDate": "Jan 7, 2023",
+        "scorecard": "T20I # 1986"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "16 runs",
+        "ground": "Pune",
+        "matchDate": "Jan 5, 2023",
+        "scorecard": "T20I # 1985"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "margin": "2 runs",
+        "ground": "Wankhede",
+        "matchDate": "Jan 3, 2023",
+        "scorecard": "T20I # 1984"
+      }
+    ],
+    "input": {}
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "India",
+        "margin": "73 runs",
+        "ground": "Eden Gardens",
+        "matchDate": "Nov 21, 2021",
+        "scorecard": "T20I # 1446"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Ranchi",
+        "matchDate": "Nov 19, 2021",
+        "scorecard": "T20I # 1440"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "India",
+        "margin": "5 wickets",
+        "ground": "Jaipur",
+        "matchDate": "Nov 17, 2021",
+        "scorecard": "T20I # 1434"
+      },
+      {
+        "team1": "India",
+        "team2": "Namibia",
+        "winner": "India",
+        "margin": "9 wickets",
+        "ground": "Dubai (DSC)",
+        "matchDate": "Nov 8, 2021",
+        "scorecard": "T20I # 1410"
+      },
+      {
+        "team1": "India",
+        "team2": "Scotland",
+        "winner": "India",
+        "margin": "8 wickets",
+        "ground": "Dubai (DSC)",
+        "matchDate": "Nov 5, 2021",
+        "scorecard": "T20I # 1396"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "India",
+        "winner": "India",
+        "margin": "66 runs",
+        "ground": "Abu Dhabi",
+        "matchDate": "Nov 3, 2021",
+        "scorecard": "T20I # 1390"
+      },
+      {
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "margin": "8 wickets",
+        "ground": "Dubai (DSC)",
+        "matchDate": "Oct 31, 2021",
+        "scorecard": "T20I # 1381"
+      },
+      {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "10 wickets",
+        "ground": "Dubai (DSC)",
+        "matchDate": "Oct 24, 2021",
+        "scorecard": "T20I # 1361"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "India",
+        "winner": "Sri Lanka",
+        "margin": "7 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Jul 29, 2021",
+        "scorecard": "T20I # 1207"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "India",
+        "winner": "Sri Lanka",
+        "margin": "4 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Jul 28, 2021",
+        "scorecard": "T20I # 1206"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "India",
+        "winner": "India",
+        "margin": "38 runs",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Jul 25, 2021",
+        "scorecard": "T20I # 1204"
+      },
+      {
+        "team1": "India",
+        "team2": "England",
+        "winner": "India",
+        "margin": "36 runs",
+        "ground": "Ahmedabad",
+        "matchDate": "Mar 20, 2021",
+        "scorecard": "T20I # 1138"
+      },
+      {
+        "team1": "India",
+        "team2": "England",
+        "winner": "India",
+        "margin": "8 runs",
+        "ground": "Ahmedabad",
+        "matchDate": "Mar 18, 2021",
+        "scorecard": "T20I # 1135"
+      },
+      {
+        "team1": "India",
+        "team2": "England",
+        "winner": "England",
+        "margin": "8 wickets",
+        "ground": "Ahmedabad",
+        "matchDate": "Mar 16, 2021",
+        "scorecard": "T20I # 1133"
+      },
+      {
+        "team1": "India",
+        "team2": "England",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Ahmedabad",
+        "matchDate": "Mar 14, 2021",
+        "scorecard": "T20I # 1132"
+      },
+      {
+        "team1": "India",
+        "team2": "England",
+        "winner": "England",
+        "margin": "8 wickets",
+        "ground": "Ahmedabad",
+        "matchDate": "Mar 12, 2021",
+        "scorecard": "T20I # 1131"
+      }
+    ],
+    "input": {}
+  }
+]

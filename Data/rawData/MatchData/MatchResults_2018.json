@@ -1,0 +1,178 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Sydney",
+        "matchDate": "Nov 25, 2018",
+        "scorecard": "T20I # 714"
+      },
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "no result",
+        "margin": "-",
+        "ground": "Melbourne",
+        "matchDate": "Nov 23, 2018",
+        "scorecard": "T20I # 713"
+      },
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "Australia",
+        "margin": "4 runs",
+        "ground": "Brisbane",
+        "matchDate": "Nov 21, 2018",
+        "scorecard": "T20I # 712"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Chennai",
+        "matchDate": "Nov 11, 2018",
+        "scorecard": "T20I # 710"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "71 runs",
+        "ground": "Lucknow",
+        "matchDate": "Nov 6, 2018",
+        "scorecard": "T20I # 709"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "5 wickets",
+        "ground": "Eden Gardens",
+        "matchDate": "Nov 4, 2018",
+        "scorecard": "T20I # 707"
+      },
+      {
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Bristol",
+        "matchDate": "Jul 8, 2018",
+        "scorecard": "T20I # 690"
+      },
+      {
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "margin": "5 wickets",
+        "ground": "Cardiff",
+        "matchDate": "Jul 6, 2018",
+        "scorecard": "T20I # 688"
+      },
+      {
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "margin": "8 wickets",
+        "ground": "Manchester",
+        "matchDate": "Jul 3, 2018",
+        "scorecard": "T20I # 684"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "India",
+        "winner": "India",
+        "margin": "143 runs",
+        "ground": "Dublin (Malahide)",
+        "matchDate": "Jun 29, 2018",
+        "scorecard": "T20I # 680"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "India",
+        "winner": "India",
+        "margin": "76 runs",
+        "ground": "Dublin (Malahide)",
+        "matchDate": "Jun 27, 2018",
+        "scorecard": "T20I # 678"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "4 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Mar 18, 2018",
+        "scorecard": "T20I # 662"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "17 runs",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Mar 14, 2018",
+        "scorecard": "T20I # 660"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "India",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Mar 12, 2018",
+        "scorecard": "T20I # 659"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Mar 8, 2018",
+        "scorecard": "T20I # 657"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "India",
+        "winner": "Sri Lanka",
+        "margin": "5 wickets",
+        "ground": "Colombo (RPS)",
+        "matchDate": "Mar 6, 2018",
+        "scorecard": "T20I # 656"
+      },
+      {
+        "team1": "South Africa",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 24, 2018",
+        "scorecard": "T20I # 655"
+      },
+      {
+        "team1": "South Africa",
+        "team2": "India",
+        "winner": "South Africa",
+        "margin": "6 wickets",
+        "ground": "Centurion",
+        "matchDate": "Feb 21, 2018",
+        "scorecard": "T20I # 654"
+      },
+      {
+        "team1": "South Africa",
+        "team2": "India",
+        "winner": "India",
+        "margin": "28 runs",
+        "ground": "Johannesburg",
+        "matchDate": "Feb 18, 2018",
+        "scorecard": "T20I # 652"
+      }
+    ],
+    "input": {}
+  }
+]

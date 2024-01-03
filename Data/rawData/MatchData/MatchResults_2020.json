@@ -1,0 +1,106 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "Australia",
+        "margin": "12 runs",
+        "ground": "Sydney",
+        "matchDate": "Dec 8, 2020",
+        "scorecard": "T20I # 1116"
+      },
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Sydney",
+        "matchDate": "Dec 6, 2020",
+        "scorecard": "T20I # 1115"
+      },
+      {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "margin": "11 runs",
+        "ground": "Canberra",
+        "matchDate": "Dec 4, 2020",
+        "scorecard": "T20I # 1114"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 runs",
+        "ground": "Mount Maunganui",
+        "matchDate": "Feb 2, 2020",
+        "scorecard": "T20I # 1037"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "tied",
+        "margin": "-",
+        "ground": "Wellington",
+        "matchDate": "Jan 31, 2020",
+        "scorecard": "T20I # 1036"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "tied",
+        "margin": "-",
+        "ground": "Hamilton",
+        "matchDate": "Jan 29, 2020",
+        "scorecard": "T20I # 1035"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Auckland",
+        "matchDate": "Jan 26, 2020",
+        "scorecard": "T20I # 1034"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Auckland",
+        "matchDate": "Jan 24, 2020",
+        "scorecard": "T20I # 1031"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "margin": "78 runs",
+        "ground": "Pune",
+        "matchDate": "Jan 10, 2020",
+        "scorecard": "T20I # 1027"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Indore",
+        "matchDate": "Jan 7, 2020",
+        "scorecard": "T20I # 1026"
+      },
+      {
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "no result",
+        "margin": "-",
+        "ground": "Guwahati",
+        "matchDate": "Jan 5, 2020",
+        "scorecard": "T20I # 1025"
+      }
+    ],
+    "input": {}
+  }
+]

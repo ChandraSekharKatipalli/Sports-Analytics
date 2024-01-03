@@ -1,0 +1,151 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "67 runs",
+        "ground": "Wankhede",
+        "matchDate": "Dec 11, 2019",
+        "scorecard": "T20I # 1024"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "8 wickets",
+        "ground": "Thiruvananthapuram",
+        "matchDate": "Dec 8, 2019",
+        "scorecard": "T20I # 1022"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "6 wickets",
+        "ground": "Hyderabad",
+        "matchDate": "Dec 6, 2019",
+        "scorecard": "T20I # 1020"
+      },
+      {
+        "team1": "India",
+        "team2": "Bangladesh",
+        "winner": "India",
+        "margin": "30 runs",
+        "ground": "Nagpur",
+        "matchDate": "Nov 10, 2019",
+        "scorecard": "T20I # 1014"
+      },
+      {
+        "team1": "India",
+        "team2": "Bangladesh",
+        "winner": "India",
+        "margin": "8 wickets",
+        "ground": "Rajkot",
+        "matchDate": "Nov 7, 2019",
+        "scorecard": "T20I # 1007"
+      },
+      {
+        "team1": "India",
+        "team2": "Bangladesh",
+        "winner": "Bangladesh",
+        "margin": "7 wickets",
+        "ground": "Delhi",
+        "matchDate": "Nov 3, 2019",
+        "scorecard": "T20I # 1000"
+      },
+      {
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "9 wickets",
+        "ground": "Bengaluru",
+        "matchDate": "Sep 22, 2019",
+        "scorecard": "T20I # 893"
+      },
+      {
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Mohali",
+        "matchDate": "Sep 18, 2019",
+        "scorecard": "T20I # 888"
+      },
+      {
+        "team1": "West Indies",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Providence",
+        "matchDate": "Aug 6, 2019",
+        "scorecard": "T20I # 846"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "22 runs",
+        "ground": "Lauderhill",
+        "matchDate": "Aug 4, 2019",
+        "scorecard": "T20I # 843"
+      },
+      {
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "margin": "4 wickets",
+        "ground": "Lauderhill",
+        "matchDate": "Aug 3, 2019",
+        "scorecard": "T20I # 842"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "7 wickets",
+        "ground": "Bengaluru",
+        "matchDate": "Feb 27, 2019",
+        "scorecard": "T20I # 749"
+      },
+      {
+        "team1": "India",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "3 wickets",
+        "ground": "Visakhapatnam",
+        "matchDate": "Feb 24, 2019",
+        "scorecard": "T20I # 748"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "New Zealand",
+        "margin": "4 runs",
+        "ground": "Hamilton",
+        "matchDate": "Feb 10, 2019",
+        "scorecard": "T20I # 738"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "Auckland",
+        "matchDate": "Feb 8, 2019",
+        "scorecard": "T20I # 737"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "India",
+        "winner": "New Zealand",
+        "margin": "80 runs",
+        "ground": "Wellington",
+        "matchDate": "Feb 6, 2019",
+        "scorecard": "T20I # 735"
+      }
+    ],
+    "input": {}
+  }
+]
